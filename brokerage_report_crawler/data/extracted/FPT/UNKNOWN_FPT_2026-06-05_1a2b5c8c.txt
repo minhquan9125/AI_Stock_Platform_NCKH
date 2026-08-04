@@ -1,0 +1,1650 @@
+ASEANSC Research | Q2/2026
+CTCP FPT (HOSE: FPT)
+TỪ DOANH NGHIỆP DỊCH VỤ CNTT TOÀN CẦU ĐẾN NỀN TẢNG AI & CÔNG NGHỆ GIÁ TRỊ 
+CAO
+KHUYẾN NGHỊ: KHẢ QUAN [+23%]
+BÁO CÁO PHÂN TÍCH
+1
+
+Thông tin cơ bản (02/06/2026)
+Sàn giao dịch:
+HOSE
+Giá thị trường:
+74.800
+EPS:
+5.688
+P/E:
+13,x
+Giá trị sổ sách (tỷ đồng)
+21.418
+P/B:
+3,1x
+KLGD TB 10 phiên:
+11.361.090
+KLCP đang lưu hành:
+1.703.507.121
+Vốn hóa (tỷ đồng):
+125.548
+TÓM TẮT
+Luận điểm đầu tư:
+FPT không còn đơn thuần là câu chuyện tăng trưởng nhân sựtrong dịch vụCNTT, mà đang chuyển sang mô hình
+tăng trưởng dựa trên nền tảng công nghệvà AI. Với AI Factory, GPU Cloud và hệsinh thái Made-by-FPT, FPT có cơ hội
+nâng cấp vịthếtrong chuỗi giá trịtoàn cầu. Trên cùng phương pháp hợp nhất, chúng tôi dựphóng doanh thu/LNST 2026 đạt
+55.991/9.767 tỷđồng, tương ứng tăng 10,6%/12,1% YoY. Cụ thể:
+➢Mảng dịch vụCNTT nước ngoài tiếp tục là chìa khóa tăng trưởng. Doanh thu 2026 dựbáo đạt 39.725 tỷđồng (+12,3%
+YoY), dẫn dắt bởi:
+•
+Nhu cầu chuyển đổi số/AI tại Nhật Bản (dự báo +18,8% YoY) và xu hướng tăng chi tiêu hạtầng AI toàn cầu (Trung tâm dữ 
+liệu dự báo tăng 31,7% YoY).
+•
+Chiến lược “AI-First” cùng AI Factory/GPU Cloud giúp FPT từng bước dịch chuyển từmô hình tăng trưởng dựa trên nhân
+sựsang nền tảng, trong khi doanh thu AI & Data tăng 40% năm 2025 và 8 hợp đồng trên 10 triệu USD trong Q1/2026 cho
+thấy năng lực chinh phục dựán giá trịcao đang cải thiện. Đây là catalyst cho khảnăng re-rating nếu tỷtrọng doanh thu
+AI/platform và biên lợi nhuận tiếp tục tăng.
+➢Mảng dịch vụ CNTT trong nước hưởng lợi từlàn sóng chuyển đổi sốquốc gia. Doanh thu dựbáo đạt 10.382 tỷđồng
+(+14,2% YoY), nhờhệsinh thái Made-by-FPT đạt doanh thu 599 tỷđồng (+13,9%), khai thác tốt làn sóng CĐS quốc gia và
+Nghịquyết 57-NQ/TW. Sản phẩm Made-by-FPT có tính chất bản quyền (license-based) giúp cải thiện biên lợi nhuận và xây
+dựng rào cản rời bỏ(switching cost) vững chắc cho khách hàng.
+➢Mảng giáo dục không phải là động lực tăng trưởng chính, nhưng củng cốlợi thếnhân lực AI dài hạn. Dựbáo doanh
+thu đạt 5.884 tỷđồng (-4,0% YoY). Mặc dù quy mô học viên dựkiến đạt khoảng 165.000 trong năm 2026, tăng trưởng
+doanh thu có thểchịu áp lực do cạnh tranh gia tăng từcác trường đại học công lập trong lĩnh vực CNTT. Tuy nhiên, mảng
+Giáo dục vẫn giữvai trò chiến lược đối với FPT khi cung cấp nguồn nhân lực công nghệ/AI quy mô lớn, hỗtrợlợi thếchi
+phí dài hạn và tạo dòng tiền trảtrước tương đối ổn định cho hệsinh thái.
+➢Sức khỏe tài chính vững mạnh. FPT sởhữu 26.745 tỷđồng tiền và tiền gửi (~39% tổng tài sản) cùng tỷlệD/E lý tưởng
+0,4. Cấu trúc này cho phép tập đoàn linh hoạt M&A toàn cầu và duy trì cổtức tiền mặt đều đặn, giảm thiểu rủi ro cho nhà
+đầu tư.
+Nguồn: Tradingview, Aseansc research
+Biến động giá cổ phiếu trong vòng 1 năm
+Khuyến nghị đầu tư:
+Chúng tôi khuyến nghị KHẢ QUAN đối với cơ hội đầu tư cổ phiếu FPT với giá mục tiêu ở mức 91.800 đồng/cổ phiếu 
+(+23% so với giá thị trường), tầm nhìn đầu tư 1 năm. 
+Yếu tố theo dõi:
+➢Biến động tỷgiá (JPY/VND)
+➢Tiến độgiải ngân các dựán AI
+
+MỤC LỤC
+3
+I I. TỔNG QUAN
+1.
+Giới thiệu    
+2.
+Cơ cấu cổ đông
+3.
+Cơ cấu sở hữu
+4.
+Mô hình kinh doanh
+5.
+SWOT
+4
+II. HOẠT ĐỘNG KINH DOANH
+1.
+Doanh thu duy trì đà tăng trưởng tích cực, động lực chính từ Khối Công nghệ
+2.
+Lợi nhuận cải thiện trên cùng cơ sở so sánh, nhưng chất lượng tăng trưởng cần tiếp tục kiểm 
+chứng
+IV. DỰ PHÓNG KẾT QUẢ KINH DOANH VÀ ĐỊNH GIÁ
+III. TRIỂN VỌNG KINH DOANH
+1.
+Mảng dịch vụ CNTT nước ngoài tiếp tục là chìa khóa tăng trưởng
+2.
+Mảng dịch vụ CNTT trong nước hưởng lợi từ làn sóng chuyển đổi số quốc gia
+3.
+Mảng giáo dục không phải là động lực tăng trưởng chính, nhưng củng cố lợi thế nhân lực AI dài hạn
+4.
+Sức khỏe tài chính vững mạnh
+1.
+Tóm tắt các giả định chính trong dự phóng KQKD 2026
+2.
+Kết quả định giá
+Nguồn: FPT, Aseansc tổng hợp
+
+1.
+Giới thiệu 
+I. TỔNG QUAN
+➢FPT là tập đoàn công nghệvà dịch vụCNTT toàn cầu, tiên phong cung cấp dịch vụ, sản phẩm, giải
+pháp dựa trên những công nghệlõi như: AI, điện toán đám mây, dữliệu và tựđộng hóa. FPT không ngừng
+mởrộng quy mô với 54.110 CBNV và hiện diện tại hơn 30 quốc gia, vùng lãnh thổ. Tập đoàn cũng tiếp tục
+khẳng định vịthếtrên bản đồcông nghệthếgiới khi đứng trong Top 40 Công ty Dịch vụCNTT châu Á.
+➢Trong suốt 38 năm qua, FPT luôn khẳng định vịthếtiên phong, dẫn đầu trong các lĩnh vực Công nghệ, Viễn
+thông và Giáo dục. Đón đầu xu hướng công nghệ, thịtrường, FPT tạo dựng Hệsinh thái dịch vụ, sản phẩm,
+giải pháp, nền tảng Made by FPT thúc đẩy phát triển, tăng trưởng bền vững của các tổchức, doanh nghiệp
+cũng như mang đến những trải nghiệm mới, khác biệt cho người dùng.
+Logo công ty
+50%
+22%
+12%
+5%
+12%
+Doanh thu theo khu vực địa lý
+Việt Nam
+Nhật Bản
+US
+EU
+APAC
+34 Tỉnh thành tại Việt Nam
+30+ Quốc gia và vùng lãnh thổ
+4 Châu lục
+Nguồn: FPT, Aseansc Research
+4
+
+1.
+Giới thiệu
+I. TỔNG QUAN
+5
+Lịch sử hình thành và phát triển
+2024
+Hợp tác toàn diện với NVIDIA 
+xây dựng 02 nhà máy AI tại 
+Việt Nam, Nhật Bản và trở 
+thành đối tác phát triển dịch 
+vụ của NVIDIA.
+1988
+Công ty Công nghệThực
+phẩm,
+tiền
+thân
+của
+FPT,
+được thành lập
+2005
+Trởthành công ty CNTT Việt
+Nam đầu tiên thành lập pháp
+nhân tại Nhật Bản
+2017
+Ra mắt nền tảng FPT.AI – 
+Nền tảng trí tuệ nhân tạo 
+toàn diện
+1990
+Đổi tên thành Công ty Phát
+triển Đầu tư Công nghệFPT
+1999
+Tiến ra thịtrường nước ngoài
+với hướng đi chiến lược là
+xuất khẩu phần mềm
+2002
+Chính thức chuyển đổi thành
+CTCP
+Phát
+triển
+Đầu
+tư
+Công nghệFPT
+2006
+Trường Đại học FPT được
+thành lập
+Niêm yết trên sàn HOSE (Mã
+cổphiếu: FPT) với giá niêm
+yết là 160.000 đồng/cp.
+2008
+Đổi tên thành CTCP FPT
+2014
+Tiến hành thương vụM&A
+đầu tiên trong lĩnh vực CNTT
+của Việt Nam tại thịtrường
+nước ngoài
+2022
+Thành lập công ty FPT 
+Semiconductor và ra mắt chip 
+bán dẫn đầu tiên của Việt 
+Nam
+2025
+Top 40 Công ty Dịch vụ 
+CNTT châu Á
+Nguồn: FPT, Aseansc Research
+
+6
+I. TỔNG QUAN
+2. Cơ cấu cổ đông 
+➢Ông Trương Gia Bình (chủtịch HĐQT) là cổđông lớn nhất của FPT, nắm giữ6,94% cổphiếu. Ngoài ra, Tổng Công ty Đầu tư và Kinh doanh vốn Nhà
+nước (SCIC) hiện đang sởhữu 5,71% và đã có kếhoạch thoái toàn bộvốn tại FPT trong thời gian tới.
+➢Nhóm nhà đầu tư nước ngoài sởhữu 38,73%, phân tán và có xu hướng biến động theo chu kỳthịtrường
+Nguồn: FPT, Aseansc Research
+6.9% 5.7%
+87.4%
+Cổ đông lớn
+Trương Gia Bình
+SCIC
+Khác
+5.7%
+16.1%
+39.6%
+38.7%
+Cơ cấu cổ đông
+Nhà nước
+Cổ đông nội bộ
+Cổ đông ngoài trong 
+nước
+Cổ đông nước ngoài
+
+7
+3. Cơ cấu sở hữu
+I. TỔNG QUAN
+Nguồn: FPT, Aseansc Research
+➢Tính đến cuối Q1/2026, FPT sởhữu 7 công ty con và 4 công ty liên kết trực tiếp.
+➢Từngày 11/11/2025, quyền đại diện 50,16% cổphần sởhữu vốn Nhà nước tại Công ty Cổphần Viễn thông FPT (FPT Telecom) đã được chuyển giao từTổng
+Công ty Đầu tư và Kinh doanh vốn nhà nước (SCIC) sang cho BộCông an. Do đó, FPT sẽthay đổi phương pháp hợp nhất báo cáo tài chính của FPT Telecom
+từhợp nhất theo phương pháp hợp nhất toàn bộáp dụng cho công ty con sang hợp nhất theo phương pháp vốn chủsởhữu áp dụng cho công ty liên doanh,
+liên kết theo chính sách kếtoán từnăm tài chính 2026.
+STT
+Tên Công ty
+Vốn điều lệ (tỷ đồng)
+Tỷ lệ nắm giữ
+Ngành nghề kinh doanh chính
+1
+Công ty TNHH Phần mềm FPT
+7.750
+100%
+Cung cấp các dịch vụ và sản phẩm phần mềm
+2
+Công ty TNHH FPT IS
+1.500
+100%
+Cung cấp giải pháp phần mềm
+3
+Công ty TNHH FPT Smart Cloud
+1.000
+100%
+CNTT
+4
+Công ty TNHH FPT Digital
+60
+100%
+Tư vấn chuyển đổi số
+5
+Công ty TNHH Hạ tầng Công nghệ số FPT
+1.000
+100%
+Đầu tư, phát triển dự án Khu Công viên Công nghệ số
+6
+Công ty TNHH Giáo dục FPT
+4.500
+100%
+Cung cấp dịch vụ đào tạo và công nghệ
+7
+Công ty TNHH Đầu tư FPT
+1.000
+100%
+Đầu tư tài chính
+Công ty con
+
+8
+3. Cơ cấu sở hữu
+I. TỔNG QUAN
+Nguồn: FPT, Aseansc Research
+STT
+Tên Công ty
+Vốn điều lệ (tỷ đồng)
+Tỷ lệ nắm giữ
+Ngành nghề kinh doanh chính
+1
+CTCP Synnex FPT
+1.188,4
+48%
+Sản xuất và phân phối các sản phẩm công nghệ
+2
+CTCP Bán lẻKỹthuật sốFPT (HOSE: FRT)
+1.703,0
+46,54%
+Bán lẻ ICT; đại lý dịch vụ viễn thông
+3
+CTCP Viễn thông FPT (UpCOM: FOX)
+4.925,1
+45,66%
+Cung cấp các dịch vụ viễn thông
+4
+CTCP Dịch vụ trực tuyến FPT (UpCOM: FOC)
+184,7
+49,52%
+Cung cấp các dịch vụ trực tuyến
+Công ty liên kết
+Nguồn: FPT, Aseansc Research
+STT
+Tên Công ty
+Giá trị ghi sổ(tỷ đồng)
+Tỷ lệ nắm giữ
+Ngành nghề kinh doanh chính
+1
+Ngân hàng TMCP Tiên Phong (HOSE: TPB)
+494,4
+6,77%
+Ngân hàng
+2
+CTCP Chứng khoán FPT (HOSE: FTS)
+451,1
+17,58%
+Dịch vụ chứng khoán
+Đầu tư góp vốn vào đơn vị khác
+
+I. TỔNG QUAN
+4. Mô hình kinh doanh – Vị thế dẫn đầu của FPT
+Nguồn: FPT, Aseansc Research
+
+I. TỔNG QUAN
+4. Mô hình kinh doanh – Chuỗi giá trị ngành CNTT
+
+11
+I. TỔNG QUAN
+➢Trong giai đoạn 2021–2025, doanh thu của FPT duy trì xu hướng tăng trưởng bền vững. Động lực chính đến từsựtăng trưởng tích cực của cả3 mảng
+kinh doanh chủlực gồm Công nghệ, Viễn thông và Giáo dục. Trong đó, khối Công nghệtiếp tục đóng vai trò dẫn dắt, phản ánh nhu cầu chuyển đổi sốtoàn cầu
+tiếp tục gia tăng và năng lực triển khai dựán của doanh nghiệp. Bên cạnh đó, 2 mảng Viễn thông và Giáo dục duy trì đà tăng trưởng tương đối ổn định, đóng
+vai trò nền tảng giúp củng cốquy mô doanh thu.
+4. Mô hình kinh doanh – Tổng quan
+Nguồn: FPT, Aseansc Research
+ -
+ 10,000
+ 20,000
+ 30,000
+ 40,000
+ 50,000
+ 60,000
+ 70,000
+ 80,000
+2021
+2022
+2023
+2024
+2025
+Doanh thu của FPT tăng trưởng ổn định
+Công nghệ
+Viễn thông
+Giáo dục, đầu tư & khác
+63%
+28%
+9%
+Khối Công nghệ đang ngày càng gia tăng tỷ trọng trong 
+tổng doanh thu của FPT
+Công nghệ
+Viễn thông
+Giáo dục, đầu tư & khác
+
+12
+I. TỔNG QUAN
+➢Lợi nhuận trước thuếcủa FPT duy trì đà tăng trưởng tích cực trong giai đoạn 2021–2025, phản ánh hiệu quảhoạt động được cải thiện qua các
+năm. Trong đó, khối Công nghệtiếp tục đóng vai trò dẫn dắt với tỷtrọng đóng góp lớn nhất, trong khi Viễn thông và các mảng khác duy trì đóng góp ổn định.
+4. Mô hình kinh doanh – Tổng quan
+ -
+ 2,000
+ 4,000
+ 6,000
+ 8,000
+ 10,000
+ 12,000
+ 14,000
+2021
+2022
+2023
+2024
+2025
+Lợi nhuận trước thuế của FPT tăng trưởng ổn định
+Công nghệ
+Viễn thông
+Giáo dục, đầu tư & khác
+Nguồn: FPT, Aseansc Research
+45%
+33%
+21%
+Khối Công nghệ đóng góp lợi nhuận trước thuế lớn nhất cho 
+FPT trong năm 2025
+Công nghệ
+Viễn thông
+Giáo dục, đầu tư & khác
+
+13
+4.1. Khối Công nghệ
+I. TỔNG QUAN
+➢FPT là công ty tiên phong trong lĩnh vực công nghệ tại Việt Nam, đặc biệt là các công nghệlõi của cuộc cách mạng 4.0. Công ty cung cấp dịch vụCNTT
+cho cảthịtrường trong nước và quốc tế, tập trung tại các thịtrường trọng điểm như Nhật Bản, Mỹ, EU và APAC. Năm 2025 đánh dấu bước chuyển chiến lược
+khi FPT trởthành công ty AI-First, đưa AI trởthành nền tảng cốt lõi cho mọi dịch vụ, qua đó nâng cao năng suất và tạo nền tảng tăng trưởng dài hạn. Đồng thời,
+FPT là đối tác triển khai nhiều hệthống chuyển đổi sốquan trọng cho Chính phủvà doanh nghiệp. FPT định hướng phát triển hệsinh thái “Made by FPT”, hướng
+tới làm chủcác công nghệchiến lược như AI, bán dẫn, an ninh bảo mật và các công nghệtiên tiến khác, góp phần đưa Việt Nam trởthành trung tâm phát triển
+công nghệtoàn cầu.
+➢Khối Công nghệ chiếm tỷ trọng doanh thu lớn nhất trong tổng doanh thu của FPT (63%), chủ yếu đến từ dịch vụ CNTT cung cấp cho thị trường nước 
+ngoài, đặc biệt là thị trường Nhật Bản.
+Nguồn: FPT, Aseansc Research
+ -
+ 10,000
+ 20,000
+ 30,000
+ 40,000
+ 50,000
+2021
+2022
+2023
+2024
+2025
+Doanh thu khối Công nghệ tăng trưởng bền vững
+Dịch vụ CNTT nước ngoài
+Dịch vụ CNTT trong nước
+58%
+58%
+60%
+62%
+63%
+54%
+56%
+58%
+60%
+62%
+64%
+2021
+2022
+2023
+2024
+2025
+Tỷ trọng doanh thu khối Công nghệ đang ngày càng gia tăng
+
+14
+4.1. Khối Công nghệ
+I. TỔNG QUAN
+
+15
+4.2. Khối Viễn thông
+I. TỔNG QUAN
+➢Khối Viễn thông của FPT bao gồm dịch vụviễn thông (broadband và các dịch vụliên quan) cùng mảng quảng cáo trực tuyến, với vịthếlà một trong
+top 3 nhà cung cấp Internet băng thông rộng tại Việt Nam. Doanh nghiệp đồng thời phát triển các dịch vụtrung tâm dữliệu, truyền hình trảtiền và nền tảng
+nội dung số, đặc biệt trong lĩnh vực thểthao. Động lực tăng trưởng chính đến từmảng broadband khi FPT Telecom tiếp tục mởrộng thịphần và nâng cao chất
+lượng hạtầng.
+➢Khối Viễn thông chiếm tỷtrọng 28% doanh thu, mang lại dòng tiền ổn định.
+➢Từngày 11/11/2025, quyền đại diện 50,16% vốn Nhà nước tại FPT Telecom đã được chuyển giao từSCIC sang BộCông an, qua đó củng cốvai trò doanh
+nghiệp hạtầng sốtrọng yếu và tạo điều kiện mởrộng tham gia các dựán quy mô lớn, hỗtrợtăng trưởng bền vững trong dài hạn.
+Nguồn: FPT, Aseansc Research
+ -
+ 5,000
+ 10,000
+ 15,000
+ 20,000
+ 25,000
+2021
+2022
+2023
+2024
+2025
+Doanh thu khối Viễn thông tăng trưởng ổn định
+Dịch vụ viễn thông
+Quảng cáo trực tuyến
+36%
+33%
+30%
+28%
+28%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+2021
+2022
+2023
+2024
+2025
+Tỷ trọng doanh thu khối Viễn thông giảm dần trong 5 năm 
+gần đây
+
+16
+4.2. Khối Viễn thông
+I. TỔNG QUAN
+
+17
+4.3. Khối Giáo dục, Đầu tư và khác
+I. TỔNG QUAN
+➢Khối Giáo dục, Đầu tư và khác của FPT đóng vai trò bổtrợtrong hệsinh thái, với nguồn thu và lợi nhuận duy trì ổn định qua các năm. Mảng Giáo dục
+tập trung đào tạo nguồn nhân lực công nghệchất lượng cao, đáp ứng nhu cầu phát triển dài hạn của FPT và thịtrường. Trong khi đó, hoạt động đầu tư và các
+mảng khác có quy mô nhỏhơn, chủyếu hỗtrợchiến lược mởrộng hệsinh thái và tìm kiếm cơ hội tăng trưởng mới, góp phần đa dạng hóa nguồn thu cho FPT.
+➢Khối Giáo dục, Đầu tư và khác chiếm tỷtrọng nhỏ trong tổng doanh thu của FPT (9%).
+Nguồn: FPT, Aseansc Research
+ -
+ 1,000
+ 2,000
+ 3,000
+ 4,000
+ 5,000
+ 6,000
+ 7,000
+2021
+2022
+2023
+2024
+2025
+Doanh thu khối Giáo dục, Đầu tư và khác tăng trưởng 
+chậm lại trong năm 2025
+6%
+9%
+10%
+10%
+9%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+2021
+2022
+2023
+2024
+2025
+Tỷ trọng doanh thu khối Giáo dục, Đầu tư và khác duy trì 
+ở mức thấp
+
+18
+I. TỔNG QUAN
+5. SWOT
+Nguồn: FPT, Aseansc Research
+18
+SWOT
+S
+W
+O
+T
+Threats – Thách thức
+•
+Cạnh tranh quốc tế: Đối đầu trực tiếp với các
+tập đoàn khổng lồtừẤn Độ(Infosys, Tata) về
+quy mô và giá thành.
+•
+Tốc độthay đổi công nghệ: Các công nghệ
+mới (như Quantum Computing, Agentic AI) có
+thểkhiến các giải pháp cũ nhanh chóng trởnên
+lạc hậu nếu không cập nhật kịp thời.
+Opportunities – Cơ hội
+•
+Làn sóng AI & Bán dẫn toàn cầu: Chiến lược
+AI-First và dựán AI Factory giúp dịch chuyển từ
+làm thuê sang sởhữu hạtầng/giải pháp giá trị
+cao.
+•
+Chuyển đổi sốquốc gia: Là đơn vịthực thi
+trọng điểm cho hạtầng sốvà chủquyền dữliệu
+của Chính phủViệt Nam.
+Strengths – Điểm mạnh
+•
+Nhân lực & Vận hành toàn cầu: Hàng chục
+nghìn kỹsư vận hành theo mô hình "Follow the
+sun" (làm việc 24/7 xuyên múi giờ), giúp rút
+ngắn tiến độdựán cho khách hàng quốc tế.
+•
+Hệsinh thái đối tác hạng nhất: Hợp tác chiến
+lược sâu rộng với NVIDIA, Microsoft, IBM, đảm
+bảo tiếp cận công nghệlõi sớm nhất.
+•
+Thương hiệu CNTT số1 Việt Nam với thịphần
+áp đảo trong các dựán chính phủvà viễn thông.
+Weaknesses – Điểm yếu
+• Rủi ro ngoại tệ: Doanh thu phụthuộc lớn vào
+đồng Yên (Nhật) và USD, dễbịtổn thương khi
+tỷgiá biến động.
+• Áp lực chi phí: Chi phí đầu tư cho R&D (AI,
+Bán dẫn) và giữchân nhân tài công nghệcao
+ngày càng lớn.
+
+19
+II. HOẠT ĐỘNG KINH DOANH
+Q1/2026
+Q1/2025
+% YoY
+% KH 2026
+Nguyên nhân
+Doanh thu thuần
+12.480
+16.058
+-22,28%
+21,30%
+Doanh thu giảm kỹ thuật do không còn hợp nhất doanh thu từ FPT Telecom (chuyển sang 
+phương pháp vốn chủ sở hữu) từ năm 2026. Tuy nhiên, so sánh với số liệu năm 2025 đã được 
+điều chỉnh theo cùng phương pháp hợp nhất năm 2026, doanh thu Q1/2026 tăng 8,7% YoY. 
+Công nghệ
+10.842
+9.769
+10,98%
+20,59% Duy trì đà tăng trưởng ổn định nhờ sự đóng góp tích cực từ cả hai phân khúc dịch vụ CNTT thị 
+trường nước ngoài và trong nước.
+Dịch vụCNTT nước ngoài
+9.034
+8.186
+10,36%
+Động lực tăng trưởng chính đến từ thị trường Nhật Bản nhờ nhu cầu chuyển đổi số. Ngoài ra, 
+FPT đã trúng thầu 8 dự án lớn (>10 triệu USD/dự án) (+14% YoY), khẳng định vị thế là công ty 
+công nghệ tỷ đô đẳng cấp toàn cầu.
+Dịch vụCNTT trong nước
+1.807
+1.583
+14,15%
+Kết quả tích cực đến từ việc mở rộng thị phần ở cả khối khách hàng tư nhân và khu vực công, 
+kết hợp với sự tăng trưởng mạnh của hệ sinh thái sản phẩm Made by FPT.
+Viễn thông
+-
+4.582
+-100,00%
+Ghi nhận doanh thu bằng 0 trên báo cáo hợp nhất do chuyển sang mô hình công ty liên kết (áp 
+dụng phương pháp vốn chủ sở hữu).
+Giáo dục, đầu tư & khác
+1.638
+1.707
+-4,04%
+27,62%
+Lợi nhuận gộp
+4.245
+6.301
+-32,64%
+Biên LNG
+34,01%
+39,24%
+Giảm do thay đổi cơ cấu mảng kinh doanh, nhưng vẫn duy trì vị thế cao trong ngành công nghệ
+Doanh thu tài chính
+416 
+573 
+-27,47%
+Chi phí tài chinh
+(367)
+(311)
+17,94%
+Lợi nhuận từ công ty liên kết
+667 
+137 
+387,71%
+Tăng đột biến (+387,7%) do ghi nhận phần lãi tương ứng tại FPT Telecom vào mục này thay vì 
+hợp nhất doanh thu/chi phí như trước đây.
+Chi phí bán hàng & QLDN
+(2.213)
+(3.706)
+-40,30%
+LNTT
+2.804 
+3.025 
+-7,30%
+24,11%
+Công nghệ
+1.566 
+1.416 
+10,59%
+21,31%
+Viễn thông
+- 
+967 
+-100,00%
+Giáo dục, đầu tư & khác
+1.238 
+642 
+92,83%
+28,93% Tăng trưởng mạnh mẽ chủ yếu đến từ mức tăng trưởng lợi nhuận 2 chữ số từcác công ty liên 
+doanh, liên kết và thay đổi cách hạch toán lợi nhuận từ mảng viễn thông vào khối này.
+LNST 
+2.477 
+2.596 
+-4,58%
+
+20
+II. HOẠT ĐỘNG KINH DOANH
+➢Trong Q1/2026, FPT ghi nhận doanh thu đạt 12.480 tỷđồng, tương ứng mức tăng trưởng 8,7% YoY (trên cơ sởso sánh cùng phương pháp hợp nhất với năm
+2025), hoàn thành 21% kếhoạch năm. Kết quảnày được thúc đẩy bởi đà tăng trưởng ổn định của khối Công nghệvới mức tăng 11% YoY, nhờđóng
+góp tích cực từcảthịtrường nước ngoài và trong nước.
+➢Mảng Dịch vụCNTT nước ngoài đạt 9.034 tỷđồng (+10,4% YoY). Trong đó, thịtrường Nhật Bản tiếp tục đóng vai trò đầu tàu với mức tăng trưởng ấn tượng
+18,8%, nhờnhu cầu chi tiêu mạnh mẽcho CNTT và đặc biệt là chuyển đổi số.
+1. Doanh thu duy trì đà tăng trưởng tích cực, động lực chính từ Khối Công nghệ
+Nguồn: FPT, Aseansc Research
+17.0%
+10.4%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+ -
+ 2,000
+ 4,000
+ 6,000
+ 8,000
+ 10,000
+ 12,000
+Doanh thu mảng dịch vụ CNTT nước ngoài duy trì đà 
+tăng trưởng tích cực
+Dịch vụ CNTT nước ngoài
+% YoY
+ -
+ 2,000
+ 4,000
+ 6,000
+ 8,000
+ 10,000
+ 12,000
+Thị trường Nhật Bản tiếp tục đóng vai trò đầu tàu nhờ 
+nhu cầu chuyển đổi số
+Nhật Bản
+US
+EU
+APAC
+
+21
+II. HOẠT ĐỘNG KINH DOANH
+1. Doanh thu duy trì đà tăng trưởng tích cực, động lực chính từ Khối Công nghệ
+Nguồn: FPT, Aseansc Research
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+ -
+ 1,000
+ 2,000
+ 3,000
+ 4,000
+ 5,000
+Chuyển đổi số tập trung vào các công nghệ mới như 
+AI/Data Analytics, Cybersecurity...
+Doanh thu CĐS
+% YoY
+-20%
+0%
+20%
+40%
+60%
+80%
+100%
+ -
+ 2,000
+ 4,000
+ 6,000
+ 8,000
+ 10,000
+ 12,000
+ 14,000
+ 16,000
+Doanh thu ký mới tăng 22% phản ánh dấu hiệu phục hồi 
+tích cực
+Doanh thu ký mới
+% YoY
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+Khách hàng doanh thu > 500k USD
+Khách hàng doanh thu > 1tr USD
+Số lượng khách hàng tăng trưởng cả về số lượng và giá trị
+Q1/2023
+Q1/2024
+Q1/2025
+Q1/2026
+0
+20
+40
+60
+80
+100
+Semi-mega deals
+($500k+)
+Mega deals ($1tr+)
+Large deals ($10tr+)
+FPT khẳng định vị thế toàn cầu khi thắng thầu 8 dự án lớn 
+có quy mô trên 10 triệu USD (+14,3% YoY).
+Q1/2024
+Q1/2025
+Q1/2026
+
+22
+II. HOẠT ĐỘNG KINH DOANH
+➢Mảng Dịch vụCNTT trong nước ghi nhận doanh thu đạt 1.807 tỷđồng (+14,2% YoY). Sựtăng trưởng này đến từviệc tối ưu hóa tỷtrọng dịch vụ/phần
+mềm và mởrộng thành công tệp khách hàng ởcảkhối tư nhân lẫn khu vực công.
+➢Hệsinh thái sản phẩm Made-by-FPT tiếp tục duy trì sức hút với doanh thu 599 tỷđồng (+13,9% YoY). Các giải pháp này ngày càng khẳng định tính ứng dụng
+cao, đáp ứng hiệu quảnhu cầu chuyển đổi sốcho cảdoanh nghiệp và các cơ quan Chính phủ.
+1. Doanh thu duy trì đà tăng trưởng tích cực, động lực chính từ Khối Công nghệ
+Nguồn: FPT, Aseansc Research
+-10%
+-5%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+ -
+ 500
+ 1,000
+ 1,500
+ 2,000
+ 2,500
+ 3,000
+ 3,500
+ 4,000
+Doanh thu CNTT trong nước tăng trưởng ổn định
+Dịch vụ CNTT trong nước
+% YoY
+-20%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+140%
+160%
+180%
+200%
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+Doanh thu Made-by-FPT duy trì đà tăng trưởng nhờ tính ứng 
+dụng cao cho cả khối Doanh nghiệp lẫn khối Chính phủ
+Doanh thu made-by-FPT
+% YoY
+
+23
+II. HOẠT ĐỘNG KINH DOANH
+➢FPT ghi nhận mức tăng trưởng lợi nhuận 2 chữsốtrong Q1/2026 với LNTT đạt 2.804 tỷđồng. Khi đặt trên cùng hệquy chiếu (so sánh với sốliệu năm
+2025 đã được điều chỉnh theo phương pháp hợp nhất mới), mức tăng trưởng này đạt 16,2% YoY, giúp FPT hoàn thành 24% kếhoạch lợi nhuận cảnăm. Biên
+LNTT tăng lên mức 22,5% (so với 18,8% của Q1/2025). Điều này cho thấy mô hình kinh doanh mới (tập trung vào dịch vụCNTT và giáo dục) mang lại hiệu
+quảsinh lời trên mỗi đồng doanh thu cao hơn. Theo đó, biên LNST đạt 19,8%, tăng mạnh so với mức 16,2% của Q1/2025. 
+2. Lợi nhuận cải thiện trên cùng cơ sở so sánh, nhưng chất lượng tăng trưởng cần tiếp tục kiểm chứng
+Nguồn: FPT, Aseansc Research
+0%
+5%
+10%
+15%
+20%
+25%
+ -
+ 500
+ 1,000
+ 1,500
+ 2,000
+ 2,500
+ 3,000
+ 3,500
+ 4,000
+LNTT tăng trưởng 2 chữ số trong Q1/2026
+Công nghệ
+Viễn thông
+Giáo dục, đầu tư & khác
+Biên LNTT
+0%
+5%
+10%
+15%
+20%
+25%
+ -
+ 500
+ 1,000
+ 1,500
+ 2,000
+ 2,500
+ 3,000
+ 3,500
+Biên LNST tăng mạnh sau khi thay đổi mô hình kinh doanh
+LNST
+Biên lợi nhuận ròng
+
+24
+II. HOẠT ĐỘNG KINH DOANH
+➢Kết quảtích cực này đến từnền tảng doanh thu ổn định và năng lực tối ưu hóa bộmáy vận hành trong quý này. Chi phí bán hàng & quản lý doanh
+nghiệp (SG&A) giảm mạnh từ3.706 tỷxuống còn 2.213 tỷđồng. Tỷlệchi phí này trên doanh thu giảm từ23,1% xuống còn 17,7%, cho thấy bộmáy vận hành
+trởnên tinh gọn và hiệu quảhơn sau khi tái cấu trúc mảng viễn thông.
+➢Việc chuyển FPT Telecom sang mô hình công ty liên kết giúp FPT thu vềlợi nhuận ròng mà không phải gánh các chi phí vận hành và khấu hao lớn
+trên báo cáo hợp nhất. Điều này giúp lợi nhuận từcông ty liên kết tăng đột biến (+387,7% YoY), đạt 667 tỷđồng.
+2. Lợi nhuận cải thiện trên cùng cơ sở so sánh, nhưng chất lượng tăng trưởng cần tiếp tục kiểm chứng
+Nguồn: FPT, Aseansc Research
+-50%
+0%
+50%
+100%
+150%
+200%
+250%
+300%
+350%
+400%
+450%
+ -
+ 100
+ 200
+ 300
+ 400
+ 500
+ 600
+ 700
+ 800
+Lợi nhuận từ công ty liên kết tăng đột biến chủ yếu do sự 
+thay đổi trong phương pháp kế toán đối với FPT Telecom
+Lãi từ công ty liên kết
+% YoY
+0%
+5%
+10%
+15%
+20%
+25%
+ -
+ 500
+ 1,000
+ 1,500
+ 2,000
+ 2,500
+ 3,000
+ 3,500
+ 4,000
+ 4,500
+Tỷ lệ SG&A trên doanh thu giảm cho thấy bộ máy vận hành 
+trở nên hiệu quả hơn
+SG&A
+Biên SG&A
+
+25
+III. TRIỂN VỌNG KINH DOANH
+➢Mảng dịch vụCNTT nước ngoài dựbáo đạt 39.725 tỷđồng (+12,3% YoY), nhờ:
+• Nhu cầu chuyển đổi số/AI toàn cầu củng cốđà tăng trưởng ởcác thịtrường trọng điểm, đặc biệt là thịtrường Nhật Bản.
+• Hưởng lợi từsựbùng nổchi tiêu hạtầng AI toàn cầu.
+• Chiến lược "AI-First" với dựán AI Factory (GPU Cloud) giúp FPT dịch chuyển từtăng trưởng dựa trên nhân sựsang tăng trưởng dựa trên nền tảng. Đây là
+catalyst cho khảnăng re-rating P/E nếu FPT chứng minh được tỷtrọng doanh thu AI/platform tăng, biên lợi nhuận cải thiện và doanh thu định kỳtừnhóm giải
+pháp AI có tính lặp lại cao hơn
+1. Mảng dịch vụ CNTT nước ngoài tiếp tục là chìa khóa tăng trưởng của FPT
+Nguồn: FPT, Aseansc Research
+ -
+ 5,000
+ 10,000
+ 15,000
+ 20,000
+ 25,000
+ 30,000
+ 35,000
+ 40,000
+ 45,000
+2021
+2022
+2023
+2024
+2025
+2026F
+Doanh thu dịch vụ CNTT nước ngoài tăng trưởng tích cực, dự báo đạt 39.725 tỷ đồng năm 2026F
+Nhật Bản
+US
+EU
+APAC
+
+26
+III. TRIỂN VỌNG KINH DOANH
+➢Nhật Bản duy trì vai trò là động lực tăng trưởng quan trọng nhất nhờnhu cầu chuyển đổi sốvà ứng dụng AI gia tăng mạnh. Việc FPT ký kết thành
+công hợp đồng trịgiá trên 100 triệu USD đầu tiên tại Nhật Bản là dấu mốc đáng chú ý, phản ánh sựnâng cấp trong mô hình hợp tác với khách hàng, từcác dự
+án ngắn hạn quy mô nhỏsang các quan hệđối tác chiến lược dài hạn, tham gia sâu hơn vào hoạt động phát triển sản phẩm và hệthống công nghệlõi. Trên
+nền tảng đó, FPT tiếp tục mởrộng các mô hình liên doanh và hợp tác chiến lược tại thịtrường này, qua đó gia tăng mức độgắn kết với khách hàng và nâng
+cao rào cản cạnh tranh. Chúng tôi dựphóng doanh thu từthịtrường này tăng trưởng 18,8% trong năm 2026.
+➢Tăng trưởng tại thịtrường Mỹđược dựbáo chậm lại, với mức tăng khoảng 3,8% trong năm 2026, do doanh nghiệp tiếp tục thận trọng trong chi tiêu CNTT
+dưới tác động của bất ổn địa chính trịvà căng thẳng thương mại toàn cầu.
+1.1. Nhu cầu chuyển đổi số/AI toàn cầu củng cố đà tăng trưởng ở các thị trường trọng điểm
+Nguồn: FPT, Aseansc Research
+ -
+ 2,000
+ 4,000
+ 6,000
+ 8,000
+ 10,000
+ 12,000
+ 14,000
+ 16,000
+ 18,000
+ 20,000
+2021
+2022
+2023
+2024
+2025
+2026F
+Doanh thu thị trường Nhật Bản dự phóng tăng trưởng 
+18,8% nhờ nhu cầu chuyển đổi số/AI
+2021
+2022
+2023
+2024
+2025
+2026F
+ -
+ 5,000
+ 10,000
+ 15,000
+ 20,000
+ 25,000
+2021
+2022
+2023
+2024
+2025
+2026F
+Thị trường Mỹ dự báo tăng trưởng chậm lại (3,8%) do bất 
+ổn địa chính trị và căng thẳng thương mại toàn cầu
+US
+EU
+APAC
+
+27
+III. TRIỂN VỌNG KINH DOANH
+➢Tăng trưởng chi tiêu Dịch vụCNTT toàn cầu. Theo dựbáo từGartner, chi tiêu CNTT toàn cầu năm 2026 sẽduy trì đà tăng trưởng mạnh mẽ, ước đạt 6.155
+tỷUSD (+10,8% YoY) nhờsựchuyển dịch dòng vốn vào hạtầng AI. Cụthể, phân khúc Trung tâm dữliệu dẫn dắt đà tăng với mức đột phá 31,7%, song hành
+cùng mảng Phần mềm tăng 14,7% nhằm đáp ứng nhu cầu xây dựng hệsinh thái AI. Phân khúc chủđạo Dịch vụCNTT được dựbáo đạt 1.867 tỷUSD (+8,7%
+YoY), chính thức trởthành mảng lớn nhất trong cơ cấu chi tiêu công nghệtoàn cầu. Sựgia tăng chi tiêu phản ánh nhu cầu cấp thiết của các doanh nghiệp
+trong việc tư vấn chiến lược, hiện đại hóa hệthống và triển khai thực tếcác ứng dụng AI vào quy trình vận hành.
+1.2. Tăng trưởng chi tiêu Dịch vụ CNTT toàn cầu
+Nguồn: Gartner, Aseansc Research
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+ -
+ 1,000
+ 2,000
+ 3,000
+ 4,000
+ 5,000
+ 6,000
+ 7,000
+2020
+2021
+2022
+2023
+2024
+2025
+2026F
+Chi tiêu CNTT toàn cầu năm 2026 sẽ duy trì đà tăng trưởng
+Tiêu dùng CNTT toàn cầu
+% YoY
+30%
+22%
+23%
+14%
+11%
+Cơ cấu tiêu dùng CNTT toàn cầu năm 2026 thể hiện sự 
+chuyển dịch dòng vốn vào hạ tầng AI
+Dịch vụ CNTT
+Dịch vụ viễn thông
+Phần mềm
+Phần cứng
+Trung tâm dữ liệu
+
+28
+III. TRIỂN VỌNG KINH DOANH
+1.3. Chiến lược "AI-First" – Trọng tâm tái định vị từ "Gia công" sang "Chủ sở hữu công nghệ"
+Nguồn: Gartner, Aseansc Research
+➢Cơ hội mởra từxu hướng chuyển dịch của ngành dịch vụCNTT sang AI. Xu hướng ưu tiên các mô hình AI mã nguồn mởngày càng rõ nét khi thay vì tự
+phát triển, 76% doanh nghiệp sửdụng LLM lựa chọn kết hợp mô hình mã nguồn mởvới giải pháp độc quyền nhằm tối ưu chi phí, hiệu năng và kiểm soát dữ
+liệu. Điều này tạo dư địa lớn cho FPT trong việc phát triển nền tảng AI và các giải pháp chuyên biệt, tạo dư địa tăng trưởng bền vững trong trung và dài hạn.
+➢Song song đó, Agentic AI nổi lên như một động lực tăng trưởng mới với quy mô đạt 7,3 tỷUSD năm 2025 và dựbáo tăng mạnh lên 139,2 tỷUSD vào năm
+2034, phản ánh sựchuyển dịch sang các hệthống tựđộng thực thi nhiệm vụvới mức độcan thiệp của con người tối thiểu, từđó tái định hình hoạt động doanh
+nghiệp từtựđộng hóa quy trình đến hỗtrợra quyết định. Trong bối cảnh này, chi tiêu AI toàn cầu tăng trưởng mạnh, đạt khoảng 1.757 tỷUSD năm 2025
+(+50% YoY) và dựkiến lên 3.335 tỷUSD vào năm 2027 theo Gartner.
+➢Theo đó, sựcạnh tranh trong ngành công nghệđang chuyển từnăng lực lập trình thuần túy sang khảnăng thấu hiểu bối cảnh kinh doanh, đặc thù
+ngành và tư vấn giải pháp tổng thể. Theo Gartner, thịtrường AI doanh nghiệp toàn cầu tăng trưởng 3,2 lần, từ11,5 tỷUSD năm 2024 lên 37 tỷUSD năm
+2025, trong khi sốlượng mô hình AI triển khai trực tiếp vào vận hành tăng gấp 11 lần, cho thấy mức độtrưởng thành của năng lực triển khai AI ởquy mô lớn.
+ -
+ 1,000
+ 2,000
+ 3,000
+ 4,000
+2025
+2026
+2027
+Chi tiêu cho AI toàn cầu tăng trưởng liên tục
+Dịch vụ AI
+An ninh mạng AI
+Phần mềm AI 
+Mô hình AI
+Nền tảng AI cho khoa học dữ liệu và học máy 
+Nền tảng phát triển ứng dụng AI 
+Dữ liệu AI 
+Hạ tầng AI 
+0
+1.7
+11.5
+37
+ -
+ 5
+ 10
+ 15
+ 20
+ 25
+ 30
+ 35
+ 40
+2022
+2023
+2024
+2025
+Thịtrường AI doanh nghiệp toàn cầu là phân khúc
+phát triển nhanh nhất
+
+29
+III. TRIỂN VỌNG KINH DOANH
+➢Xây dựng hạtầng AI quy mô lớn (AI Factory). Hợp tác chiến lược với NVIDIA đểxây dựng các AI Factory tại Việt Nam và Nhật Bản là bước đi then chốt.
+Tiềm năng mởrộng biên lợi nhuận nhờthoát ly mô hình tăng trưởng dựa trên nhân lực. AI Factory đóng vai trò lớp hạtầng lõi, cho phép doanh thu tăng trưởng
+theo quy mô nền tảng.
+➢Cộng hưởng hệsinh thái AI toàn diện: Giá trịkinh tếthực tếkhông chỉtừcho thuê GPU, mà từkhảnăng tích hợp AI platform, Inference services và giải
+pháp AI theo ngành dọc. Tận dụng 1.100+ khách hàng Global đểthực hiện "AI attach-rate". Tích hợp sâu AI vào quy trình DX của khách hàng tạo ra Rào cản
+rời bỏ(Switching Cost) cực cao, đảm bảo dòng tiền ARR (Doanh thu định kỳ) bền vững.
+1.3. Chiến lược "AI-First" – Trọng tâm tái định vị từ "Gia công" sang "Chủ sở hữu công nghệ"
+Nguồn: FPT, Aseansc Research
+58%
+58%
+60%
+62%
+63%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2021
+2022
+2023
+2024
+2025
+Cơ cấu doanh thu dịch chuyển sang mảng công nghệ và AI
+Công nghệ
+Viễn thông
+Giáo dục, đầu tư & khác
+ -
+ 500
+ 1,000
+ 1,500
+ 2,000
+ 2,500
+ 3,000
+2022
+2023
+2024
+2025
+Doanh thu từ AI và Dữ liệu trong năm 2025 đạt 2.612 tỷ 
+đồng (+40% YoY), tạo tiền đề cho năm 2026 bùng nổ
+
+30
+III. TRIỂN VỌNG KINH DOANH
+1.3. Chiến lược "AI-First" – Trọng tâm tái định vị từ "Gia công" sang "Chủ sở hữu công nghệ"
+Nguồn: Gartner, Aseansc Research
+
+31
+III. TRIỂN VỌNG KINH DOANH
+➢Mảng bán dẫn (Semiconductor): FPT đã bước qua giai đoạn thiết kếvà đang tiến sâu vào chuỗi cung ứng toàn cầu. Việc làm chủcông nghệchip cho y tếvà
+thiết bịđiện tửgiúp FPT thoát khỏi mác "gia công phần mềm" thuần túy đểtiến lên nhóm doanh nghiệp công nghệcó giá trịgia tăng cao.
+➢Phổcập AI vào hệsinh thái dịch vụ: AI không còn là mảng kinh doanh riêng biệt mà được tích hợp sâu vào tất cảcác sản phẩm thuộc hệsinh thái FPT (từ
+FPT Play, hệthống y tếđến quản trịdoanh nghiệp).
+➢Chiến lược nhân sựAI quy mô lớn: FPT Education đã đưa AI vào giảng dạy cho 100% học sinh, sinh viên. Đây là chiến lược "nuôi dưỡng từgốc" đểđảm
+bảo nguồn cung nhân lực AI chất lượng cao, giúp FPT duy trì lợi thếvềchi phí và năng lực thực thi các dựán AI phức tạp trên thếgiới.
+1.3. Chiến lược "AI-First" – Trọng tâm tái định vị từ "Gia công" sang "Chủ sở hữu công nghệ"
+
+32
+III. TRIỂN VỌNG KINH DOANH
+1.3. Chiến lược "AI-First" – Trọng tâm tái định vị từ "Gia công" sang "Chủ sở hữu công nghệ"
+
+33
+III. TRIỂN VỌNG KINH DOANH
+➢Mảng Dịch vụCNTT trong nước dựbáo đạt 10.382 tỷđồng (+14,2%) nhờmởrộng tệp khách hàng ởcảkhu vực tư nhân và khu vực công. Hệsinh thái
+“Made-by-FPT” gồm hơn 200 sản phẩm (tăng trưởng +13,9% trong Q1/2026), tham gia sâu vào các dựán sốhóa của Chính phủvà địa phương, qua đó mở
+rộng doanh thu nội địa và củng cốvịthếchiến lược. Các sản phẩm Made-by-FPT có tính chất bản quyền (license-based) giúp cải thiện biên lợi nhuận và xây
+dựng rào cản rời bỏ(Switching Cost) vững chắc cho khách hàng.
+➢Thông qua chiến lược đầu tư bài bản cho nghiên cứu và phát triển, FPT không ngừng mởrộng danh mục sản phẩm Made by FPT, từng bước chuyển dịch từ
+cung cấp dịch vụsang làm chủvà thương mại hóa các nền tảng, giải pháp công nghệcó giá trịgia tăng cao.
+-20%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+140%
+160%
+180%
+200%
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+Doanh thu Made-by-FPT duy trì đà tăng trưởng nhờ tính ứng 
+dụng cao cho cả khối Doanh nghiệp lẫn khối Chính phủ
+Doanh thu made-by-FPT
+% YoY
+2. Mảng dịch vụ CNTT trong nước hưởng lợi từ làn sóng chuyển đổi số quốc gia
+ -
+ 2,000
+ 4,000
+ 6,000
+ 8,000
+ 10,000
+ 12,000
+2021
+2022
+2023
+2024
+2025
+2026F
+Doanh thu CNTT trong nước tăng trưởng ổn định
+
+34
+III. TRIỂN VỌNG KINH DOANH
+2. Mảng dịch vụ CNTT trong nước hưởng lợi từ làn sóng chuyển đổi số quốc gia
+Năm
+Tên văn bản
+Cơ quan ban hành
+Nội dung
+9/2024
+1017/QĐ-TTg 
+Chính phủ
+Chương trình Phát triển nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030, định hướng đến năm 2050
+9/2024
+1018/QĐ-TTg
+Chính phủ
+Chiến lược phát triển Công nghiệp bán dẫn Việt Nam tới 2030, tầm nhìn 2050
+10/2024
+1132/QĐ-TTg
+Chính phủ
+Chiến lược hạ tầng số đến 2025 và định hướng đến năm 2030
+10/2024
+1236/QĐ-TTg
+Chính phủ
+Chiến lược quốc gia về ứng dụng và phát triển công nghệ chuỗi khối (Blockchain) đến năm 2025, định hướng đến 2030
+11/2024
+1437/QĐ-TTg
+Chính phủ
+Kế hoạch hành động quốc gia về phát triển kinh tế số giai đoạn 2024-2025
+11/2024
+Luật Dữ liệu
+Quốc hội
+11/2024
+147/2024/NĐ-CP
+Chính phủ
+12/2024
+57-NQ/TW
+Bộ Chính trị
+Đột phá phát triển KH, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia
+2/2025
+193/2025/QH15
+Quốc hội
+Thí điểm một số cơ chế, chính sách đặc biệt tạo đột phá phát triển KH-CN, đổi mới sáng tạo và chuyển đổi số quốc gia
+3/2025
+Dự thảo Nghị định của Chính phủ quy định và hướng dẫn chi tiết một số điều của Nghị quyết 193
+3/2025
+Dự thảo Luật Công nghiệp Công nghệ số
+3/2025
+81/TB-VPCP năm 2025 Văn phòng Chính phủ
+Kết luận về thí điểm cho phép thành lập sàn giao dịch tài sản ảo, tiền ảo, tài sản mã hóa, tiền mã hóa
+Một số văn bản pháp luật về CNTT
+➢Làn sóng chuyển đổi sốtại Việt Nam được thúc đẩy mạnh mẽbởi khung chính sách ngày càng hoàn thiện, nổi bật là Nghịquyết 57-NQ/TW (12/2024)
+nhấn mạnh vai trò then chốt của khoa học công nghệ, đổi mới sáng tạo và chuyển đổi sốtrong chiến lược phát triển quốc gia.
+➢Ởtầm vĩ mô, chuyển đổi sốlà trụcột phát triển, với mục tiêu Top 3 ASEAN vềnăng lực sốvà cam kết chi tối thiểu 3% ngân sách cho khoa học công nghệ. Việc
+ưu tiên “làm chủcông nghệ” trong Luật Công nghệcao (2025) tạo lợi thếlớn cho FPT, hỗtrợtăng trưởng bền vững trong trung và dài hạn.
+
+35
+III. TRIỂN VỌNG KINH DOANH
+➢Mảng Giáo dục & Đầu tư dựbáo doanh thu đạt 5.884 tỷđồng (-4,0% YoY). Mặc dù quy mô học viên dựkiến đạt khoảng 165.000 trong năm 2026, tăng
+trưởng doanh thu có thểchịu áp lực do cạnh tranh gia tăng từcác trường đại học công lập trong lĩnh vực CNTT, có thểkéo theo rủi ro suy giảm doanh thu bình
+quân/học viên và cơ cấu tuyển sinh.
+➢Tuy nhiên, mảng Giáo dục vẫn có ý nghĩa chiến lược đối với FPT khi cung cấp nguồn nhân lực công nghệ/AI quy mô lớn, hỗtrợlợi thếchi phí dài hạn và tạo
+dòng tiền trảtrước tương đối ổn định.
+3. Mảng giáo dục không phải là động lực tăng trưởng chính, nhưng củng cố lợi thế nhân lực AI dài hạn
+Nguồn: FPT, Bộ TT&TT, Aseansc Research
+ -
+ 200
+ 400
+ 600
+ 800
+2022
+2023
+2024
+2025
+2026F
+FPT Education giải quyết bài toán nhân lực cả về số lượng 
+và chất lượng theo nhu cầu lao động thị trường CNTT
+Nhu cầu  
+Số lượng còn thiếu
+152,000 
+152,000 
+165,000 
+ -
+ 20,000
+ 40,000
+ 60,000
+ 80,000
+ 100,000
+ 120,000
+ 140,000
+ 160,000
+ 180,000
+2021
+2022
+2023
+2024
+2025
+2026F
+Quy mô học viên FPT Education kỳ vọng tăng trưởng 9% 
+2026F
+Nguồn: FPT, Aseansc Research
+
+36
+III. TRIỂN VỌNG KINH DOANH
+➢Nền tảng tài chính của FPT là một trong những điểm tựa chiến lược giúp Tập đoàn duy trì đà tăng trưởng bền vững. FPT đang sởhữu 26.745 tỷđồng
+tiền và tiền gửi ngân hàng, chiếm gần 39% tổng tài sản. Lượng tiền mặt dồi dào không chỉđảm bảo khảnăng thanh toán tức thời mà còn giúp doanh nghiệp
+chủđộng nguồn lực cho các hoạt động đầu tư công nghệvà M&A trọng điểm. Khảnăng thanh toán của FPT được duy trì ổn định ởmức trên 1,0 và đang ghi
+nhận xu hướng cải thiện tích cực, minh chứng cho năng lực quản trịdòng tiền hiệu quả.
+➢Cấu trúc vốn tối ưu khi tỷlệD/E đã giảm xuống mức thấp lý tưởng là 0,4. Điều này cho thấy rủi ro tài chính được kiểm soát chặt chẽ, tạo dư địa lớn đểTập
+đoàn tận dụng đòn bẩy tài chính cho các kếhoạch mởrộng quy mô trong giai đoạn 2026–2030.
+4. Sức khỏe tài chính vững mạnh
+Nguồn: FPT, Aseansc Research
+1.0
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+ -
+ 5,000
+ 10,000
+ 15,000
+ 20,000
+ 25,000
+ 30,000
+ 35,000
+ 40,000
+ 45,000
+Khả năng thanh toán liên tục cải thiện cho thấy năng lực 
+quản trị dòng tiền hiệu quả
+Tiền
+Đầu tư tài chính ngắn hạn
+Khả năng thanh toán hiện thời
+Khả năng thanh toán nhanh
+ -
+ 0.1
+ 0.2
+ 0.3
+ 0.4
+ 0.5
+ 0.6
+ 0.7
+ 0.8
+ -
+ 5,000
+ 10,000
+ 15,000
+ 20,000
+ 25,000
+Cấu trúc vốn tối ưu cho thấy rủi ro tài chính được kiểm soát 
+chặt chẽ
+Nợ vay ngắn hạn
+Nợ vay dài hạn
+D/E
+
+37
+IV. DỰ PHÓNG KẾT QUẢ KINH DOANH, ĐỊNH GIÁ & KHUYẾN NGHỊ
+1. Tóm tắt các giả định chính trong dự phóng kết quả kinh doanh năm 2026
+Chỉ tiêu KQKD
+2026F
+% YoY 
+(cùng phương pháp 
+hợp nhất)
+Quan điểm dự phóng
+Doanh thu thuần
+55.991 
+10,6%
+Công nghệ
+50.107 
+12,7%
+Dịch vụ CNTT nước ngoài
+39.725 
+12,3% Động lực tăng trưởng chính đến từthịtrường Nhật Bản nhờnhu cầu chuyển đổi số/AI; tuy nhiên, tốc độ
+có phần chậm lại ởthịtrường Mỹtrong bối cảnh xung đột địa chính trịvà chiến tranh thương mại
+Dịch vụ CNTT trong nước
+10.382 
+14,2%
+Động lực tăng trưởng đến từviệc mởrộng tệp khách hàng tư nhân và khu vực công, trong đó hệsinh thái
+Made-by-FPT với mô hình license-based giúp FPT chuyển dịch từcung cấp dịch vụđơn thuần sang
+doanh thu phần mềm có khảnăng mởrộng, biên lợi nhuận cao hơn và mức độgắn kết khách hàng lớn
+hơn.
+Giáo dục, đầu tư và khác
+5.884 
+-4,0% Điều chỉnh nhẹphản ánh giả định thận trọng
+Lợi nhuận gộp
+19.044 
+17,7%
+BLNG
+34,0%
+Doanh thu tài chính
+1.699 
+-21,8%
+Chi phí tài chính
+1.790 
+37,9%
+Lãi từ công ty liên kết
+2.766 
+24,7% Kỳ vọng tiếp tục tăng trưởng mạnh nhờ đóng góp từ LNST của FRT và FPT Telecom
+Chi phí bán hàng
+4.799 
+18,2%
+Chi phí QLDN
+5.430 
+7,6%
+LNTT
+11.257 
+11,3%
+Công nghệ
+6.810 
+15,3%
+Giáo dục, đầu tư và khác
+4.447 
+5,7%
+LNST
+9.767 
+12,1%
+EPS
+5.212
+
+38
+IV. DỰ PHÓNG KẾT QUẢ KINH DOANH, ĐỊNH GIÁ & KHUYẾN NGHỊ
+2. Định giá và khuyến nghị
+➢ĐỊNH GIÁ. Dựa trên phương pháp định giá SOTP, Aseansc xác định mức giá hợp lý đối với FPT ởmức 91.800 đồng/cổphiếu, cao hơn 23% so với giá thịtrường
+ngày 02/06/2026. 
+➢KHUYẾN NGHỊ. Chúng tôi khuyến nghịKHẢQUAN đối với cơ hội đầu tư cổphiếu FPT với tầm nhìn đầu tư 1 năm.
+Phương pháp 
+định giá
+Giá trị cổ phần 
+(tỷ VND)
+% sở hữu 
+của FPT
+Đóng góp 
+vào FPT
+Giải trình
+Công nghệ
+P/E
+84.516
+100,0%
+84.516 
+P/E dự phóng ở mức 14,3, chiết khấu 30% so với mức trung bình ngành 
+của một số đối thủ trong ngành công nghệ (chủ yếu tại Ấn Độ) do FPT 
+khó duy trì tốc độ tăng trưởng 20% như giai đoạn trước.
+Giáo dục, đầu tư và khác
+P/E
+43.605 
+100,0%
+43.605 P/E dự phóng ở mức 11,3, tương đương mức trung bình ngành của một 
+số tổ chức giáo dục CNTT trên thế giới (chủ yếu tại Trung Quốc).
+Synnex FPT
+Giá trị ghi sổ
+48,0%
+1.106 Giá trị ghi sổ của Synnex FPT tại FPT là 1.106 tỷ đồng.
+FOX
+Vốn hóa TT
+57.771 
+45,7%
+25.059 Chiết khấu holding 5%
+FRT
+Vốn hóa TT
+24.949 
+46,5%
+11.030 Chiết khấu holding 5%
+TPB
+Vốn hóa TT
+44.385 
+6,8%
+2.855 Chiết khấu holding 5%
+FTS
+Vốn hóa TT
+8.992 
+17,6%
+1.502 Chiết khấu holding 5%
+Tổng cộng 
+171.802 
+Tiền và các khoản tương 
+đương tiền công ty mẹ
+8.591 
+Vay nợ ròng công ty mẹ
+(6.328)
+Giá trị VCSH
+174.065 
+Số lượng CP
+1.873.857.833Số lượng cổ phiếu sau khi phát hành 10% để trả cổ tức năm 2025
+Giá hợp lý (đồng/cp)
+91.800
+
+39
+IV. DỰ PHÓNG KẾT QUẢ KINH DOANH, ĐỊNH GIÁ & KHUYẾN NGHỊ
+2. Định giá và khuyến nghị
+Quốc gia
+Vốn hóa (triệu USD)
+ROE
+ROA
+P/E
+Infosys Ltd
+Ấn Độ
+50.023
+38,66%
+22,69%
+15,3
+HCL Technologies Ltd
+Ấn Độ
+35.101
+23,88%
+15,44%
+19,53
+Wipro Ltd
+Ấn Độ
+22.692
+15,72%
+9,90%
+15,98
+Tech Mahindra Ltd
+Ấn Độ
+13.058
+18,29%
+10,97%
+27,2
+Mphasis Ltd
+Ấn Độ
+4.567
+18,38%
+10,87%
+24,16
+Trung bình ngành
+20,43 
+Chỉ số P/E của một số đối thủ trong ngành công nghệ
+Quốc gia
+Vốn hóa (triệu USD)
+ROE
+ROA
+P/E
+New Oriental Education & Technology Group
+Trung Quốc
+8.427
+12,73%
+6,14%
+17,71
+TAL Education Group
+Trung Quốc
+6.627
+26,92%
+16,52%
+11,67
+COL Group Co Ltd
+Trung Quốc
+3.071
+-66,89%
+-12,29%
+At loss
+Strategic Education Inc
+Mỹ
+1.741
+8,00%
+6,38%
+13,60
+China East Education Holdings Ltd
+Trung Quốc
+1.424
+11,91%
+7,08%
+13,53
+Trung bình ngành
+11,30 
+Chỉ số P/E của một số tổ chức giáo dục CNTT trên thế giới
+Nguồn: Gurufocus, Aseansc Research
+
+THÔNG BÁO
+•
+NHÀ ĐẦU TƯ VUI LÒNG MỞ TÀI KHOẢN TẠI CÔNG TY CHỨNG KHOÁN ASEAN ĐỂ XEM BÁO CÁO ĐẦY ĐỦ.
+•
+NHÀ ĐẦU TƯ CÓ THỂ THAM GIA NHÓM TƯ VẤN ZALO TẠI:
+•
+NHÀ ĐẦU TƯ CÓ THỂ TRUY CẬP TRUNG TÂM DỮ LIỆU & PHÂN TÍCH THỊ TRƯỜNG TẠI: https://research.aseansc.com.vn/
+
+THÔNG TIN LIÊN HỆ
+Công ty Cổ phần chứng khoán ASEAN
+Địa chỉ: Tầng 4,5,6,7 số 3 Đặng Thái Thân, P.Phan Chu Trinh, Q.Hoàn Kiếm, Hà Nội
+Website: www.aseansc.com.vn | Hotline: 1900 638 088
+TRƯỞNG PHÒNG PHÂN TÍCH NGÀNH VÀ DOANH NGHIỆP
+Hai.LP
+Email: hai.lp@aseansc.com.vn
+ĐIỀU KHOẢN SỬ DỤNG
+KHUYẾN CÁO SỬ DỤNG
+Bản báo cáo này bao gồm các nhận định chủ quan và dựa trên nguồn thông tin đáng tin cậy và cơ sở phân tích chi tiết, cẩn trọng. ASEANSC không đảm 
+bảo sự chính xác và đầy đủ của các nguồn thông tin này đồng thời bản báo cáo này được chuẩn bị cho mục đích duy nhất là cung cấp thông tin và 
+không nhằm đưa ra bất kỳ đề nghị hay hướng dẫn ra quyết định cụ thể nào. Người sử dụng báo cáo nên xem báo cáo này như một nguồn tham khảo 
+khi đưa ra quyết định và phải chịu toàn bộ trách nhiệm đối với quyết định của chính mình. Các quan điểm và ước tính trong đánh giá của chúng tôi có 
+giá trị đến ngày ra báo cáo và có thể thay đổi mà không cần báo cáo trước. Bản báo cáo này được giữ bản quyền ASEANSC. Mọi sự sao chép, chuyển giao 
+hoặc sửa đổi trong bất kỳ trường hợp nào mà không có sự đồng ý của ASEANSC đều trái luật.

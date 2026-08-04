@@ -1,0 +1,14 @@
+{
+  "ticker": "HPG",
+  "sources": [
+    "cafef",
+    "vietstock"
+  ],
+  "reports_discovered": 27,
+  "pdf_downloaded": 21,
+  "accepted": 26,
+  "duplicates": 1,
+  "rejected": 0,
+  "failed": 0,
+  "needs_ocr": 0
+}

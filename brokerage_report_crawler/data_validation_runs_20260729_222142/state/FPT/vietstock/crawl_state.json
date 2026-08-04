@@ -1,0 +1,13 @@
+{
+  "ticker": "FPT",
+  "sources": [
+    "vietstock"
+  ],
+  "reports_discovered": 4,
+  "pdf_downloaded": 4,
+  "accepted": 4,
+  "duplicates": 0,
+  "rejected": 0,
+  "failed": 0,
+  "needs_ocr": 0
+}

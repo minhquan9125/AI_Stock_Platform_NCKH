@@ -1,0 +1,13 @@
+{
+  "ticker": "FPT",
+  "sources": [
+    "cafef"
+  ],
+  "reports_discovered": 1,
+  "pdf_downloaded": 1,
+  "accepted": 1,
+  "duplicates": 0,
+  "rejected": 0,
+  "failed": 0,
+  "needs_ocr": 0
+}

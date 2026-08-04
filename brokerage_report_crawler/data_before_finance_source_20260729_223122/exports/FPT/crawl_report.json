@@ -1,0 +1,15 @@
+{
+  "ticker": "FPT",
+  "sources": [
+    "vietstock"
+  ],
+  "reports_discovered": 1,
+  "pdf_downloaded": 0,
+  "accepted": 0,
+  "duplicates": 1,
+  "rejected": 0,
+  "failed": 0,
+  "needs_ocr": 0,
+  "output_jsonl": "data\\cleaned\\FPT\\FPT_brokerage_reports.jsonl",
+  "output_csv": "data\\exports\\FPT\\FPT_brokerage_reports.csv"
+}
