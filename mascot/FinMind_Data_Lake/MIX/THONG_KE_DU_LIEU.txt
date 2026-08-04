@@ -1,0 +1,10 @@
+=================================================
+  HỒ SƠ DỮ LIỆU MÃ CHỨNG KHOÁN: MIX
+  Dự án NCKH: FinMind RAG System
+=================================================
+
+DANH SÁCH CHI TIẾT CÁC FILE ĐÃ THU THẬP:
+Thời gian lưu        | Phân loại                 | Tên file
+-------------------- | ------------------------- | ----------------------------------------
+2026-07-30 22:33:26  | 3_Tin_Tuc_Va_Su_Kien      | FinMind_News_Mix.csv
+2026-07-30 22:33:26  | 3_Tin_Tuc_Va_Su_Kien      | FinMind_News_Mix.json

@@ -1,0 +1,29 @@
+=================================================
+  HỒ SƠ DỮ LIỆU MÃ CHỨNG KHOÁN: GENERAL_MARKET
+  Dự án NCKH: FinMind RAG System
+=================================================
+
+DANH SÁCH CHI TIẾT CÁC FILE ĐÃ THU THẬP:
+Thời gian lưu        | Phân loại                 | Tên file
+-------------------- | ------------------------- | ----------------------------------------
+2026-07-28 09:12:39  | 4_Du_Lieu_Khac            | FinMind_Data_FPT.csv
+2026-07-28 09:12:39  | 4_Du_Lieu_Khac            | FinMind_Data_FPT.json
+2026-07-30 14:00:21  | 5_Vi_Mo_Hang_Hoa          | FinMind_MacroCommodity.csv
+2026-07-30 14:00:21  | 5_Vi_Mo_Hang_Hoa          | FinMind_MacroCommodity.json
+2026-07-30 14:00:21  | 6_QA_Chuyen_Gia           | FinMind_QA_StackExchange.csv
+2026-07-30 14:00:21  | 6_QA_Chuyen_Gia           | FinMind_QA_StackExchange.json
+2026-07-30 14:50:57  | 6_QA_Chuyen_Gia           | FinMind_VAS_AccountingStandards.csv
+2026-07-30 14:50:57  | 6_QA_Chuyen_Gia           | FinMind_VAS_AccountingStandards.json
+2026-07-30 15:03:57  | 5_Vi_Mo_Hang_Hoa          | FinMind_MacroCommodity.csv
+2026-07-30 15:03:57  | 5_Vi_Mo_Hang_Hoa          | FinMind_MacroCommodity.json
+2026-07-30 15:03:57  | 6_QA_Chuyen_Gia           | FinMind_QA_StackExchange.csv
+2026-07-30 15:03:57  | 6_QA_Chuyen_Gia           | FinMind_QA_StackExchange.json
+2026-07-30 15:03:57  | 6_QA_Chuyen_Gia           | FinMind_VAS_AccountingStandards.csv
+2026-07-30 15:03:57  | 6_QA_Chuyen_Gia           | FinMind_VAS_AccountingStandards.json
+2026-07-30 16:08:23  | 4_Du_Lieu_Khac            | gsheet_credentials.json
+2026-07-30 19:23:20  | 5_Vi_Mo_Hang_Hoa          | FinMind_MacroCommodity.csv
+2026-07-30 19:23:20  | 5_Vi_Mo_Hang_Hoa          | FinMind_MacroCommodity.json
+2026-07-30 19:23:20  | 6_QA_Chuyen_Gia           | FinMind_QA_StackExchange.csv
+2026-07-30 19:23:20  | 6_QA_Chuyen_Gia           | FinMind_QA_StackExchange.json
+2026-07-30 19:23:20  | 6_QA_Chuyen_Gia           | FinMind_VAS_AccountingStandards.csv
+2026-07-30 19:23:20  | 6_QA_Chuyen_Gia           | FinMind_VAS_AccountingStandards.json
