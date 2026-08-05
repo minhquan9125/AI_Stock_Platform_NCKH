@@ -1,0 +1,49 @@
+I. Nhóm Dữ liệu Văn bản Phi cấu trúc (Nạp vào Vector DB)
+1. Báo cáo Thường niên (Annual Reports - Bạn đã có 2000–2025):
+
+Nội dung: Tầm nhìn chiến lược, quản trị doanh nghiệp, đánh giá rủi ro, chỉ số phát triển bền vững (ESG) và lịch sử hoạt động dài hạn của các công ty niêm yết.
+
+Mục đích: Giúp AI hiểu sâu về "câu chuyện dài hạn", đạo đức ban lãnh đạo và cấu trúc ngành nghề của từng doanh nghiệp.
+
+2. Báo cáo Phân tích từ Công ty Chứng khoán (Brokerage Research Reports):
+
+Nội dung: Báo cáo cập nhật kết quả kinh doanh, khuyến nghị đầu tư (MUA/BÁN/NẮM GIỮ), mô hình định giá (DCF, P/E, P/B, EV/EBITDA) và định giá mục tiêu (Target Price) từ SSI, VCI, VNDirect, HSC...
+
+Mục đích: Dạy AI "văn phong, cách tư duy phản biện" và phương pháp lập luận định giá chuyên nghiệp của giới tài chính.
+
+3. Tin tức & Công bố Thông tin Hàng ngày (News & Disclosures):
+
+Nội dung: Nghị quyết HĐQT, lịch chốt quyền cổ tức, thay đổi nhân sự chủ chốt (HOSE/HNX/UBCKNN) và bài báo tài chính từ CafeF, VnEconomy, Vietstock.
+
+Mục đích: Cung cấp tri thức thời gian thực giúp AI nắm bắt các sự kiện ngắn hạn và đánh giá tâm lý thị trường (Sentiment Analysis).
+
+II. Nhóm Dữ liệu Số cấu trúc & Chuỗi thời gian (Nạp vào Relational & Time-series DB)
+4. Báo cáo Tài chính Quý & Chỉ số Định giá (Quarterly Financial Statements & Ratios):
+
+Nội dung: 3 bảng tài chính chuẩn VAS (Cân đối kế toán, Kết quả kinh doanh, Lưu chuyển tiền tệ) theo từng Quý (Q1-Q4) và chỉ số tài chính tính toán sẵn (P/E, P/B, ROE, ROA, EPS, Biên lợi nhuận, Nợ/Vốn chủ sở hữu).
+
+Mục đích: Phục vụ các phép toán chính xác 100%, đối chiếu tăng trưởng lợi nhuận liền kề và thực hiện so sánh đồng cấp (Peer Comparison).
+
+5. Dữ liệu Giá thị trường & Dấu vết Dòng tiền (Market Time-series & Smart Money Flow):
+
+Nội dung: Lịch sử giá OHLCV (Open, High, Low, Close, Volume), khối lượng mua/bán ròng của Khối ngoại (Foreign Investors), Tự doanh (Proprietary Trading) và các lệnh giao dịch thỏa thuận lớn (Block Trades).
+
+Mục đích: Giúp AI nhận diện lực cung - cầu thực tế và hành vi gom/phân phối của dòng tiền lớn đằng sau biến động giá.
+
+III. Nhóm Dữ liệu Mạng lưới & Liên kết Nhân quả (Nạp vào Knowledge Graph)
+6. Dữ liệu Kinh tế Vĩ mô & Giá Hàng hóa (Macroeconomic & Commodity Data):
+
+Nội dung:
+
+Vĩ mô Việt Nam: Lãi suất điều hành, tỷ giá USD/VND, CPI, tăng trưởng GDP, tăng trưởng tín dụng.
+
+Hàng hóa thế giới: Giá dầu Brent, thép HRC, quặng sắt, cao su, phốt pho vàng, cước vận tải biển.
+
+Mục đích: Xây dựng mạng lưới chuỗi tác động vĩ mô (VD: [Lãi suất giảm] --> hưởng lợi --> [Ngành BĐS/Chứng khoán], [Giá HRC tăng] --> tác động --> [Biên lợi nhuận HPG/HSG]).
+
+IV. Nhóm Dữ liệu Kiểm chứng & Đánh giá (Evaluation & Instruction)
+7. Bộ Dữ liệu Hỏi - Đáp Chuẩn chuyên gia (Ground-Truth QA & Instruction Dataset):
+
+Nội dung: Từ điển chuẩn mực kế toán Việt Nam (VAS) và từ 1,000 – 3,000 cặp câu hỏi/đáp án mẫu về phân tích chứng khoán đã được con người kiểm chứng (Human-verified).
+
+Mục đích: Dùng để Fine-tune (hoặc làm ví dụ mẫu Few-shot Prompting) và đo lường 5 tiêu chuẩn NCKH của hệ thống: Answer Correctness, Citation Accuracy, Hallucination Rate, Retrieval Precision, Response Time.

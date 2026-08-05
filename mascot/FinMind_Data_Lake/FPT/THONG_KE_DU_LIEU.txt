@@ -1,0 +1,16 @@
+=================================================
+  HỒ SƠ DỮ LIỆU MÃ CHỨNG KHOÁN: FPT
+  Dự án NCKH: FinMind RAG System
+=================================================
+
+DANH SÁCH CHI TIẾT CÁC FILE ĐÃ THU THẬP:
+Thời gian lưu        | Phân loại                 | Tên file
+-------------------- | ------------------------- | ----------------------------------------
+2026-07-28 09:12:39  | 2_Bao_Cao_Tai_Chinh       | Data_BCTC_FPT.csv
+2026-07-28 09:12:39  | 2_Bao_Cao_Tai_Chinh       | Data_BCTC_FPT.json
+2026-07-28 09:12:39  | 1_Chi_So_Tai_Chinh_Vnstock | FinMind_Vnstock_FPT.json
+2026-07-28 20:17:56  | 3_Tin_Tuc_Va_Su_Kien      | CafeF_Article_FPT.csv
+2026-07-28 20:17:56  | 3_Tin_Tuc_Va_Su_Kien      | CafeF_Article_FPT.json
+2026-07-28 20:17:56  | 2_Bao_Cao_Tai_Chinh       | Data_BCTC_FPT.csv
+2026-07-28 20:17:56  | 2_Bao_Cao_Tai_Chinh       | Data_BCTC_FPT.json
+2026-07-28 20:17:56  | 1_Chi_So_Tai_Chinh_Vnstock | FinMind_Vnstock_FPT.json
