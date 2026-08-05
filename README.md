@@ -1,6 +1,6 @@
 # AI_Stock_Platform_NCKH — Merged Data Ingestion Pipeline
 
-Gộp code từ 4 nhánh (Quan, Nhan, HuynhVu, Huyen) thành 1 pipeline chạy đủ các nhiệm vụ thu thập dữ liệu đã chia trong tài liệu mô tả kiến trúc dữ liệu. Đây là thư mục **local độc lập, chưa gắn với git** — bạn tự kiểm tra rồi quyết định commit/push vào repo chính sau. Đã có sẵn `.gitignore` chặn credentials + dữ liệu tự sinh, an toàn để đưa lên GitHub.
+
 
 ## Ánh xạ Nhiệm vụ → Code
 
@@ -68,10 +68,6 @@ Dữ liệu khối ngoại duy nhất lấy được miễn phí là **snapshot 
 
 `upload_all_data.py` (đặt tại gốc thư mục) là script upload **thống nhất** — quét toàn bộ `data_ingestion/**/*.csv` (bỏ qua các thư mục dữ liệu trung gian như `state/`, `raw/`, `duplicates/`, `failed/`) và đẩy lên cùng 1 Google Sheet, mỗi file CSV → 1 tab riêng đặt tên theo đường dẫn + ngày chạy. Tab cũ hơn `RETENTION_DAYS` (mặc định 7 ngày) tự động bị xoá ở lần chạy tiếp theo.
 
-`data_ingestion/news_scraper/upload_to_gsheet.py` (bản gốc của HuynhVu, chỉ quét riêng `FinMind_Data_Lake/`) vẫn còn trong repo nhưng **không còn được gọi trong pipeline chính** — dùng `upload_all_data.py` là đủ, bao trùm cả phần này.
 
-## Lưu ý bảo mật
 
-- File `gsheet_credentials.json` (Google Service Account) là **private key thật**, chỉ đặt **1 bản duy nhất tại gốc thư mục dự án**, không đi kèm trong git (`.gitignore` đã chặn). Xem mục "Hướng dẫn cho thành viên nhóm" phía trên để biết cách lấy file này an toàn.
-- **Trước khi push bất kỳ thay đổi nào lên GitHub**, chạy `git status` kiểm tra kỹ không có file `*credentials*.json` nào bị `git add` nhầm — dù đã có `.gitignore`, vẫn nên kiểm tra lại 1 lần cho chắc (repo dự án từng bị GitHub Push Protection chặn vì lỗi này).
-- `data_ingestion/brokerage_reports/crawlers/cafef.py` cần Selenium + trình duyệt Chrome cài sẵn trên máy để tải PDF (do link PDF của CafeF ẩn sau nút Blazor).
+
