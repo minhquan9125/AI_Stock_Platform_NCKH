@@ -1,0 +1,86 @@
+{
+    "symbol": "FPT",
+    "fundamental_ratios": {
+        "item": "Năm",
+        "item_en": 0,
+        "item_id": "year",
+        "2018-Q1": "2018",
+        "2018-Q2": "2018",
+        "2018-Q3": "2018",
+        "2018-Q4": "2018"
+    },
+    "quarterly_performance": [
+        {
+            "item": "Doanh thu bán hàng và cung cấp dịch vụ",
+            "item_en": "Sales",
+            "item_id": "sales",
+            "2026-Q1": 12485836704352.0,
+            "2025-Q4": 20258865670867.0,
+            "2025-Q3": 17225507121683.0,
+            "2025-Q2": 16658335760739.0
+        },
+        {
+            "item": "Các khoản giảm trừ doanh thu",
+            "item_en": "Sales deductions",
+            "item_id": "sales_deductions",
+            "2026-Q1": -5839497577.0,
+            "2025-Q4": -33415777986.0,
+            "2025-Q3": -20985896381.0,
+            "2025-Q2": -33622720672.0
+        },
+        {
+            "item": "Doanh thu thuần",
+            "item_en": "Net sales",
+            "item_id": "net_sales",
+            "2026-Q1": 12479997206775.0,
+            "2025-Q4": 20225449892881.0,
+            "2025-Q3": 17204521225302.0,
+            "2025-Q2": 16624713040067.0
+        },
+        {
+            "item": "Giá vốn hàng bán",
+            "item_en": "Cost of sales",
+            "item_id": "cost_of_sales",
+            "2026-Q1": -8235107316087.0,
+            "2025-Q4": -13178174806719.0,
+            "2025-Q3": -10685654746292.0,
+            "2025-Q2": -10603672997092.0
+        },
+        {
+            "item": "Lợi nhuận gộp",
+            "item_en": "Gross Profit",
+            "item_id": "gross_profit",
+            "2026-Q1": 4244889890688.0,
+            "2025-Q4": 7047275086162.0,
+            "2025-Q3": 6518866479010.0,
+            "2025-Q2": 6021040042975.0
+        },
+        {
+            "item": "Doanh thu hoạt động tài chính",
+            "item_en": "Financial income",
+            "item_id": "financial_income",
+            "2026-Q1": 415863869179.0,
+            "2025-Q4": 553701922193.0,
+            "2025-Q3": 613110473502.0,
+            "2025-Q2": 1237012067887.0
+        },
+        {
+            "item": "Chi phí tài chính",
+            "item_en": "Financial expenses",
+            "item_id": "financial_expenses",
+            "2026-Q1": -367211384721.0,
+            "2025-Q4": -476744596151.0,
+            "2025-Q3": -352575079871.0,
+            "2025-Q2": -531385256080.0
+        },
+        {
+            "item": "Chi phí lãi vay",
+            "item_en": "Interest expenses",
+            "item_id": "interest_expenses",
+            "2026-Q1": -179461207664.0,
+            "2025-Q4": -207025852637.0,
+            "2025-Q3": -233582914481.0,
+            "2025-Q2": -216761295705.0
+        }
+    ]
+}
