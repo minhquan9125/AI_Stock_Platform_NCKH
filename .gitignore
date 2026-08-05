@@ -3,3 +3,26 @@
 *.pem
 *.key
 .env
+
+# Python
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+logs/
+**/*.log
+
+# Du lieu do script tu sinh ra (chay lai la co, khong can commit)
+data_ingestion/brokerage_reports/data/
+data_ingestion/news_scraper/FinMind_Data_Lake/
+data_ingestion/news_scraper/*.csv
+data_ingestion/news_scraper/*.json
+data_ingestion/structured_data/FinMind_*
+data_ingestion/macro_commodity/FinMind_*
+data_ingestion/qa_ground_truth/FinMind_*
+
+# File AGENTS.md tu dong sinh boi thu vien vnstock/vnai khi chay script
+# (chua noi dung chi thi cho AI assistant, khong phai file cua du an)
+AGENTS.md

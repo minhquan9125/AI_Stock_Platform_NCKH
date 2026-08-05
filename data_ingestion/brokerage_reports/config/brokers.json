@@ -1,0 +1,17 @@
+{
+  "SSI": {"official_domains": ["ssi.com.vn"], "aliases": ["SSI", "Chứng khoán SSI", "SSI Research"]},
+  "VNDIRECT": {"official_domains": ["vndirect.com.vn"], "aliases": ["VNDIRECT", "VNDirect Research"]},
+  "VIETSTOCK": {"official_domains": ["vietstock.vn"], "aliases": ["Vietstock"]},
+  "NSI": {"official_domains": ["nsi.vn", "nsi.com.vn"], "aliases": ["NSI", "Chứng khoán Quốc Gia"]},
+  "BVS": {"official_domains": ["bvsc.com.vn"], "aliases": ["BVS", "BVSC", "Chứng khoán Bảo Việt"]},
+  "MBS": {"official_domains": ["mbs.com.vn"], "aliases": ["MBS", "Chứng khoán MB"]},
+  "KBSV": {"official_domains": ["kbsec.com.vn"], "aliases": ["KBSV", "KB Securities Vietnam"]},
+  "FPTS": {"official_domains": ["fpts.com.vn"], "aliases": ["FPTS", "Chứng khoán FPT"]},
+  "BSC": {"official_domains": ["bsc.com.vn"], "aliases": ["BSC", "Chứng khoán BIDV"]},
+  "ACBS": {"official_domains": ["acbs.com.vn"], "aliases": ["ACBS"]},
+  "VCBS": {"official_domains": ["vcbs.com.vn"], "aliases": ["VCBS"]},
+  "VIETCAP": {"official_domains": ["vietcap.com.vn"], "aliases": ["Vietcap", "VCSC"]},
+  "HSC": {"official_domains": ["hsc.com.vn"], "aliases": ["HSC"]},
+  "VIX": {"official_domains": ["vixs.vn"], "aliases": ["VIX", "VIX Securities"]},
+  "VNDS": {"official_domains": ["vndirect.com.vn"], "aliases": ["VNDS", "VNDirect"]}
+}
