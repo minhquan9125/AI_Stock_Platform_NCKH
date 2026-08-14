@@ -1,3 +1,4 @@
+import argparse
 import csv
 import os
 import sys
@@ -115,9 +116,15 @@ def append_foreign_flow_snapshot(symbol, filename="FinMind_ForeignFlow_Snapshot.
     print(f"[v] Đã ghi snapshot khối ngoại {symbol} vào {filename}")
 
 
-def main():
-    tickers = ["FPT", "VCB", "HPG"]
-    start_date = "2020-01-01"
+def _default_tickers():
+    """Mặc định chỉ cào 1 mã nếu pipeline truyền xuống qua FINMIND_TICKER.
+    Khi chạy tay không tham số thì giữ nguyên bộ 3 mã mẫu như trước."""
+    env_ticker = os.getenv("FINMIND_TICKER", "").strip()
+    return [env_ticker.upper()] if env_ticker else ["FPT", "VCB", "HPG"]
+
+
+def main(tickers=None, start_date="2020-01-01"):
+    tickers = tickers or _default_tickers()
     end_date = datetime.now().strftime("%Y-%m-%d")
 
     for ticker in tickers:
@@ -141,4 +148,13 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # Thứ tự ưu tiên: --ticker / --tickers > biến môi trường FINMIND_TICKER
+    # > bộ 3 mã mẫu mặc định.
+    cli = argparse.ArgumentParser(description="Lấy OHLCV + snapshot khối ngoại theo mã cổ phiếu")
+    cli.add_argument("--ticker", help="Chỉ cào đúng MỘT mã (VD: VCB)")
+    cli.add_argument("--tickers", nargs="+", help="Cào nhiều mã cùng lúc")
+    cli.add_argument("--start-date", default="2020-01-01", help="Ngày bắt đầu lấy OHLCV (YYYY-MM-DD)")
+    args = cli.parse_args()
+
+    selected = [args.ticker] if args.ticker else args.tickers
+    main([symbol.strip().upper() for symbol in selected] if selected else None, args.start_date)

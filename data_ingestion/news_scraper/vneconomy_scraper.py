@@ -1,6 +1,8 @@
+import argparse
 import csv
 from datetime import datetime
 import json
+import os
 import random
 import re
 import sys
@@ -215,8 +217,16 @@ class VnEconomyScraper:
 # KHU VỰC THỰC THI CHÍNH
 # =====================================================================
 if __name__ == "__main__":
-    KEYWORD = "FPT"
-    MAX_ARTICLES = 15
+    # Thứ tự ưu tiên: --ticker > biến môi trường FINMIND_TICKER > mặc định "FPT".
+    cli = argparse.ArgumentParser(description="Cào tin tức VnEconomy cho MỘT mã cổ phiếu / chủ đề")
+    cli.add_argument("--ticker", default=os.getenv("FINMIND_TICKER", "FPT"), help="Mã cổ phiếu hoặc từ khóa cần cào")
+    cli.add_argument("--max-articles", type=int, default=15, help="Số bài tối đa cần thu thập")
+    args = cli.parse_args()
+
+    KEYWORD = args.ticker.strip()
+    if KEYWORD.isalnum() and len(KEYWORD) <= 10:  # là mã CK -> viết hoa cho đồng nhất tên file
+        KEYWORD = KEYWORD.upper()
+    MAX_ARTICLES = args.max_articles
 
     scraper = VnEconomyScraper(keyword=KEYWORD, max_articles=MAX_ARTICLES)
     scraper.run()

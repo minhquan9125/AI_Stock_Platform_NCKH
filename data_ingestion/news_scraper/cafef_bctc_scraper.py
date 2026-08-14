@@ -1,3 +1,4 @@
+import argparse
 import csv
 from datetime import datetime
 import json
@@ -369,11 +370,19 @@ class CafeFBCTCScraper:
 # KHU VỰC THỰC THI CHÍNH
 # =====================================================================
 if __name__ == "__main__":
-    # CHỈ CẦN THAY ĐỔI MÃ CỔ PHIẾU HOẶC TỪ KHÓA Ở ĐÂY (VD: "FPT", "VCI", "HPG", "MWG")
-    TICKER = "FPT"
+    # Mã cổ phiếu cần cào BCTC (VD: "FPT", "VCB", "HPG", "MWG").
+    # Thứ tự ưu tiên: --ticker > biến môi trường FINMIND_TICKER > mặc định "FPT".
+    cli = argparse.ArgumentParser(description="Cào công bố BCTC trên CafeF cho MỘT mã cổ phiếu")
+    cli.add_argument("--ticker", default=os.getenv("FINMIND_TICKER", "FPT"), help="Mã cổ phiếu hoặc từ khóa cần cào")
+    cli.add_argument("--max-reports", type=int, default=10, help="Số báo cáo tối đa cần thu thập")
+    args = cli.parse_args()
+
+    TICKER = args.ticker.strip()
+    if TICKER.isalnum() and len(TICKER) <= 10:  # là mã CK -> viết hoa cho đồng nhất tên file
+        TICKER = TICKER.upper()
 
     # Khởi tạo tool cào BCTC riêng biệt
-    bctc_scraper = CafeFBCTCScraper(keyword=TICKER, max_reports=10)
+    bctc_scraper = CafeFBCTCScraper(keyword=TICKER, max_reports=args.max_reports)
 
     # 1. Chạy cào thông tin báo cáo & link tải file
     bctc_scraper.run()

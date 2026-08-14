@@ -1,3 +1,4 @@
+import argparse
 import csv
 from datetime import datetime
 import json
@@ -304,11 +305,19 @@ class CafeFScraper:
 # KHU VỰC THỰC THI (MAIN ROUTINE)
 # =====================================================================
 if __name__ == "__main__":
-    # Từ khóa cần tìm (Thay đổi theo mã cổ phiếu hoặc chủ đề bạn muốn, VD: "VCI", "Báo cáo tài chính", "Ngành thép")
-    KEYWORD = "FPT"
-
+    # Từ khóa cần tìm: mã cổ phiếu hoặc chủ đề (VD: "VCB", "Ngành thép").
+    # Thứ tự ưu tiên: --ticker > biến môi trường FINMIND_TICKER (do
+    # run_full_pipeline.ps1 truyền xuống) > mặc định "FPT".
+    cli = argparse.ArgumentParser(description="Cào tin tức CafeF cho MỘT mã cổ phiếu / chủ đề")
+    cli.add_argument("--ticker", default=os.getenv("FINMIND_TICKER", "FPT"), help="Mã cổ phiếu hoặc từ khóa cần cào")
     # Số lượng bài tối đa muốn thu thập (trong MVP bạn nên để 15-30 bài để test luồng trước)
-    MAX_ARTICLES = 15
+    cli.add_argument("--max-articles", type=int, default=15, help="Số bài tối đa cần thu thập")
+    args = cli.parse_args()
+
+    KEYWORD = args.ticker.strip()
+    if KEYWORD.isalnum() and len(KEYWORD) <= 10:  # là mã CK -> viết hoa cho đồng nhất tên file
+        KEYWORD = KEYWORD.upper()
+    MAX_ARTICLES = args.max_articles
 
     # Khởi tạo và chạy bot
     scraper = CafeFScraper(keyword=KEYWORD, max_articles=MAX_ARTICLES)

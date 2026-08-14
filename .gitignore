@@ -15,6 +15,9 @@ logs/
 **/*.log
 
 # Du lieu do script tu sinh ra (chay lai la co, khong can commit)
+# File tong hop ket qua o goc du an (export_ticker_summary.py sinh ra sau
+# moi lan chay pipeline) - moi may moi khac, khong nen commit.
+/FinMind_*
 data_ingestion/brokerage_reports/data/
 data_ingestion/news_scraper/FinMind_Data_Lake/
 data_ingestion/news_scraper/*.csv

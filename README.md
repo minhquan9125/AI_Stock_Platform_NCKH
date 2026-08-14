@@ -31,8 +31,46 @@ Google Sheet đích đã share sẵn quyền Editor cho service account `finmind
 
 **3. Chạy toàn bộ pipeline (thu thập + tự động đẩy lên Google Sheet):**
 ```powershell
-./run_full_pipeline.ps1
+./run_full_pipeline.ps1 -Ticker VCB
 ```
+Tham số `-Ticker` quyết định **mã cổ phiếu duy nhất** được cào trong lần chạy đó — mã này được truyền xuống mọi script con (Task 2 báo cáo phân tích, Task 3 tin tức + BCTC, Task 4-5 chỉ số tài chính + giá) qua biến môi trường `FINMIND_TICKER` và tham số `--ticker`. Bỏ trống thì mặc định là `FPT`.
+
+Task 6 (vĩ mô/hàng hóa) và Task 7 (QA/VAS) không phụ thuộc mã cổ phiếu nên luôn chạy như cũ.
+
+Danh sách mã hợp lệ cho Task 2 nằm ở `data_ingestion/brokerage_reports/config/companies.json` (hiện có **33 mã**: VN30 + bluechip). Nếu truyền mã chưa khai báo, pipeline vẫn chạy nhưng in cảnh báo — vì thiếu `positive_aliases`/`excluded_entities` thì bước lọc báo cáo dễ nhận nhầm báo cáo của công ty con (VD báo cáo về Vinhomes bị tính là Vingroup).
+
+Chạy riêng lẻ từng script cũng dùng cùng một tham số:
+```powershell
+py data_ingestion/news_scraper/CafeFScraper.py --ticker MWG --max-articles 20
+```
+
+**4. Xem kết quả vừa cào (không cần Google Sheet):**
+
+Chạy xong pipeline sẽ tự sinh **`FinMind_KetQua_<MÃ>.json`** ở gốc dự án, gom hết dữ liệu của mã đó về 1 chỗ, đồng thời in bảng tóm tắt ra màn hình:
+
+```
+============ KET QUA THU THAP - MA VCB ============
+  so chi so dinh gia            : 32
+  so phien gia                  : 1729
+  so tin cafef                  : 3
+  so bao cao phan tich          : 12
+```
+
+Điều này cần thiết vì dữ liệu thô bị nằm rải rác 4 nơi khác nhau (`structured_data/`, `news_scraper/`, `news_scraper/FinMind_Data_Lake/<MÃ>/`, `brokerage_reports/data/`) — script tự quét cả 4, kể cả sau khi `finmind_file_organizer.py` đã di chuyển file.
+
+File JSON gồm: `tom_tat` (số liệu đếm), `canh_bao` (task nào chưa có dữ liệu), `cac_file_nguon` (đường dẫn + số bản ghi từng file), và `du_lieu` (nội dung thật).
+
+Mặc định file ở chế độ **rút gọn** (~70 KB, mở được bằng Notepad): giá thị trường chỉ nhúng 30 phiên gần nhất, tin tức bỏ phần `content` dài. Muốn đầy đủ:
+
+```powershell
+py export_ticker_summary.py --ticker VCB --full
+```
+
+Chạy lại riêng bước này bất cứ lúc nào mà không cần cào lại:
+```powershell
+py export_ticker_summary.py --ticker VCB
+```
+
 Script tự kiểm tra: nếu **có** `gsheet_credentials.json` ở gốc thư mục → chạy xong sẽ tự động gọi `upload_all_data.py` gom hết CSV vừa tạo và đẩy lên Sheet chung. Nếu **chưa có** file đó → vẫn chạy đủ Task 2-7 và lưu dữ liệu local bình thường, chỉ bỏ qua bước upload (có log cảnh báo rõ ràng, không lỗi dừng chương trình).
 
 Log chi tiết từng bước lưu tại `logs/full_pipeline_<timestamp>.log`.

@@ -1,4 +1,6 @@
+import argparse
 import json
+import os
 import sys
 import warnings
 
@@ -208,4 +210,10 @@ def fetch_stock_data_clean(symbol="FPT"):
 
 
 if __name__ == "__main__":
-    fetch_stock_data_clean("FPT")
+    # Thứ tự ưu tiên: --ticker > biến môi trường FINMIND_TICKER (do
+    # run_full_pipeline.ps1 truyền xuống) > mặc định "FPT".
+    cli = argparse.ArgumentParser(description="Lấy BCTC quý + chỉ số định giá cho MỘT mã cổ phiếu")
+    cli.add_argument("--ticker", default=os.getenv("FINMIND_TICKER", "FPT"), help="Mã cổ phiếu cần lấy dữ liệu")
+    args = cli.parse_args()
+
+    fetch_stock_data_clean(args.ticker.strip().upper())

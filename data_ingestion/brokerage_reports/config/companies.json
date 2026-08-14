@@ -18,6 +18,275 @@
   "VNM": {
     "company_name": "Công ty Cổ phần Sữa Việt Nam",
     "positive_aliases": ["Vinamilk", "Công ty Cổ phần Sữa Việt Nam", "HOSE: VNM", "cổ phiếu VNM", "mã VNM"],
+    "excluded_entities": {
+      "Sữa Mộc Châu": "MCM",
+      "Giống bò sữa Mộc Châu": "MCM"
+    }
+  },
+
+  "VCB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+    "positive_aliases": ["Vietcombank", "Ngân hàng Ngoại thương", "Ngân hàng TMCP Ngoại thương Việt Nam", "HOSE: VCB", "cổ phiếu VCB", "mã VCB"],
+    "excluded_entities": {
+      "Chứng khoán Vietcombank": "VCBS",
+      "Chứng khoán Ngân hàng Ngoại thương": "VCBS"
+    }
+  },
+  "BID": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+    "positive_aliases": ["BIDV", "Ngân hàng Đầu tư và Phát triển", "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam", "HOSE: BID", "cổ phiếu BID", "mã BID"],
+    "excluded_entities": {
+      "Chứng khoán BIDV": "BSI",
+      "Chứng khoán Ngân hàng Đầu tư và Phát triển": "BSI",
+      "Bảo hiểm BIDV": "BIC"
+    }
+  },
+  "CTG": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Công Thương Việt Nam",
+    "positive_aliases": ["VietinBank", "Ngân hàng Công Thương", "Ngân hàng TMCP Công Thương Việt Nam", "HOSE: CTG", "cổ phiếu CTG", "mã CTG"],
+    "excluded_entities": {
+      "Chứng khoán VietinBank": "CTS",
+      "Chứng khoán Ngân hàng Công Thương": "CTS",
+      "Bảo hiểm VietinBank": "VBI"
+    }
+  },
+  "TCB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Kỹ Thương Việt Nam",
+    "positive_aliases": ["Techcombank", "Ngân hàng Kỹ Thương", "Ngân hàng TMCP Kỹ Thương Việt Nam", "HOSE: TCB", "cổ phiếu TCB", "mã TCB"],
+    "excluded_entities": {
+      "Chứng khoán Kỹ Thương": "TCX",
+      "Chứng khoán Techcombank": "TCX",
+      "TCBS": "TCX"
+    }
+  },
+  "VPB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng",
+    "positive_aliases": ["VPBank", "Ngân hàng Việt Nam Thịnh Vượng", "Ngân hàng TMCP Việt Nam Thịnh Vượng", "HOSE: VPB", "cổ phiếu VPB", "mã VPB"],
+    "excluded_entities": {
+      "Chứng khoán VPBank": "VPBANKS",
+      "Chứng khoán VP": "VPBANKS",
+      "FE Credit": "FEC"
+    }
+  },
+  "MBB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Quân đội",
+    "positive_aliases": ["MB Bank", "MBBank", "Ngân hàng Quân đội", "Ngân hàng TMCP Quân đội", "HOSE: MBB", "cổ phiếu MBB", "mã MBB"],
+    "excluded_entities": {
+      "Chứng khoán MB": "MBS",
+      "Chứng khoán Ngân hàng Quân đội": "MBS",
+      "Bảo hiểm Quân đội": "MIG",
+      "MB Capital": "MBC"
+    }
+  },
+  "ACB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Á Châu",
+    "positive_aliases": ["Ngân hàng Á Châu", "Ngân hàng TMCP Á Châu", "Asia Commercial Bank", "HOSE: ACB", "cổ phiếu ACB", "mã ACB"],
+    "excluded_entities": {
+      "Chứng khoán ACB": "ACBS",
+      "Chứng khoán Á Châu": "ACBS"
+    }
+  },
+  "HDB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Phát triển Thành phố Hồ Chí Minh",
+    "positive_aliases": ["HDBank", "Ngân hàng Phát triển Thành phố Hồ Chí Minh", "Ngân hàng TMCP Phát triển TP.HCM", "HOSE: HDB", "cổ phiếu HDB", "mã HDB"],
+    "excluded_entities": {
+      "Chứng khoán HD": "HDS",
+      "HD Saison": "HDSAISON"
+    }
+  },
+  "STB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín",
+    "positive_aliases": ["Sacombank", "Ngân hàng Sài Gòn Thương Tín", "Ngân hàng TMCP Sài Gòn Thương Tín", "HOSE: STB", "cổ phiếu STB", "mã STB"],
+    "excluded_entities": {
+      "Chứng khoán Sacombank": "SBS",
+      "Chứng khoán Ngân hàng Sài Gòn Thương Tín": "SBS"
+    }
+  },
+  "VIB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Quốc tế Việt Nam",
+    "positive_aliases": ["Ngân hàng Quốc tế", "Ngân hàng TMCP Quốc tế Việt Nam", "Vietnam International Bank", "HOSE: VIB", "cổ phiếu VIB", "mã VIB"],
+    "excluded_entities": {}
+  },
+  "TPB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Tiên Phong",
+    "positive_aliases": ["TPBank", "Ngân hàng Tiên Phong", "Ngân hàng TMCP Tiên Phong", "HOSE: TPB", "cổ phiếu TPB", "mã TPB"],
+    "excluded_entities": {
+      "Chứng khoán Tiên Phong": "ORS",
+      "Chứng khoán TPBank": "ORS"
+    }
+  },
+  "SHB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Sài Gòn - Hà Nội",
+    "positive_aliases": ["Ngân hàng Sài Gòn - Hà Nội", "Ngân hàng TMCP Sài Gòn - Hà Nội", "HOSE: SHB", "cổ phiếu SHB", "mã SHB"],
+    "excluded_entities": {
+      "Chứng khoán Sài Gòn - Hà Nội": "SHS",
+      "Chứng khoán SHB": "SHS"
+    }
+  },
+  "SSI": {
+    "company_name": "Công ty Cổ phần Chứng khoán SSI",
+    "positive_aliases": ["Chứng khoán SSI", "SSI Securities Corporation", "Công ty Cổ phần Chứng khoán SSI", "HOSE: SSI", "cổ phiếu SSI", "mã SSI"],
+    "excluded_entities": {
+      "SSI Research": "SSI-RESEARCH",
+      "Trung tâm phân tích SSI": "SSI-RESEARCH",
+      "SSIAM": "SSIAM"
+    }
+  },
+
+  "VIC": {
+    "company_name": "Tập đoàn Vingroup - Công ty Cổ phần",
+    "positive_aliases": ["Vingroup", "Tập đoàn Vingroup", "HOSE: VIC", "cổ phiếu VIC", "mã VIC"],
+    "excluded_entities": {
+      "Vinhomes": "VHM",
+      "Vincom Retail": "VRE",
+      "Vinpearl": "VPL",
+      "VinFast": "VFS",
+      "Vincom Office": "VRE"
+    }
+  },
+  "VHM": {
+    "company_name": "Công ty Cổ phần Vinhomes",
+    "positive_aliases": ["Vinhomes", "Công ty Cổ phần Vinhomes", "HOSE: VHM", "cổ phiếu VHM", "mã VHM"],
+    "excluded_entities": {
+      "Vingroup": "VIC",
+      "Vincom Retail": "VRE",
+      "Vinpearl": "VPL",
+      "VinFast": "VFS"
+    }
+  },
+  "VRE": {
+    "company_name": "Công ty Cổ phần Vincom Retail",
+    "positive_aliases": ["Vincom Retail", "Công ty Cổ phần Vincom Retail", "HOSE: VRE", "cổ phiếu VRE", "mã VRE"],
+    "excluded_entities": {
+      "Vingroup": "VIC",
+      "Vinhomes": "VHM",
+      "Vinpearl": "VPL",
+      "VinFast": "VFS"
+    }
+  },
+  "MSN": {
+    "company_name": "Công ty Cổ phần Tập đoàn Masan",
+    "positive_aliases": ["Tập đoàn Masan", "Masan Group", "Công ty Cổ phần Tập đoàn Masan", "HOSE: MSN", "cổ phiếu MSN", "mã MSN"],
+    "excluded_entities": {
+      "Masan Consumer": "MCH",
+      "Hàng tiêu dùng Masan": "MCH",
+      "Masan High-Tech Materials": "MSR",
+      "Masan MEATLife": "MML",
+      "WinCommerce": "WCM"
+    }
+  },
+  "MWG": {
+    "company_name": "Công ty Cổ phần Đầu tư Thế Giới Di Động",
+    "positive_aliases": ["Thế Giới Di Động", "Đầu tư Thế Giới Di Động", "Mobile World", "HOSE: MWG", "cổ phiếu MWG", "mã MWG"],
+    "excluded_entities": {}
+  },
+  "SAB": {
+    "company_name": "Tổng Công ty Cổ phần Bia - Rượu - Nước giải khát Sài Gòn",
+    "positive_aliases": ["Sabeco", "Bia - Rượu - Nước giải khát Sài Gòn", "Bia Sài Gòn", "HOSE: SAB", "cổ phiếu SAB", "mã SAB"],
+    "excluded_entities": {
+      "Bia Sài Gòn - Miền Trung": "SMB",
+      "Bia Sài Gòn - Miền Tây": "WSB",
+      "Bia Sài Gòn - Phú Thọ": "BSP",
+      "Bia Hà Nội": "BHN"
+    }
+  },
+  "PNJ": {
+    "company_name": "Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận",
+    "positive_aliases": ["Phú Nhuận", "Vàng bạc Đá quý Phú Nhuận", "Phu Nhuan Jewelry", "HOSE: PNJ", "cổ phiếu PNJ", "mã PNJ"],
+    "excluded_entities": {}
+  },
+
+  "GAS": {
+    "company_name": "Tổng Công ty Khí Việt Nam - Công ty Cổ phần",
+    "positive_aliases": ["PV GAS", "Tổng Công ty Khí Việt Nam", "Khí Việt Nam", "HOSE: GAS", "cổ phiếu GAS", "mã GAS"],
+    "excluded_entities": {
+      "PV Power": "POW",
+      "Điện lực Dầu khí": "POW",
+      "PV Drilling": "PVD",
+      "Khoan và Dịch vụ khoan Dầu khí": "PVD",
+      "PVOIL": "OIL",
+      "Lọc hóa dầu Bình Sơn": "BSR",
+      "Kinh doanh khí miền Nam": "PGS",
+      "CNG Việt Nam": "CNG"
+    }
+  },
+  "PLX": {
+    "company_name": "Tập đoàn Xăng dầu Việt Nam",
+    "positive_aliases": ["Petrolimex", "Tập đoàn Xăng dầu Việt Nam", "HOSE: PLX", "cổ phiếu PLX", "mã PLX"],
+    "excluded_entities": {
+      "Hóa dầu Petrolimex": "PLC",
+      "Gas Petrolimex": "PGC",
+      "Vận tải Xăng dầu VIPCO": "VIP",
+      "Vận tải Xăng dầu VITACO": "VTO",
+      "PVOIL": "OIL"
+    }
+  },
+  "POW": {
+    "company_name": "Tổng Công ty Điện lực Dầu khí Việt Nam - Công ty Cổ phần",
+    "positive_aliases": ["PV Power", "Điện lực Dầu khí Việt Nam", "Tổng Công ty Điện lực Dầu khí", "HOSE: POW", "cổ phiếu POW", "mã POW"],
+    "excluded_entities": {
+      "PV GAS": "GAS",
+      "Tổng Công ty Khí Việt Nam": "GAS",
+      "Điện lực Dầu khí Nhơn Trạch 2": "NT2"
+    }
+  },
+  "GVR": {
+    "company_name": "Tập đoàn Công nghiệp Cao su Việt Nam - Công ty Cổ phần",
+    "positive_aliases": ["Tập đoàn Công nghiệp Cao su Việt Nam", "Cao su Việt Nam", "Vietnam Rubber Group", "HOSE: GVR", "cổ phiếu GVR", "mã GVR"],
+    "excluded_entities": {
+      "Cao su Phước Hòa": "PHR",
+      "Cao su Đồng Phú": "DPR",
+      "Cao su Tây Ninh": "TRC",
+      "Khu công nghiệp Nam Tân Uyên": "NTC"
+    }
+  },
+  "DGC": {
+    "company_name": "Công ty Cổ phần Tập đoàn Hóa chất Đức Giang",
+    "positive_aliases": ["Hóa chất Đức Giang", "Tập đoàn Hóa chất Đức Giang", "Duc Giang Chemicals", "HOSE: DGC", "cổ phiếu DGC", "mã DGC"],
+    "excluded_entities": {
+      "Hóa chất Đức Giang Lào Cai": "DGL"
+    }
+  },
+  "REE": {
+    "company_name": "Công ty Cổ phần Cơ Điện Lạnh",
+    "positive_aliases": ["Cơ Điện Lạnh", "REE Corporation", "Công ty Cổ phần Cơ Điện Lạnh", "HOSE: REE", "cổ phiếu REE", "mã REE"],
+    "excluded_entities": {
+      "Thủy điện Vĩnh Sơn - Sông Hinh": "VSH",
+      "Thủy điện Thác Bà": "TBC"
+    }
+  },
+
+  "VJC": {
+    "company_name": "Công ty Cổ phần Hàng không Vietjet",
+    "positive_aliases": ["Vietjet", "Vietjet Air", "Hàng không Vietjet", "HOSE: VJC", "cổ phiếu VJC", "mã VJC"],
+    "excluded_entities": {
+      "Vietnam Airlines": "HVN",
+      "Nhà ga quốc tế Cam Ranh": "CRTC"
+    }
+  },
+  "HVN": {
+    "company_name": "Tổng Công ty Hàng không Việt Nam - Công ty Cổ phần",
+    "positive_aliases": ["Vietnam Airlines", "Tổng Công ty Hàng không Việt Nam", "Hàng không Việt Nam", "HOSE: HVN", "cổ phiếu HVN", "mã HVN"],
+    "excluded_entities": {
+      "Vietjet": "VJC",
+      "Pacific Airlines": "PA",
+      "Dịch vụ Hàng hóa Nội Bài": "NCT",
+      "Suất ăn Hàng không Nội Bài": "NCS",
+      "Dịch vụ Hàng không Taseco": "AST"
+    }
+  },
+  "BVH": {
+    "company_name": "Tập đoàn Bảo Việt",
+    "positive_aliases": ["Bảo Việt", "Tập đoàn Bảo Việt", "Bao Viet Holdings", "HOSE: BVH", "cổ phiếu BVH", "mã BVH"],
+    "excluded_entities": {
+      "Chứng khoán Bảo Việt": "BVS",
+      "Bảo hiểm Bảo Việt": "BVGI",
+      "Quản lý quỹ Bảo Việt": "BVF"
+    }
+  },
+  "KDH": {
+    "company_name": "Công ty Cổ phần Đầu tư và Kinh doanh Nhà Khang Điền",
+    "positive_aliases": ["Khang Điền", "Nhà Khang Điền", "Đầu tư và Kinh doanh Nhà Khang Điền", "HOSE: KDH", "cổ phiếu KDH", "mã KDH"],
     "excluded_entities": {}
   }
 }
