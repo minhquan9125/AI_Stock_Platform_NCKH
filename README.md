@@ -35,7 +35,28 @@ Google Sheet đích đã share sẵn quyền Editor cho service account `finmind
 ```
 Tham số `-Ticker` quyết định **mã cổ phiếu duy nhất** được cào trong lần chạy đó — mã này được truyền xuống mọi script con (Task 2 báo cáo phân tích, Task 3 tin tức + BCTC, Task 4-5 chỉ số tài chính + giá) qua biến môi trường `FINMIND_TICKER` và tham số `--ticker`. Bỏ trống thì mặc định là `FPT`.
 
-Task 6 (vĩ mô/hàng hóa) và Task 7 (QA/VAS) không phụ thuộc mã cổ phiếu nên luôn chạy như cũ.
+**Chọn lấy dữ liệu nào — tham số `-Tasks`:**
+
+Mặc định chạy hết 6 task. Muốn chỉ lấy một phần thì liệt kê số task, cách nhau bằng dấu phẩy:
+
+| `-Tasks` | Lấy dữ liệu gì | Cần mã CK? | Thời gian |
+|---|---|---|---|
+| `2` | Báo cáo phân tích CTCK (CafeF, SSI, Vietstock, VNDirect) | Có | **Chậm nhất** — Selenium + tải/đọc PDF |
+| `3` | Tin tức CafeF + VnEconomy, công bố BCTC | Có | Vài phút |
+| `4` | BCTC quý + chỉ số định giá (P/E, P/B, ROE...) | Có | ~30 giây |
+| `5` | Giá OHLCV + snapshot khối ngoại | Có | ~30 giây |
+| `6` | Kinh tế vĩ mô + giá hàng hóa thế giới | Không | Vài phút |
+| `7` | QA chuyên gia + 26 chuẩn mực kế toán VAS | Không | Vài phút |
+
+```powershell
+./run_full_pipeline.ps1 -Ticker VCB -Tasks 4,5    # chỉ số tài chính + giá, ~1 phút
+./run_full_pipeline.ps1 -Tasks 6,7                # vĩ mô + QA, không cần mã
+./run_full_pipeline.ps1 -Ticker VCB -Tasks 2 -Sources ssi,vndirect
+```
+
+`-Sources` chỉ áp dụng cho Task 2, chọn trong `cafef`, `ssi`, `vietstock`, `vndirect` (mặc định cả 4). Bỏ `cafef` sẽ không cần Chrome/Selenium.
+
+Task 6 và 7 không phụ thuộc mã cổ phiếu — chạy một lần là dùng chung cho mọi mã, không cần chạy lại mỗi khi đổi mã.
 
 Danh sách mã hợp lệ cho Task 2 nằm ở `data_ingestion/brokerage_reports/config/companies.json` (hiện có **33 mã**: VN30 + bluechip). Nếu truyền mã chưa khai báo, pipeline vẫn chạy nhưng in cảnh báo — vì thiếu `positive_aliases`/`excluded_entities` thì bước lọc báo cáo dễ nhận nhầm báo cáo của công ty con (VD báo cáo về Vinhomes bị tính là Vingroup).
 
