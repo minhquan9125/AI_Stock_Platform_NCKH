@@ -33,7 +33,19 @@ Google Sheet đích đã share sẵn quyền Editor cho service account `finmind
 ```powershell
 ./run_full_pipeline.ps1 -Ticker VCB
 ```
-Tham số `-Ticker` quyết định **mã cổ phiếu duy nhất** được cào trong lần chạy đó — mã này được truyền xuống mọi script con (Task 2 báo cáo phân tích, Task 3 tin tức + BCTC, Task 4-5 chỉ số tài chính + giá) qua biến môi trường `FINMIND_TICKER` và tham số `--ticker`. Bỏ trống thì mặc định là `FPT`.
+Tham số `-Ticker` quyết định mã cổ phiếu được cào — truyền xuống mọi script con (Task 2 báo cáo phân tích, Task 3 tin tức + BCTC, Task 4-5 chỉ số tài chính + giá) qua biến môi trường `FINMIND_TICKER` và tham số `--ticker`. Bỏ trống thì mặc định là `FPT`.
+
+**Cào nhiều mã một lần** — liệt kê cách nhau bằng dấu phẩy:
+
+```powershell
+./run_full_pipeline.ps1 -Ticker FPT,VCB,HPG
+```
+
+Các mã chạy **tuần tự**, mỗi mã sinh ra một file `FinMind_KetQua_<MÃ>.json` riêng. Màn hình hiện tiến độ `[1/3] MA FPT`, `[2/3] MA VCB`... và cuối cùng là bảng tổng kết cả 3 mã.
+
+Task 6 và 7 **chỉ chạy một lần** dù bạn truyền bao nhiêu mã — dữ liệu vĩ mô và QA/VAS dùng chung cho mọi mã, cào lại là lãng phí. Chỉ Task 2, 3, 4, 5 mới lặp theo từng mã.
+
+Lưu ý thời gian: Task 2 mất nhiều phút cho mỗi mã (Selenium + tải/đọc PDF). Cào 10 mã đầy đủ có thể chạy cả tiếng — nên cân nhắc `-Tasks 3,4,5` khi cần nhanh.
 
 **Chọn lấy dữ liệu nào — tham số `-Tasks`:**
 
