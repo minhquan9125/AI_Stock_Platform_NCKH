@@ -1,0 +1,25 @@
+{
+  "ticker": "BID",
+  "target": 100,
+  "discovered": 14,
+  "accepted_unique": 11,
+  "duplicates": 0,
+  "rejected": 0,
+  "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 11,
+  "new_accepted": 0,
+  "total_unique_reports": 11,
+  "pdf_downloaded": 0,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 8,
+    "cafef": 6
+  },
+  "skipped_processed": 14,
+  "output_jsonl": "data\\cleaned\\BID\\BID_brokerage_reports.jsonl",
+  "output_csv": "data\\exports\\BID\\BID_brokerage_reports.csv"
+}

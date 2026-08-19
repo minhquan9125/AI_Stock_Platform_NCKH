@@ -1,0 +1,25 @@
+{
+  "ticker": "GAS",
+  "target": 100,
+  "discovered": 20,
+  "accepted_unique": 16,
+  "duplicates": 0,
+  "rejected": 0,
+  "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 16,
+  "new_accepted": 0,
+  "total_unique_reports": 16,
+  "pdf_downloaded": 0,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 14,
+    "cafef": 6
+  },
+  "skipped_processed": 20,
+  "output_jsonl": "data\\cleaned\\GAS\\GAS_brokerage_reports.jsonl",
+  "output_csv": "data\\exports\\GAS\\GAS_brokerage_reports.csv"
+}

@@ -1,0 +1,25 @@
+{
+  "ticker": "CTG",
+  "target": 100,
+  "discovered": 17,
+  "accepted_unique": 13,
+  "duplicates": 0,
+  "rejected": 0,
+  "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 13,
+  "new_accepted": 0,
+  "total_unique_reports": 13,
+  "pdf_downloaded": 0,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 11,
+    "cafef": 6
+  },
+  "skipped_processed": 17,
+  "output_jsonl": "data\\cleaned\\CTG\\CTG_brokerage_reports.jsonl",
+  "output_csv": "data\\exports\\CTG\\CTG_brokerage_reports.csv"
+}

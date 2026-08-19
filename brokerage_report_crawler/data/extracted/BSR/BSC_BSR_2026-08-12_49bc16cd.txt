@@ -1,0 +1,762 @@
+CTCP Lọc hóa Dầu Bình Sơn (HSX: BSR)
+KHUYẾN NGHỊ:
+Giá mục tiêu:
+Upside:
+CẬP NHẬT KẾT QUẢKINH DOANH
+KQKD Q2/2026: DTT = 58,716 tỷVND (+60% YoY, +28% QoQ), LNST-CĐTS = 7,460 tỷVND (+782% YoY, -10% QoQ).
+•
+Biên lợi nhuận gộp đạt 14.7% (+11.9 đpt svck, -6.0 đpt so với quý trước). Biên gộp tăng mạnh svck nhờ crack spread các 
+sản phẩm duy trì ở mức cao. So với quý trước, biên gộp thu hẹp từ mức đỉnh chủ yếu do crack spread Diesel và RON92 suy 
+giảm, trong khi crack spread Jet A1 vẫn giữ ở mức cao tương đương Q1.
+•
+Chi phí BH & QLDN đạt 460 tỷ VND (+21% YoY, -16% QoQ), tỷ lệ SG&A/DTT đạt 0.8% (-0.3 đpt svck, -0.4 đpt so với quý 
+trước). Tỷ lệ chi phí/doanh thu tiếp tục giảm nhờ hiệu ứng quy mô, mặc dù chi phí nhân viên và chi phí bằng tiền khác tăng 
++76% YoY lên 133 tỷ VND.
+•
+Thu nhập tài chính ròng đạt 303 tỷ VND (-7% YoY, +9% QoQ). Lãi tiền gửi ròng đạt 483 tỷ VND (+97% YoY, +22% QoQ) 
+giúp bù đắp cho khoản lỗ tỷ giá ròng -180 tỷ VND trong Q2/2026 (so với mức lãi tỷ giá ròng cùng kỳ năm trước). 
+Lũy kế 1H.2026: DTT = 104,636 tỷ VND (+52% YoY), LNST-CĐTS = 15,725 tỷ VND (+1,163% YoY).
+ĐÁNH GIÁ CỦA BSC & TRIỂN VỌNG 2026
+•
+KQKD Q2/2026 vượt dựphóng của BSC chủ yếu do Crack Spread các mặt hàng chủ lực duy trì ở mức cao và vượt ước tính.
+(i) Biên gộp Diesel đạt 21.0% (+14.9 đpt YoY), hạ nhiệt từ mức đỉnh 29.4% của Q1/2026.
+(ii) Biên gộp Jet A1 đạt 28.0% (+15.5 đpt YoY, +0.2 đpt QoQ) giữ vững xu hướng tăng trưởng tích cực từ Q1/2026 (27.8%).
+Lũy kế 6T/2026 đã hoàn thành lần lượt 52% và 66% dự phóng sau điều chỉnh của chúng tôi về doanh thu và lợi nhuận.
+•
+Dự phóng cả năm 2026F: BSC dự phóng doanh thu đạt 201,139 tỷ VND (+42% YoY), LNST-CĐTS đạt 23,717 tỷ VND 
+(+357% YoY), tăng lần lượt +12%/+53% so với báo cáo gần nhất chủ yếu do điều chỉnh tăng crack spread.
+Thông tin chú ý: (i) Triển vọng 2026 và cập nhật dự phóng (Trang 2) & (ii) Cập nhật diễn biến crack spread (Trang 2).
+Trung tâm phân tích BSC
+Lưu Thuỳ Linh
+(Chuyên viên phân tích)
+Linhlt2@bsc.com.vn
+1
+Thông tin doanh nghiệp
+Giá hiện tại (VND):
+Cổ phiếu LH (Triệu):
+Vốn hoá (Tỷ VND):
+Thanh khoản 30n (Triệu):
+Sở hữu nước ngoài:
+26,050
+5,007.3
+130,691
+9.8
+1.2%
+30%
+33,800
+MUA
+12/08/2026 - HOSE: BSR
+BÁO CÁO CẬP NHẬT
+KQKD
+2023
+2024
+2025
+2026F
+Doanh thu thuần
+147,423 
+123,027 
+141,578
+201,139 
+Lợi nhuận gộp
+9,760 
+491 
+6,049 
+27,878 
+LNST-CĐTS
+8,650 
+631 
+5,186 
+23,717 
+EPS
+2,789
+203
+1,035
+4,688
+R E S E A R C H
+Mở tài khoản
+
+2
+KHUYẾN NGHỊ:
+Giá mục tiêu:
+Upside:
+Thông tin doanh nghiệp
+Giá hiện tại (VND):
+Cổ phiếu LH (Triệu):
+Vốn hoá (Tỷ VND):
+Thanh khoản 30n (Triệu):
+Sở hữu nước ngoài:
+30%
+33,800
+MUA
+5,007.3
+130,691
+9.8
+1.2%
+12/08/2026 - HOSE: BSR
+BÁO CÁO CẬP NHẬT
+26,050
+R E S E A R C H
+Triển vọng 2H2026
+Điều chỉnh tăng dự phóng cả năm 2026: BSC nâng DTT 2026F lên 201,139 tỷ VND (+12% so với dự phóng cũ) và LNST-
+CĐTS lên 23,717 tỷ VND (+53%), tương ứng biên LN ròng 11.8% (so với 8.6% trước đó), nhờ chênh lệch lợi nhuận Q2/2026 
+thực tế vượt ước tính và giả định crack spread bình quân 2026 nâng lên 28.0 USD/thùng (từ 20.0 USD/thùng).
+Duy trì quan điểm Crack Spread neo cao trong 2H/2026: 
+•
+Chúng tôi duy trì quan điểm biên lọc dầu 2H/2026 tiếp tục được hỗ trợ bởi chính sách siết chặt hạn ngạch xuất khẩu của 
+Trung Quốc. Bên cạnh đó nguồn cung dầu thô dự kiến thặng dư trở lại khi Trung Đông phục hồi, trong khi cung thành phẩm 
+bình thường hóa chậm hơn do đứt gãy hạ tầng/logistics. Việc giá dầu thô giảm nhanh hơn giá sản phẩm đầu ra sẽ là bệ đỡ 
+giúp biên lọc dầu không suy giảm đột ngột, dù khó lặp lại mức đỉnh của 1H/2026
+•
+Sự phân hóa giữa các nhóm sản phẩm chính:
+(i) Diesel và Jet A-1 tiếp tục đóng vai trò dẫn dắt lợi nhuận chính: Tích cực nhất nhờ tồn kho khu vực thấp, cộng hưởng với 
+mùa tiêu thụ cao điểm dịp hè hiện tại và nhu cầu sưởi ấm (heating) vào Q4.
+(ii) Xăng (Mogas): Chỉ được hỗ trợ ngắn hạn, dự kiến chịu áp lực điều chỉnh trong Q4 do yếu tố mùa vụ hạ nhiệt và rủi ro cấu 
+trúc từ xu hướng chuyển đổi xe điện/hybrid tại Đông Á.
+Bảng: Dự phóng KQKD 2026F
+2024
+2025
+2026F
+2026F 
+cũ
+%Δ Dự 
+phóng
+Doanh thu thuần 123,027 141,578
+201,139 179,717
+12%
+Tăng trưởng
+-17%
+15%
+42%
+27%
+Lợi nhuận gộp
+491
+6,049
+27,878
+18,522
+51%
+Lợi nhuận ròng
+631
+5,186
+23,717
+15,515
+53%
+Tăng trưởng
+-93%
+722%
+357%
+199%
+Biên LNG
+0.4%
+4.3%
+13.9%
+10.3%
+34%
+% SG&A/DTT
+1.0%
+1.1%
+1.1%
+1.2%
+-7%
+Biên LN ròng
+0.5%
+3.7%
+11.8%
+8.6%
+37%
+Crack spread BQ
+14.9
+10.5
+28.0
+20.0
+40%
+DO
+17.5
+12.3
+34.4
+24.8
+39%
+Jet A1
+15.5
+14.7
+40.1
+24.9
+61%
+Nguồn: BSR, BSC Research
+Bảng: Độ nhạy Crack spread BQ 2H/2026 với LNST-CĐTS và giá mục tiêu 
+Δ Crack
+(USD/thùng)
+Crack BQ
+2H26
+NPAT
+MI
+2026F
+%Δ so
+cơ sở
+EPS
+2026F
+TP
+Upside
+-6.0
+18.1
+20,628
+-13.0%
+4,078
+30,400
+17%
+-4.0
+20.1
+21,657
+-8.7%
+4,281
+31,500
+21%
+-3.0
+21.1
+22,172
+-6.5%
+4,383
+32,100
+23%
+-2.0
+22.1
+22,687
+-4.3%
+4,485
+32,700
+26%
+-1.0
+23.1
+23,202
+-2.2%
+4,586
+33,200
+27%
+0.0
+24.1
+23,717
+0.0%
+4,688
+33,800
+30%
++1.0
+25.1
+24,232
+2.2%
+4,790
+34,400
+32%
++2.0
+26.1
+24,747
+4.3%
+4,892
+34,900
+34%
++3.0
+27.1
+25,262
+6.5%
+4,994
+35,500
+36%
++4.0
+28.1
+25,777
+8.7%
+5,095
+36,100
+39%
++6.0
+30.1
+26,806
+13.0%
+5,299
+37,200
+43%
+Nguồn: BSR, BSC Research
+
+3
+KHUYẾN NGHỊ:
+Giá mục tiêu:
+Upside:
+Thông tin doanh nghiệp
+Giá hiện tại (VND):
+Cổ phiếu LH (Triệu):
+Vốn hoá (Tỷ VND):
+Thanh khoản 30n (Triệu):
+Sở hữu nước ngoài:
+33,800
+MUA
+5,007.3
+130,691
+9.8
+1.2%
+12/08/2026 - HOSE: BSR
+BÁO CÁO CẬP NHẬT
+26,050
+R E S E A R C H
+Triển vọng 2H2026
+Cập nhật dự án trọng điểm
+(i) Dự án Nâng cấp, Mở rộng (NCMR) NMLD Dung Quất
+Tính đến ngày 16/07/2026, công tác san lấp mặt bằng đã đạt 57% khối lượng yêu cầu. Đáng chú ý, BSR đã chính thức ký kết 
+Hợp đồng EPC trong tháng 07/2026, đánh dấu việc dự án chính thức chuyển sang giai đoạn thi công xây dựng.
+(ii) Dự án bể chứa dầu thô mới
+BSR đã khánh thành bể chứa bổ sung dung tích 65,000m³ vào ngày 04/08/2026, hoàn thành vượt tiến độ hơn 30 ngày. Công 
+trình này nâng tổng năng lực dự trữ của nhà máy lên 585,000m³ (tăng 12.5%, tương đương 15 ngày vận hành), giúp doanh 
+nghiệp tăng cường tính linh hoạt trong nhập khẩu và phối trộn nguyên liệu.
+Crack DO 0,05%S
+ 82 
+Crack Mogas 95
+ 28 
+Crack Mogas 92
+ 25 
+Crack Jet A1
+ 69 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+30%
+
+KHUYẾN NGHỊCỦA BSC
+•
+BSC duy trì khuyến nghị MUA đối với cổ phiếu BSR với giá mục tiêu 33,800 VND/cp, tương đương với upside +30% so với 
+giá đóng cửa ngày 11/08/2026. Giá mục tiêu không đổi so với báo cáo trước dù LNST-CĐTS 2026F được nâng +53%, do
+chúng tôi hạEV/EBITDA mục tiêu từ6.x lần (trung vịlịch sử) về4.x lần nhằm phản ánh thận trọng việc nền lợi nhuận
+1H/2026 ởmức cao khó duy trì và biên lọc dầu dựkiến hạnhiệt trong 2027. Tham khảo báo cáo BSR gần nhất tại đây.
+•
+Hiện cổ phiếu BSR đang được giao dịch quanh mức EV/EBITDA fw 2026 = 2.6x, chiết khấu -62% so với trung vị 5 năm. Sau
+nhịp giảm hơn 40% từđỉnh T3/2026, giá cổphiếu đã phản ánh phần lớn rủi ro crack spread hạnhiệt, trong khi biên lọc dầu
+duy trì thặng dư trong 2H/2026 giúp bảo vệnền lợi nhuận mởra biên an toàn hấp dẫn. 
+KHUYẾN NGHỊ:
+Giá mục tiêu:
+Upside:
+Thông tin doanh nghiệp
+Giá hiện tại (VND):
+Cổ phiếu LH (Triệu):
+Vốn hoá (Tỷ VND):
+Thanh khoản 30n (Triệu):
+Sở hữu nước ngoài:
+33,800
+MUA
+5,007.3
+130,691
+9.8
+1.2%
+12/08/2026 - HOSE: BSR
+BÁO CÁO CẬP NHẬT
+26,050
+R E S E A R C H
+4
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+30,000
+35,000
+40,000
+ -
+ 500
+ 1,000
+ 1,500
+ 2,000
+ VNINDEX
+ BSR
+-50
+0
+50
+100
+-2x Std
+-1x Std
+Median EV/EBITDA
++1 x Std
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+-2x Std
+-1x Std
+ Median P/E
++1 x Std
++2 x Std
+ BSR P/E TTM
+0.0
+1.0
+2.0
+3.0
+4.0
+-2x Std
+-1x Std
+Median P/B
++1 x Std
++2 x Std
+ BSR P/B TTM
+30%
+
+5
+KHUYẾN NGHỊ:
+Giá mục tiêu:
+Upside:
+Thông tin doanh nghiệp
+Giá hiện tại (VND):
+Cổ phiếu LH (Triệu):
+Vốn hoá (Tỷ VND):
+Thanh khoản 30n (Triệu):
+Sở hữu nước ngoài:
+33,800
+5,007.3
+130,691
+9.8
+1.2%
+12/08/2026 - HOSE: BSR
+BÁO CÁO CẬP NHẬT
+26,050
+MUA
+R E S E A R C H
+BẢNG TÓM TẮT TÌNH HÌNH KINH DOANH Q2/2026
+Tỷ VND
+Q2.2026
+%QoQ
+% YoY
+1H.2026
+1H.2025
+% YoY
+Doanh thu thuần
+58,716 
+28%
+60%
+104,636 
+68,667 
+52%
+DO
+25,618 
+21%
+59%
+46,800
+29,433 
+59%
+RON95
+13,448 
+-8%
+14%
+28,070
+21,847 
+28%
+RON92
+6,481 
+330%
+152%
+7,989
+5,088 
+57%
+Jet A1
+4,570 
+27%
+89%
+8,166
+4,767 
+71%
+LPG
+2,624 
+34%
+31%
+4,589
+4,053 
+13%
+Khác
+4,659 
+2345%
+38086%
+4,849
+19 
+25422%
+Sản lượng tiêu thụ (tấn)
+1,999 
+-2%
+-6%
+4,030
+3,860 
+4%
+Giá bán bình quân (Tr.VND/tấn)
+28,088 
+25%
+62%
+25,964
+17,788 
+46%
+USD/VND
+26,116 
+0%
+0%
+26,116
+25,848 
+1%
+Crude oil
+93 
+3%
+43%
+91 
+68 
+34%
+Tình hình kinh doanh – Doanh thu và biến động biên lợi nhuận gộp theo sản phẩm
+Doanh thu thuần Q2/2026 đạt 58,716 tỷ VND (+28% QoQ, +60% YoY). Sản lượng tiêu thụ đạt 2.00 triệu tấn (-2% QoQ, -6% 
+YoY), tuy nhiên đà tăng mạnh của doanh thu được dẫn dắt bởi giá bán bình quân đạt 28.09 triệu VND/tấn (+25% QoQ, +62% 
+YoY), đồng pha với diễn biến giá dầu thô Brent trung bình tăng lên 93 USD/thùng (+3% QoQ, +43% YoY).
+•
+DO và RON95 đóng góp 67% tổng DTT, ghi nhận doanh thu lần lượt đạt 25,618 tỷ VND (+21% QoQ, +59% YoY) và 
+13,448 tỷ VND (-8% QoQ, +14% YoY). Biên gộp hai mặt hàng cải thiện bứt phá svck, đạt 21.0% (+14.9 đpt YoY) và 12.0% 
+(+16.6 đpt YoY). So với quý trước, biên gộp DO thu hẹp (-8.4 đpt QoQ) do crack spread hạ nhiệt, trong khi RON95 duy trì 
+xu hướng tích cực (+0.2 đpt QoQ).
+•
+Jet A1 doanh thu đạt 4,570 tỷ VND (+27% QoQ, +89% YoY), biên gộp giữ mức cao 28.0% (+15.5 đpt YoY, +0.2 đpt QoQ). 
+30%
+
+BẢNG TÓM TẮT KQKD QUÝ 2/2026
+6
+KHUYẾN NGHỊ:
+Giá mục tiêu:
+Upside:
+Thông tin doanh nghiệp
+Giá hiện tại (VND):
+Cổ phiếu LH (Triệu):
+Vốn hoá (Tỷ VND):
+Thanh khoản 30n (Triệu):
+Sở hữu nước ngoài:
+33,800
+5,007.3
+130,691
+9.8
+1.2%
+12/08/2026 - HOSE: BSR
+BÁO CÁO CẬP NHẬT
+26,050
+MUA
+R E S E A R C H
+Tỷ đồng
+Q2.2026
+%QoQ
+% YoY
+1H.2026
+1H.2025
+% YoY
+DT thuần
+58,716 
+28%
+60%
+104,636 
+68,667 
+52%
+Giá vốn
+(50,110)
+38%
+40%
+(86,523)
+(67,254)
+29%
+Lãi gộp
+8,606 
+-9%
+735%
+18,113 
+1,413 
+1182%
+DT tài chính
+583 
+10%
+31%
+1,112 
+910 
+22%
+CP tài chính
+(281)
+12%
+130%
+(531)
+(225)
+136%
+Lãi vay
+(92)
+9%
+51%
+(176)
+(126)
+40%
+Lãi từ CTLK
+- 
+- 
+- 
+CP BH
+(227)
+-18%
+19%
+(504)
+(347)
+45%
+CP QLDN
+(233)
+-14%
+23%
+(506)
+(316)
+60%
+Lãi từ HĐKD
+8,449 
+-9%
+768%
+17,684 
+1,435 
+1132%
+TN khác, ròng
+(0)
+-100%
+-86%
+13 
+(0)
+-9507%
+LNTT
+8,484 
+-8%
+765%
+17,733 
+1,453 
+1121%
+Thuế
+(1,023)
+4%
+662%
+(2,006)
+(206)
+872%
+LNST
+7,461 
+-10%
+781%
+15,727 
+1,246 
+1162%
+CĐTS
+1 
+2 
+2 
+LNST-CĐTS
+7,460 
+-10%
+782%
+15,725 
+1,245 
+1163%
+Chỉ số 
+Biên LNG
+14.7%
+-6.0 đpt
++11.9 đpt
+17.3%
+2.1%
++15.3 đpt
+Biên LNR
+13%
+-5.3 đpt
++10.4 đpt
+15.0%
+1.8%
++13.2 đpt
+SG&A/DT
+1%
+-0.4 đpt
+-0.3 đpt
+1.0%
+1.0%
+-0.0 đpt
+Nguồn: BSR, BSC Research
+30%
+
+Hệ thống khuyến nghị
+Các khuyến nghịMua, Bán hoặc Nắm giữchứng khoán được xác định dựa trên tổng mức sinh lời kỳvọng, bằng tổng của chênh lệch
+giữa giá mục tiêu và giá đóng cửa ngày khuyến nghịcủa chứng khoán cộng với tỷsuất cổtức kỳvọng. Các định nghĩa vềkhuyến
+nghịcụthểnhư sau:
+Xếp hạng khuyến nghị
+Định nghĩa
+MUA MẠNH
+Tổng mức sinh lời kỳ vọng trong 1 năm từ 30% trở lên
+MUA
+Tổng mức sinh lời kỳ vọng trong 1 năm từ 15% đến 30%
+NẮM GIỮ
+Tổng mức sinh lời kỳ vọng trong 1 năm từ -10% đến 15%
+BÁN
+Tổng mức sinh lời kỳ vọng trong 1 năm thấp hơn -10%
+Thông tin liên hệ- Trung tâm phân tích Nghiên cứu
+Phan Quốc Bửu
+Quyền phụ trách Trung tâm Phân tích Nghiên cứu
+Buupq@bsc.com.vn
+Bùi Nguyên Khoa
+P. Giám đốc Trung tâm PTNC
+Vĩ mô – Thị Trường
+Khoabn@bsc.com.vn
+Nguyễn Thị Cẩm Tú
+Quyền trưởng nhóm Trung tâm PTNC
+Ngành – Doanh nghiệp 
+Tuntc@bsc.com.vn
+Nhóm Ngân hàng, Tài chính
+Nhóm Bất Động Sản, VLXD
+Nhóm Dầu khí, Điện, Phân bón – Hoá chất
+Nhóm Bán lẻ, Xuất khẩu, Logistics
+Nguyễn Dân Trưởng
+Chuyên viên phân tích
+Truongnd@bsc.com.vn
+Phạm Quang Minh
+Trưởng nhóm, Chuyên viên phân tích cao cấp
+Minhpq@bsc.com.vn
+Lưu Thuỳ Linh
+Trưởng nhóm, Chuyên viên phân tích cao cấp
+Linhlt2@bsc.com.vn
+Phạm Thị Minh Châu
+Trưởng nhóm, Chuyên viên phân tích cao cấp
+Chauptm@bsc.com.vn
+Lâm Việt
+Chuyên viên phân tích cao cấp
+Vietl@bsc.com.vn
+Trần Lâm Tùng
+Chuyên viên phân tích
+Tungtl@bsc.com.vn
+Vũ Công Hoàng Duy
+Chuyên viên phân tích
+Duyvch@bsc.com.vn
+Trần Nguyên Tường Huy
+Chuyên viên phân tích
+Huytnt@bsc.com.vn
+
+KHUYẾN CÁO SỬ DỤNG
+Bản báo cáo này của Công ty Cổphần Chứng khoán BIDV (BSC), chỉcung cấp những thông
+tin chung và phân tích vềtình hình kinh tếvĩ mô cũng như diễn biến thịtrường chứng khoán
+trong ngày. Báo cáo này không được xây dựng đểcung cấp theo yêu cầu của bất kỳtổchức
+hay cá nhân riêng lẻnào hoặc các quyết định mua bán, nắm giữchứng khoán. Nhà đầu tư chỉ
+nên sửdụng các thông tin, phân tích, bình luận của Bản báo cáo như là nguồn tham khảo
+trước khi đưa ra những quyết định đầu tư cho riêng mình. Mọi thông tin, nhận định và dựbáo
+và quan điểm trong báo cáo này được dựa trên những nguồn dữliệu đáng tin cậy. Tuy nhiên
+Công ty Cổphần Chứng khoán BIDV (BSC) không đảm bảo rằng các nguồn thông tin này là
+hoàn toàn chính xác và không chịu bất kỳmột trách nhiệm nào đối với tính chính xác của
+những thông tin được đềcập đến trong báo cáo này, cũng như không chịu trách nhiệm về
+những thiệt hại đối với việc sửdụng toàn bộhay một phần nội dung của bản báo cáo này. Mọi
+quan điểm cũng như nhận định được đềcập trong báo cáo này dựa trên sựcân nhắc cẩn
+trọng, công minh và hợp lý nhất trong hiện tại. Tuy nhiên những quan điểm, nhận định này có
+thểthay đổi mà không cần báo trước. Bản báo cáo này có bản quyền và là tài sản của Công ty
+Cổphần Chứng khoán BIDV (BSC). Mọi hành vi sao chép, sửa đổi, in ấn mà không có sựđồng
+ý của BSC đều trái luật. Bất kỳnội dung nào của tài liệu này cũng không được (i) sao chụp hay
+nhân bản ởbất kỳhình thức hay phương thức nào hoặc (ii) được cung cấp nếu không được sự
+chấp thuận của Công ty Cổphần Chứng khoán BIDV.
+© 2025 BIDV Securities Company, All rights reserved. Unauthorized access is prohibited. 
+8

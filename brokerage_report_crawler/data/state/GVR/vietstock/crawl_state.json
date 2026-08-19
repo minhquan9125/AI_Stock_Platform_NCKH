@@ -1,0 +1,25 @@
+{
+  "ticker": "GVR",
+  "target": 100,
+  "discovered": 13,
+  "accepted_unique": 9,
+  "duplicates": 0,
+  "rejected": 0,
+  "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 9,
+  "new_accepted": 0,
+  "total_unique_reports": 9,
+  "pdf_downloaded": 0,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 7,
+    "cafef": 6
+  },
+  "skipped_processed": 13,
+  "output_jsonl": "",
+  "output_csv": ""
+}

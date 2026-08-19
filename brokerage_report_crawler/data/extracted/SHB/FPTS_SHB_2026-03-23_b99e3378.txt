@@ -1,0 +1,171 @@
+1/3 
+PHÂN TÍCH KỸ THUẬT CỔ PHIẾU 
+ 
+ 
+Chuyên viên phân tích: 
+Nguyễn Quang Lân 
+Email: LanNQ@fpts.com.vn 
+Điện thoại : 1900 6446 – Ext : 4388 
+Người phê duyệt báo cáo: 
+Nguyễn Ngọc Tuấn 
+Trưởng nhóm phân tích kỹ thuật 
+ 
+Giá hiện tại 
+Giá bán mục tiêu 
+Giá bán dừng lỗ 
+Loại KN 
+14.400 
+12.000 
+15.400 
+Swing trade 
+Vị thế khuyến nghị 
+ 
+Bán 
+ 
+ 
+ 
+  
+Chỉ báo kỹ thuật 
+Giá trị 
+Tín hiệu 
+EMA 20 
+15.125 
+Tiêu cực 
+EMA 60 
+15.647 
+Tiêu cực 
+MACD 
+-0,27 
+Tiêu cực 
+OBV 
+5.517.645.824 
+Tiêu cực 
+ 
+Ngưỡng Hỗ trợ/kháng cự 
+Giá trị 
+Hỗ trợ 1 
+12.000 
+Hỗ trợ 2 
+11.300 
+Kháng cự 1 
+15.400 
+Kháng cự 2 
+16.200 
+Đánh mất cấu trúc sideway 5 tháng, SHB để ngỏ khả năng nối tiếp đà giảm 
+trung hạn. 
+Quan điểm kỹ thuật 
+• 
+Trên EOD, kênh xu hướng giảm từ tháng 8/2025 tiếp tục được bảo lưu sau 
+khi SHB Breakdown vùng sideway 5 tháng. Hiện tại, đồ thị đang trong nhịp 
+phục hồi ngắn tái kiểm định cận trên của nền giá vừa bứt phá với thanh 
+khoản thấp. Đặc biệt, việc đường giá thất bại trong việc lấy lại hỗ trợ động 
+EMA200 - ngưỡng phân tách tốt các pha tăng giảm của cổ phiếu trong 
+trung dài hạn, đang góp phần củng cố cho kịch bản nối dài đà giảm trung 
+hạn.  
+• 
+Điểm nhấn tại phiên 23/3 xuất hiện nến Long Bearish đi kèm thanh khoản 
+lớn nhất 1 tuần, phá vỡ thế giằng co tại 3 cây nến Spinning Top xung quanh 
+vùng kháng cự. Diễn biến này cho thấy lực cung đã áp đảo hoàn toàn, từ 
+đó xác nhận tín hiệu kiểm định thành công vùng nền giá vừa phá vỡ.  
+• 
+Về mặt chỉ báo, MACD giao cắt xuống Signal line, ủng hộ kịch bản tiếp diễn 
+xu hướng giảm trung hạn. Tín hiệu này có độ tin cậy cao trong việc dự báo 
+các vùng đỉnh ngắn hạn xuyên suốt đà giảm từ tháng 8/2025. 
+• 
+Giá mục tiêu ngắn hạn cho SHB được xác định tại mức 12.000 đồng, tương 
+ứng với vùng hợp lưu của nền giá giai đoạn tháng 5 – tháng 7/2025 và 
+ngưỡng 127,2% Fibonacci mở rộng trên cơ sở nhịp giảm ngắn hạn liền 
+trước. 
+Khuyến nghị giao dịch 
+• 
+Khi cổ phiếu đang ghi nhận sự trở lại rõ nét của lực cung, nhà đầu tư có 
+thể mở vị thế Bán xung quanh vùng giá 14.400 đồng. 
+• 
+Ngưỡng Stoploss được xác định tại mức 15.400 đồng, tương ứng với kịch 
+bản giá thành công lấy lại đường EMA200 và quay trở lại vùng nền giá kéo 
+dài từ tháng 11/2025.  
+Ngân hàng TMCP Sài Gòn - Hà Nội (HOSE: SHB) 
+       Ngày: 23 tháng 03 năm 2026
+
+2/3 
+HỆ THỐNG KHUYẾN NGHỊ GIAO DỊCH THEO PHÂN TÍCH KỸ THUẬT CỦA FPTS:  
+Khuyến nghị giao dịch theo phân tích kỹ thuật của FPTS được xây dựng dựa trên 02 loại chiến lược giao dịch chính bao gồm: Giao dịch theo xu hướng (Trend Trade) 
+và Giao dịch theo dao động (Swing Trade).  
+ 
+Giao dịch theo xu hướng (Trend Trade):  
+• 
+Là phương pháp giao dịch nhằm tìm kiếm lợi nhuận thông qua việc phân tích xu hướng giá của một loại chứng khoán theo một hướng cụ thể. Mục tiêu của hoạt 
+động phân tích nhằm xác định thời điểm xu hướng hình thành, mở vị thế tham gia và nắm giữ vị thế cho đến khi xu hướng kết thúc.  
+• 
+Điểm vào lệnh với chiến lược này là tín hiệu xác nhận hình thành xu hướng hoặc sau những đợt hiệu chỉnh trên xu hướng chính. Trong khi đó, điểm thoát lệnh 
+thường đặt tại các mức giá báo hiệu một xu hướng mới. 
+• 
+Phương pháp giao dịch theo xu hướng sẽ chịu rủi ro bởi các dao động ngược chiều xu hướng chính, các tin tức ảnh hưởng từ vĩ mô và thông tin cơ bản của 
+chứng khoán.  
+• 
+Giao dịch theo xu hướng có thể được áp dụng cho các khung thời gian ngắn và trung hạn. Khoảng thời gian kỳ vọng duy trì xu hướng chính của chứng 
+khoán trong khuyến nghị của FPTS là 03 tháng.  
+ 
+Giao dịch theo dao động (Swing Trade): 
+• 
+Là phương pháp giao dịch nhằm tìm kiếm lợi nhuận thông qua việc phân tích các khả năng xảy ra sự thay đổi của giá chứng khoán. Mục tiêu của hoạt động phân 
+tích nhằm xác định chiều hướng giá sẽ biến động kế tiếp và thu được một phần lợi nhuận nếu động thái đó xảy ra. 
+• 
+Điểm vào lệnh với chiến lược này thường nằm gần mức hỗ trợ (support) hoặc mức kháng cự (resistance) và kèm theo những tín hiệu dự báo hành động giá tiềm 
+năng. Điểm thoát lệnh thường đặt tại mức giá mục tiêu hoặc mức giá báo hiệu biến động kỳ vọng không xảy ra. 
+• 
+Phương pháp giao dịch theo xu hướng sẽ chịu rủi ro từ các tin tức ảnh hưởng đến tâm lý giao dịch, biến động ngắn hạn của thị trường chung. 
+• 
+Giao dịch theo dao động thường hoạt động tốt hơn tại các khung thời gian ngắn hạn. Khoảng thời gian kỳ vọng tận dụng sự biến động giá ngắn hạn của 
+chứng khoán trong khuyến nghị của FPTS là 01 tháng.
+
+3/3 
+Tuyên bố miễn trách nhiệm 
+Các thông tin và nhận định trong báo cáo này được cung cấp bởi FPTS dựa vào các nguồn thông tin mà FPTS coi là đáng tin cậy, có sẵn và mang tính hợp pháp. Tuy 
+nhiên, chúng tôi không đảm bảo tính chính xác hay đầy đủ của các thông tin này. 
+Nhà đầu tư sử dụng báo cáo này cần lưu ý rằng các nhận định trong báo cáo này mang tính chất chủ quan của chuyên viên phân tích FPTS. Nhà đầu tư sử dụng báo 
+cáo này tự chịu trách nhiệm về quyết định của mình.  
+FPTS có thể dựa vào các thông tin trong báo cáo này và các thông tin khác để ra quyết định đầu tư của mình mà không bị phụ thuộc vào bất kì ràng buộc nào về mặt 
+pháp lý đối với các thông tin đưa ra.  
+Tại thời điểm thực hiện báo cáo phân tích, chuyên viên phân tích, người phê duyệt báo cáo hiện không nắm giữ cổ phiếu của các doanh nghiệp này. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Các thông tin có liên quan đến chứng khoán khác hoặc các thông tin chi tiết liên quan đến cổ phiếu này có thể được xem tại http://ezsearch.fpts.com.vn 
+hoặc sẽ được cung cấp khi có yêu cầu chính thức.  
+Bản quyền © 2017 Công ty chứng khoán FPT  
+Công ty Cổ phần Chứng khoán FPT 
+Trụ sở chính 
+ 
+52 Lạc Long Quân, Phường Tây Hồ, Hà Nội, Việt Nam. 
+ 
+ 
+ĐT: 1900 6446 
+Fax: (84.24) 3 773 9058 
+Công ty Cổ phần Chứng khoán FPT 
+Chi nhánh Tp. Hồ Chí Minh 
+ 
+Tầng 3, tòa nhà Bến Thành Times Square, Phường Bến 
+Thành, TP. Hồ Chí Minh, Việt Nam.  
+ 
+ĐT: 1900 6446 
+Fax: (84.28) 6 291 0607 
+Công ty Cổ phần Chứng khoán FPT 
+Chi nhánh Tp. Đà Nẵng 
+ 
+100 Quang Trung, Phường Hải Châu, TP. Đà Nẵng, Việt 
+Nam 
+ 
+ĐT: 1900 6446 
+Fax: (84.236) 3553 888

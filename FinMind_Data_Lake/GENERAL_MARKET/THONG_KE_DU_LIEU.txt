@@ -1,0 +1,10 @@
+=================================================
+  HỒ SƠ DỮ LIỆU MÃ CHỨNG KHOÁN: GENERAL_MARKET
+  Dự án NCKH: FinMind RAG System
+=================================================
+
+DANH SÁCH CHI TIẾT CÁC FILE ĐÃ THU THẬP:
+Thời gian lưu        | Phân loại                 | Tên file
+-------------------- | ------------------------- | ----------------------------------------
+2026-07-28 09:12:39  | 4_Du_Lieu_Khac            | FinMind_Data_FPT.csv
+2026-07-28 09:12:39  | 4_Du_Lieu_Khac            | FinMind_Data_FPT.json

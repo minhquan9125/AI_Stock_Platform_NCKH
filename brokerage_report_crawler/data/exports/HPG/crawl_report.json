@@ -1,16 +1,25 @@
 {
   "ticker": "HPG",
-  "sources": [
-    "cafef",
-    "vietstock"
-  ],
-  "reports_discovered": 27,
-  "pdf_downloaded": 21,
-  "accepted": 26,
-  "duplicates": 1,
+  "target": 100,
+  "discovered": 25,
+  "accepted_unique": 32,
+  "duplicates": 0,
   "rejected": 0,
   "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 32,
+  "new_accepted": 0,
+  "total_unique_reports": 32,
+  "pdf_downloaded": 0,
   "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 20,
+    "cafef": 5
+  },
+  "skipped_processed": 25,
   "output_jsonl": "data\\cleaned\\HPG\\HPG_brokerage_reports.jsonl",
   "output_csv": "data\\exports\\HPG\\HPG_brokerage_reports.csv"
 }

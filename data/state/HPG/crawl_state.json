@@ -1,0 +1,12 @@
+{
+  "ticker": "HPG",
+  "urls_discovered": 5,
+  "urls_skipped_as_processed": 0,
+  "articles_downloaded": 5,
+  "accepted": 5,
+  "rejected": 0,
+  "duplicates": 0,
+  "failed": 0,
+  "output_jsonl": "data\\cleaned\\HPG\\HPG_articles.jsonl",
+  "output_csv": "data\\exports\\HPG\\HPG_articles.csv"
+}

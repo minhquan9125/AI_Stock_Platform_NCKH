@@ -1,0 +1,581 @@
+P a g e 1 | 6 
+ 
+ 
+Công ty Cổ phần FPT 
+HOSE: FPT – TÍCH CỰC 
+BÁO CÁO PHÂN TÍCH 
+Ngành: Công nghệ 
+ 
+ 
+BIẾN ĐỘNG GIÁ 
+ 
+ 
+Thông tin giao dịch (10/08/2026) 
+Giá hiện tại (VNĐ/cp) 
+71.8 
+Giá cao nhất 52W  
+104.947 
+Giá thấp nhất 52W 
+62.200 
+Số lượng CP niêm yết  1.703.507.121 
+Số lượng CP lưu hành  1.714.326.422 
+Sở hữu nước ngoài 
+27,78% 
+KLBQ 52W (cp) 
+10.037.537 
+EPS (vnd/cp) 
+5.991 
+P/E 
+11,82x 
+P/B 
+2,94x 
+Vốn hóa (tỷ đồng) 
+122.402,9 
+(*) EPS theo BCKQKD 4 quý gần nhất 
+ 
+Analyst: Thạch Ngọc Trung  
+trungtn@vixs.com 
+ 
+ 
+Chúng tôi tiếp tục đánh giá TÍCH CỰC đối với cổ phiếu FPT. Với động 
+lực tăng trưởng doanh thu đến từ dịch vụ CNTT trong nước và quốc tế, 
+cùng sự đóng góp bổ sung từ mảng Đầu tư, Giáo dục, khác. Doanh thu(*) 
+và LNST thuộc cổ đông công ty mẹ của FPT trong Q2/2026 lần lượt tăng 
+16,4% và 13,7% YoY, đồng thời cải thiện 10,5% và 3,2% QoQ. Động lực 
+tăng trưởng doanh thu tiếp tục đến từ các mảng CNTT cốt lõi, trong đó 
+doanh thu CNTT trong nước tăng mạnh 29,5% YoY và 34,4% QoQ, còn 
+CNTT nước ngoài duy trì mức tăng 16,3% YoY và 9,2% QoQ. 
+ 
+Luận điểm đầu tư:  
+• 
+Kết quả kinh doanh Q2/2026 duy trì tăng trưởng tích cực sau 
+điều chỉnh FOX: Từ năm 2026, FPT không còn hợp nhất toàn bộ 
+doanh thu của FPT Telecom, mảng từng đóng góp gần 28% trong 
+năm 2025. Theo số liệu báo cáo, doanh thu thuần Q2/2026 đạt 
+13.788 tỷ đồng, trên cơ sở loại trừ FOX và FOC, doanh thu tăng 
+16,4% YoY, trong khi LNST thuộc cổ đông công ty mẹ đạt 2.568 
+tỷ đồng, tăng 13,7% YoY. Lũy kế 6T2026, doanh thu thuần đạt 
+26.269 tỷ đồng, tăng 12,6% YoY trên cùng cơ sở so sánh, còn 
+LNST thuộc cổ đông công ty mẹ đạt 5.055 tỷ đồng, tăng 14,1% 
+YoY. 
+• 
+Dịch vụ CNTT tiếp tục dẫn dắt tăng trưởng, mảng trong nước 
+cải thiện rõ nét: Trong Q2/2026, doanh thu CNTT nước ngoài 
+đạt 9.868 tỷ đồng, tăng 16,3% YoY, trong khi CNTT trong nước 
+đạt 2.429 tỷ đồng, tăng 29,5% YoY. Lũy kế 6T2026, doanh thu 
+CNTT nước ngoài đạt 18.902 tỷ đồng, tăng 13,4% YoY, còn CNTT 
+trong nước đạt 4.236 tỷ đồng, tăng 22,5% YoY. Triển vọng tăng 
+trưởng tiếp tục được củng cố khi FPT mở rộng sang các lĩnh vực 
+công nghệ giá trị gia tăng cao như an ninh mạng, bán dẫn, đồng 
+thời hợp tác trực tiếp với OpenAI trong phát triển và triển khai các 
+giải pháp AI, cũng như với tập đoàn công nghệ hàn quốc NARMA 
+trong nghiên cứu và thương mại hóa UAV thế hệ mới. 
+ 
+-60%
+-40%
+-20%
+0%
+20%
+40%
+Tương quan giá FPT 
+FPT
+VNINDEX
+
+P a g e 2 | 6 
+ 
+ 
+Công ty Cổ phần FPT 
+HOSE: FPT – TÍCH CỰC 
+BÁO CÁO PHÂN TÍCH 
+Ngành: Công nghệ 
+• 
+Chỉ tiêu tài chính: 
+Khả năng sinh lời duy trì ở mức cao: Biên lợi nhuận ròng Q2/2026 
+giảm từ 19,9% xuống 18,6%. Trong khi đó, biên lợi nhuận gộp, 
+ROA (TTM) và ROE (TTM) lần lượt giảm xuống 31,0%, 14,0% và 
+27,1%, thấp hơn so với Q1/2026 nhưng vẫn duy trì ở mức tích 
+cực. 
+Thanh khoản tiếp tục được củng cố: Hệ số thanh toán hiện hành 
+và thanh toán nhanh Q2/2026 lần lượt đạt khoảng 1,56 lần và 1,45 
+lần, giảm nhẹ so với Q1/2026 nhưng vẫn cao hơn đáng kể so với 
+giai đoạn 2020–2025. 
+Chính sách cổ tức duy trì ổn định: FPT duy trì cổ tức tiền mặt năm 
+2025 ở mức 20% mệnh giá, tương đương 2.000 đồng/cp, với 
+phần còn lại 10% được chi trả trong Q2/2026. Trong năm 2026, 
+Công ty tiếp tục định hướng cổ tức tiền mặt tối đa 20% mệnh giá, 
+đồng thời phát hành cổ phiếu thưởng tỷ lệ 10:1. 
+(*): Doanh thu của FPT trên cơ sở loại trừ FOX và FOC
+
+P a g e 3 | 6 
+ 
+BÁO CÁO PHÂN TÍCH 
+ 
+ 
+ 
+Nguồn: FPT 
+Nguồn: FPT, VIX Research tổng hợp 
+ 
+ 
+Nguồn: FPT, VIX Research tổng hợp 
+Nguồn: FPT, VIX Research tổng hợp 
+ 
+ 
+Nguồn: FPT, VIX Research tổng hợp 
+Nguồn: FPT, VIX Research tổng hợp 
+0.00
+10,000.00
+20,000.00
+30,000.00
+40,000.00
+50,000.00
+60,000.00
+2020
+2021
+2022
+2023
+2024
+2025
+Tỷ trọng doanh thu của FPT 
+Đầu tư, giáo dục và khác (tỷ đồng)
+Dịch vụ CNTT trong nước (tỷ đồng)
+Dịch vụ CNTT nước ngoài (tỷ đồng)
+-20%
+0%
+20%
+40%
+60%
+Tăng trưởng doanh thu theo các mảng 
+(YoY)
+%Tăng trưởng Dịch vụ CNTT nước ngoài 
+%Tăng trưởng Dịch vụ CNTT trong nước 
+%Tăng trưởng đầu tư, giáo dục và khác 
+-
+10.0%
+20.0%
+30.0%
+-
+20,000.0
+40,000.0
+60,000.0
+80,000.0
+2021
+2022
+2023
+2024
+2025
+Tăng trưởng doanh thu theo năm (YoY)
+Doanh thu thuần (tỷ đồng)
+Doanh thu thuần (đã loại trừ FOX) (tỷ đồng)
+% Tăng trưởng doanh thu
+% Tăng trưởng doanh thu (đã loại trừ FOX)
+-
+5.0%
+10.0%
+15.0%
+20.0%
+25.0%
+-
+2,000.0
+4,000.0
+6,000.0
+8,000.0
+10,000.0
+2020
+2021
+2022
+2023
+2024
+2025
+Tăng trưởng LNST thuộc cổ đông công 
+ty mẹ theo năm (YoY)
+LNST thuộc cổ đông công ty mẹ (tỷ đồng)
+% Tăng trưởng LNST thuộc cổ đông công ty mẹ
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+0.00
+2,000.00
+4,000.00
+6,000.00
+8,000.00
+10,000.00
+12,000.00
+14,000.00
+16,000.00
+Tăng trưởng doanh thu theo quý (YoY)
+Doanh thu thuần (đã loại trừ FOX) (tỷ đồng)
+% Tăng trưởng doanh thu (đã loại trừ FOX)
+-
+5.0%
+10.0%
+15.0%
+20.0%
+25.0%
+-
+500.0
+1,000.0
+1,500.0
+2,000.0
+2,500.0
+3,000.0
+Tăng trưởng LNST thuộc cổ đông công 
+ty mẹ theo quý (YoY)
+LNST thuộc cổ đông công ty mẹ (tỷ đồng)
+% Tăng trưởng LNST thuộc cổ đông công ty mẹ
+
+P a g e 4 | 6 
+ 
+BÁO CÁO PHÂN TÍCH 
+ 
+ 
+• 
+Xét về phân tích kỹ thuật: Giá cổ phiếu FPT đã giảm về vùng hỗ trợ mạnh 60-65 trong tháng 7, và cũng 
+là vùng chiết khấu đủ sâu để giải ngân đầu tư. Điều này cũng đã được chúng tôi kiến nghị MUA trong báo 
+cáo “FPT - Cân nhắc mua vị thế dài hạn khi giá giảm về vùng hỗ trợ mạnh 60-65” gửi ngày 23/07/2026 
+(đang lãi khoảng 14%).  
+Hiện giá FPT đang đạt được vùng mục tiêu đầu tiên ở 72-75, và cũng là vùng kháng cự ngắn hạn của cổ 
+phiếu này. Nếu vượt qua được thì mục tiêu tiếp theo là các vùng 84 hoặc 94. Nhà đầu tư lưu ý giá có thể 
+tăng chậm hoặc tích luỹ mang tính kỹ thuật do thanh khoản thị trường chung vẫn ở mức thấp.  
+ 
+ 
+ 
+ 
+Nguồn: FPT, VIX Research tổng hợp 
+Nguồn: FPT, VIX Research tổng hợp 
+-
+0.2x
+0.4x
+0.6x
+0.8x
+1.0x
+1.2x
+1.4x
+1.6x
+1.8x
+Chỉ tiêu khả năng thanh toán
+Chỉ số thanh toán hiện hành
+Chỉ số thanh toán nhanh 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+Chỉ tiêu sinh lời
+ROA (TTM)
+ROE (TTM)
+Biên lợi nhuận gộp (%)
+Biên lợi nhuận ròng (%)
+
+P a g e 5 | 6 
+ 
+BÁO CÁO PHÂN TÍCH 
+ 
+MỘT SỐ CHỈ TIÊU TÀI CHÍNH 
+  
+Đơn vị 
+2019 
+2020 
+2021 
+2022 
+2023 
+2024 
+2025 
+1. Hiệu quả hoạt động 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Hệ số vòng quay tài sản 
+Lần 
+0,88 
+0,79 
+0,75 
+0,84 
+0,94 
+0,95 
+0,88 
+     Hệ số vòng quay vốn CSH 
+Lần 
+1,76 
+1,69 
+1,78 
+1,88 
+1,90 
+1,91 
+1,76 
+     Hệ số vòng quay khoản phải thu khách hàng 
+Lần 
+5 
+5 
+6 
+6 
+6 
+6 
+6 
+     Thời gian trung bình thu tiền khách hàng 
+Ngày 
+75 
+70 
+60 
+59 
+59 
+57 
+61 
+     Hệ số vòng quay HTK 
+Lần 
+12 
+13 
+15 
+14 
+17 
+21 
+21 
+     Thời gian trung bình xử lý HTK 
+Ngày 
+30 
+28 
+25 
+25 
+22 
+17 
+18 
+     Hệ số vòng quay khoản phải trả nhà cung cấp 
+Lần 
+6,60 
+6,59 
+7,74 
+8,84 
+11,11 
+11,14 
+10,71 
+     Thời gian trung bình thanh toán cho nhà cung cấp 
+Ngày 
+55 
+55 
+47 
+41 
+33 
+33 
+34 
+     Chu kỳ chuyển đổi tiền mặt 
+Ngày 
+49 
+42 
+38 
+43 
+48 
+41 
+44 
+     Chỉ số thanh toán hiện hành 
+Lần 
+1,2 
+1,1 
+1,2 
+1,3 
+1,2 
+1,3 
+1,4 
+     Chỉ số thanh toán nhanh 
+Lần 
+0,8 
+0,8 
+0,9 
+0,9 
+0,9 
+1,0 
+1,1 
+2. Sức khỏe tài chính 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Tỷ lệ nợ vay ngắn hạn trên tổng tài sản 
+% 
+22% 
+29% 
+33% 
+21% 
+23% 
+20% 
+22% 
+     Tỷ lệ nợ vay ngắn hạn trên VCSH 
+% 
+45% 
+65% 
+83% 
+43% 
+46% 
+40% 
+44% 
+     Tỷ lệ nợ vay dài hạn trên tổng tài sản 
+% 
+1% 
+2% 
+4% 
+3% 
+0% 
+1% 
+2% 
+     Tỷ lệ nợ vay dài hạn trên VCSH 
+% 
+2% 
+4% 
+11% 
+6% 
+1% 
+1% 
+4% 
+     Tỷ lệ nợ vay trên tổng tài sản 
+% 
+24% 
+31% 
+37% 
+24% 
+23% 
+21% 
+24% 
+     Tỷ lệ nợ vay trên VCSH 
+% 
+47% 
+68% 
+94% 
+49% 
+47% 
+42% 
+48% 
+     Tỷ lệ nợ phải trả trên tổng tài sản 
+% 
+50% 
+55% 
+60% 
+51% 
+50% 
+50% 
+50% 
+     Tỷ lệ nợ phải trả trên VCSH 
+% 
+99% 
+124% 
+151% 
+104% 
+101% 
+102% 
+101% 
+     Tỷ lệ đòn bẩy 
+% 
+197% 
+224% 
+251% 
+204% 
+201% 
+202% 
+201% 
+3. Khả năng sinh lợi 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     ROA 
+% 
+12% 
+12% 
+11% 
+12% 
+14% 
+14% 
+14% 
+     ROE 
+% 
+20% 
+20% 
+22% 
+23% 
+23% 
+24% 
+24% 
+4. Chỉ số tăng trưởng 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Tăng trưởng doanh thu thuần (YoY) 
+% 
+19% 
+8% 
+20% 
+23% 
+20% 
+19% 
+12% 
+     Tăng trưởng lãi gộp (YoY) 
+% 
+23% 
+10% 
+15% 
+26% 
+18% 
+17% 
+9% 
+     Tăng trưởng LN sau thuế (YoY) 
+% 
+21% 
+13% 
+21% 
+21% 
+20% 
+21% 
+19%
+
+P a g e 6 | 6 
+ 
+BÁO CÁO PHÂN TÍCH 
+ 
+HỆ THỐNG NHẬN ĐỊNH TRIỂN VỌNG DOANH NGHIỆP 
+TÍCH CỰC: Tăng trưởng lợi nhuận được dự báo tăng, với tốc độ tăng hơn 15% trong 12 tháng tới hoặc giá mục tiêu cao 
+hơn 15% giá hiện tại 
+TRUNG LẬP: Tăng trưởng lợi nhuận được dự báo từ -15% đến +15% hoặc có nhiều thông tin không chắc chắn, khó dự 
+báo hoặc giá mục tiêu được dự báo -15% đến +15% so với giá hiện tại 
+TIÊU CỰC: Tăng trưởng lợi nhuận được dự báo giảm, với tốc độ giảm dưới -15% trong 12 tháng tới hoặc giá mục tiêu 
+được dự báo thấp hơn -15% so với giá hiện tại 
+ 
+Khuyến cáo sử dụng 
+Báo cáo phân tích được lập và phát hành bởi Công ty cổ phần Chứng khoán VIX (“VIX”). Báo cáo này không nhằm phát 
+hành rộng rãi ra công chúng và chỉ mang tính chất cung cấp thông tin cho một số đối tượng nhất định, cũng như không được 
+phép sao chép hoặc phân phối lại cho bất kỳ bên thứ ba nào khác. Tất cả những cá nhân, tổ chức nắm giữ báo cáo này đều 
+phải tuân thủ những điều trên.  
+Báo cáo này không phải là một lời kêu gọi, đề nghị, mời chào mua hoặc bán bất kỳ mã chứng khoán nào. Các thông tin trong 
+báo cáo nghiên cứu được chuẩn bị từ các thông tin công bố công khai, dữ liệu phát triển nội bộ và các nguồn khác được cho 
+là đáng tin cậy, nhưng chưa được kiểm chứng độc lập bởi VIX và VIX sẽ không đại diện hoặc đảm bảo đối với tính chính 
+xác, đúng đắn và đầy đủ của những thông tin này.  
+Toàn bộ những đánh giá, quan điểm và khuyến nghị đưa ra trong báo cáo có thể được thay đổi mà không báo trước. VIX 
+không có nghĩa vụ phải cập nhật, sửa đổi hoặc bổ sung bản báo cáo cũng như không có nghĩa vụ thông báo cho tổ chức, cá 
+nhân nhận được bản báo cáo này trong trường hợp các đánh giá, quan điểm hay khuyến nghị được đưa ra có sự thay đổi hoặc 
+trở nên không còn chính xác.   
+Các mã chứng khoán trong bản báo cáo có thể không phù hợp với tất cả các nhà đầu tư, và nội dung của bản báo cáo không 
+đề cập đến các nhu cầu đầu tư, mục tiêu và điều kiện tài chính của bất kỳ nhà đầu tư cụ thể nào. Trước khi thực hiện đầu tư 
+bất kỳ mã chứng khoán nào nêu trong báo cáo này, nhà đầu tư nên liên hệ với những chuyên gia tư vấn đầu tư của họ để thảo 
+luận về trường hợp cụ thể của mình.

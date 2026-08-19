@@ -1,0 +1,2095 @@
+SSI - TRUNG TÂM PHÂN TÍCH & TƯ VẤN ĐẦU TƯ 
+ 
+ 
+Visit SSI Research on Bloomberg at DS <GO> 
+SSI Research Web Portal: https://www.ssi.com.vn/khach-hang-ca-nhan/bao-cao-cong-ty 
+ 
+Trang  1 
+ 
+ 
+ 
+ 
+ 
+Yếu tố kỹ thuật là động lực hỗ trợ định giá 
+Luận điểm đầu tư 
+• 
+Chúng tôi kỳ vọng Vingroup sẽ ghi nhận tăng trưởng lợi nhuận mạnh trong năm 2026, chủ 
+yếu nhờ kết quả kinh doanh tích cực của Vinhomes. Giá trị doanh số bán hàng năm 2026 
+của Vinhomes được dự báo tăng 28% svck lên 262,2 nghìn tỷ đồng, nhờ các dự án đang 
+triển khai và ba dự án mở bán mới. Các giao dịch bán buôn được kỳ vọng tiếp tục đóng 
+góp chính vào tổng giá trị doanh số bán hàng. 
+• 
+VinFast được kỳ vọng sẽ duy trì tăng trưởng sản lượng mạnh, với doanh số ô tô dự kiến đạt 
+270 nghìn xe (+37% svck) và doanh số xe máy điện đạt 750 nghìn xe (+85% svck) trong 
+năm 2026. Kết quả kinh doanh của VinFast dự kiến vẫn ghi nhận lỗ trong ngắn hạn, qua 
+đó ảnh hưởng tới lợi nhuận hợp nhất. Tuy nhiên, nếu kế hoạch tái cấu trúc đề xuất được 
+thông qua, đóng góp lợi nhuận của VinFast có thể được cải thiện nhờ mô hình ít tài sản hơn 
+và giảm bớt áp lực về chi phí. 
+• 
+Chúng tôi dự báo doanh thu của Vingroup năm 2026 đạt 455,9 nghìn tỷ đồng (+37% svck) 
+và NPATMI đạt 30,8 nghìn tỷ đồng (+171% svck). Lợi nhuận năm 2026 được kỳ vọng chủ 
+yếu đến từ (i) ghi nhận doanh số bất động sản từ Green Paradise, Ocean Park 2&3, Royal 
+Island, Wonder City và các dự án khác; và (ii) 22 nghìn tỷ đồng hỗ trợ tài chính từ Chủ tịch. 
+Loại trừ khoản hỗ trợ này, LNST năm 2026 được ước tính đạt 14,5 nghìn tỷ đồng, so với 
+mức lỗ 7,3 nghìn tỷ đồng trong năm 2025. 
+• 
+Theo quan điểm của chúng tôi, lợi nhuận của Vingroup tiếp tục được dẫn dắt bởi mảng bất 
+động sản, với các hoạt động mở bán dự án và bán hàng đang diễn ra. Khả năng hiện thực 
+hóa lợi nhuận vẫn phụ thuộc lớn vào hiệu quả bán hàng bất động sản, đặc biệt là các giao 
+dịch bán buôn, cũng như khả năng thoái vốn tài sản và hỗ trợ tài chính định kỳ từ Chủ tịch. 
+• 
+Chúng tôi duy trì khuyến nghị phân bổ VIC với tỷ trọng thấp hơn mức tỷ trọng trong chỉ số. 
+Bên cạnh kỳ vọng nâng hạng thị trường, VIC đang nổi lên là một trong những cổ phiếu 
+hưởng lợi từ định hướng chính sách ngày càng hỗ trợ khu vực kinh tế tư nhân trong nước. 
+Tỷ trọng vốn hóa của VIC hiện đã tăng lên khoảng 28% trên HSX, qua đó thúc đẩy nhu cầu 
+tái cân bằng danh mục từ cả nhà đầu tư tổ chức và cá nhân. Trong bối cảnh nhiều nhà đầu 
+tư vẫn đang nắm giữ dưới mức tỷ trọng tham chiếu, nhu cầu gia tăng vị thế có thể tiếp tục 
+tạo hỗ trợ kỹ thuật và duy trì lực cầu đối với cổ phiếu trong ngắn hạn. 
+Điểm nhấn tài chính 
+VIC ghi nhận doanh thu thuần Q1/2026 đạt 104,4 nghìn tỷ đồng (-36% so với quý trước, +24% 
+svck) và NPATMI đạt 7,3 nghìn tỷ đồng (+56% so với quý trước, +4% svck). Lợi nhuận 
+Q1/2026 chủ yếu được hỗ trợ bởi sự cải thiện ở mảng bất động sản và khách sạn du lịch, cùng 
+với khoản tài trợ 5 nghìn tỷ đồng từ Chủ tịch. Biên lợi nhuận gộp tăng lên 24,9% trong Q1/2026, 
+so với 22,8% trong Q1/2025 và 23,0% trong Q4/2025, chủ yếu nhờ ghi nhận các giao dịch 
+bán buôn có biên lợi nhuận cao hơn. 
+Các rủi ro giảm giá chính bao gồm: (i) tiến độ mở bán dự án chậm hơn kỳ vọng và tỷ lệ hấp 
+thụ thấp hơn dự kiến, đặc biệt tại các thị trường Cấp 2, có thể ảnh hưởng kém tích cực đến xu 
+hướng ghi nhận doanh số bán hàng; và (ii) VinFast tiếp tục ghi nhận các khoản lỗ lớn, trong 
+khi lộ trình đạt điểm hòa vốn có thể kéo dài hơn kỳ vọng. 
+ 
+2023 
+2024 
+2025 
+2026F 
+2027F 
+Doanh thu thuần (tỷ đồng) 
+161.428 
+189.068 
+331.838 
+455.968 
+519.346 
+NPATMI (tỷ đồng) 
+2.157 
+11.903 
+11.350 
+30.796 
+30.871 
+Tăng trưởng NPATMI (%) 
+-75% 
+452% 
+-5% 
+171% 
+0% 
+EPS (đồng) 
+556 
+3.069 
+1.468 
+3.982 
+3.992 
+ROE (%) 
+2% 
+9% 
+8% 
+17% 
+15% 
+Nợ/Vốn chủ sở hữu 
+0.78 
+0.62 
+0.75 
+0.62 
+0.53 
+Tỷ suất cổ tức (%) 
+- 
+- 
+- 
+- 
+- 
+P/E (x) 
+80,20 
+13,21 
+153,99 
+56,75 
+56,61 
+P/B (x) 
+1,52 
+1,14 
+11,84 
+9,73 
+8,23 
+EV/EBITDA (x) 
+3,56 
+2,52 
+20,03 
+15,29 
+14,25 
+Nguồn: VIC, SSI Research 
+ 
+Đào Minh Châu, CFA 
+Phó Giám đốc TTPT 
+chaudm@ssi.com.vn 
+ 
+Giá CP - VND (15/5/26) 
+228.000 
+Vốn hóa (USDmn): 
+67.014 
+SLCP lưu hành (triệu cp): 
+7.706 
+KLGD TB 3 tháng (triệu cp): 
+6,3 
+Giá cao/thấp 52T (k VND): 
+226/39,9 
+GTGD TB 3 tháng (USDmn): 
+39,5 
+Tỷ lệ SHNN (%): 
+3,4 
+GTNN còn được mua 
+(USDmn): 
+29.928,5 
+Tỷ lệ sở hữu nhà nước (%): 
+0,0 
+ 
+Biến động giá cổ phiếu  
+ 
+Nguồn: SSI Research 
+ 
+Thông tin cơ bản về công ty 
+VinGroup là tập đoàn tư nhân lớn nhất 
+tại Việt Nam, hoạt động kinh doanh 
+trên năm lĩnh vực trọng tâm, bao gồm 
+Công nghệ - Công nghiệp, Thương mại 
+Dịch vụ, Hạ tầng, Năng lượng xanh và 
+Thiện nguyện Xã hội (hoạt động đóng 
+góp cho xã hội như giáo dục, chăm sóc 
+sức khỏe, giao thông công cộng). Các 
+thương hiệu của Tập đoàn VinGroup 
+nổi tiếng khắp cả nước như Vinhomes, 
+Vinpearl, Vinmec, Vinschool cũng như 
+VinFast, thương hiệu xe điện tiên 
+phong của Việt Nam. 
+ 
+Ngày 15/05/2026 
+Tập đoàn Vingroup – CTCP (VIC: HOSE)
+
+SSI - TRUNG TÂM PHÂN TÍCH & TƯ VẤN ĐẦU TƯ 
+ 
+ 
+Visit SSI Research on Bloomberg at DS <GO> 
+SSI Research Web Portal: https://www.ssi.com.vn/khach-hang-ca-nhan/bao-cao-cong-ty 
+ 
+Trang  2 
+ 
+Kết quả kinh doanh 
+(tỷ đồng) 
+ 
+Q1/2026 
+Q1/2025 
+svck  
+Q4/2025 
+so với 
+quý 
+trước 
+% hoàn thành kế 
+hoạch năm  
+Biên lợi nhuận 
+ 
+Q1/2026 
+Q1/2025 
+Q4/2025 
+2025 
+Doanh thu thuần 
+ 
+104,352 
+84,053 
+24.1% 
+162,227 
+-35.7% 
+21.5% 
+ 
+ 
+ 
+ 
+- Doanh thu BĐS 
+ 
+60,188 
+55,275 
+8.9% 
+102,456 
+-41.3% 
+ 
+ 
+ 
+ 
+ 
+- Mảng sản xuất 
+ 
+27,988 
+15,675 
+78.5% 
+40,363 
+-30.7% 
+ 
+ 
+ 
+ 
+ 
+- Mảng khách sạn, du 
+lịch 
+3,730 
+2,489 
+49.9% 
+3,086 
+20.9% 
+ 
+ 
+ 
+ 
+ 
+Lợi nhuận gộp 
+ 
+25,938 
+19,205 
+35.1% 
+37,352 
+-30.6% 
+ 
+24.9% 
+22.8% 
+23.0% 
+15.9% 
+- Doanh thu BĐS 
+ 
+33,095 
+20,969 
+59.9% 
+41,336 
+-19.9% 
+ 
+55.0% 
+37.9% 
+40.3% 
+39.6% 
+- Mảng sản xuất* 
+ 
+-10,376 
+-6,058 
+74.3% 
+-7,850 
+32.2% 
+ 
+-28.3% 
+-28.8% 
+-14.3% 
+-
+27.7% 
+- Mảng khách sạn, du 
+lịch 
+1,197 
+442 
+170.5% 
+347 
+244.9% 
+ 
+32.1% 
+17.8% 
+11.2% 
+20.0% 
+Lợi nhuận từ hoạt động 
+kinh doanh 
+11,332 
+9,763 
+16.1% 
+17,025 
+-33.4% 
+ 
+10.9% 
+11.6% 
+10.5% 
+9.1% 
+EBIT 
+19,060 
+13,484 
+41.3% 
+17,670 
+7.9% 
+ 
+18.3% 
+16.0% 
+10.9% 
+16.8% 
+EBITDA 
+26,973 
+20,533 
+31.4% 
+27,333 
+-1.3% 
+ 
+25.8% 
+24.4% 
+16.8% 
+26.3% 
+Lợi nhuận trước thuế 
+ 
+11,537 
+7,382 
+56.3% 
+11,254 
+2.5% 
+ 
+11.1% 
+8.8% 
+6.9% 
+8.0% 
+Lợi nhuận sau thuế 
+ 
+5,611 
+2,243 
+150.1% 
+3,500 
+60.3% 
+16.0% 
+5.4% 
+2.7% 
+2.2% 
+3.3% 
+LNST thuộc về cổ đông 
+công ty mẹ 
+7,276 
+6,979 
+4.3% 
+4,672 
+55.7% 
+ 
+7.0% 
+8.3% 
+2.9% 
+3.4% 
+Nguồn: VIC, SSI Research 
+*Biên lợi nhuận gộp của mảng sản xuất được điều chỉnh các chi phí liên quan đến số xe đã bán nhưng doanh thu chưa được ghi nhận, cũng như các chi phí 
+bất thường khác. 
+KQKD Q1/2026: VIC ghi nhận doanh thu thuần đạt 104,4 nghìn tỷ đồng (-36% so với quý trước, +24% svck) và NPAT-MI đạt 
+7,3 nghìn tỷ đồng (+56% so với quý trước, +4% svck). Lợi nhuận Q1/2026 chủ yếu được hỗ trợ bởi kết quả kinh doanh cải 
+thiện của mảng bất động sản và khách sạn, cùng với khoản tài trợ 5 nghìn tỷ đồng từ Chủ tịch. 
+Biên lợi nhuận gộp tăng lên 24,9% trong Q1/2026, so với 22,8% trong Q1/2025 và 23,0% trong Q4/2025, chủ yếu nhờ ghi 
+nhận các giao dịch bán buôn có biên lợi nhuận cao hơn. 
+Chi phí lãi vay tăng lên 6,8 nghìn tỷ đồng trong Q1/2026 (+17,3% so với quý trước, +21,4% svck), do nợ vay tăng mạnh trong 
+năm 2025 để  thanh toán tiền sử dụng đất cho các dự án BĐS và đầu tư cho VinFast. 
+Mảng Bất động sản: Kế hoạch tham vọng với việc mở bán các dự án quy mô lớn 
+(tỷ đồng) 
+ 
+Q1/2026 
+Q1/2025 
+svck  
+Q4/2025 
+so với 
+quý 
+trước 
+% hoàn thành 
+kế hoạch năm  
+Biên lợi nhuận 
+ 
+Q1/2026 
+Q1/2025 
+Q4/2025 
+2025 
+Doanh thu thuần 
+ 
+65,114 
+15,698 
+314.8% 
+102,178 
+-
+36.3% 
+25% 
+ 
+ 
+ 
+ 
+Lợi nhuận gộp 
+ 
+31,370 
+5,158 
+508.2% 
+34,533 
+-9.2% 
+ 
+48.2% 
+32.9% 
+33.8% 
+30.2% 
+Lợi nhuận từ hoạt 
+động kinh doanh 
+31,126 
+5,554 
+460.5% 
+34,533 
+-9.9% 
+ 
+47.8% 
+35.4% 
+33.8% 
+35.3% 
+EBIT 
+33,288 
+7,481 
+345.0% 
+36,937 
+-9.9% 
+ 
+51.1% 
+47.7% 
+36.1% 
+41.8% 
+EBITDA 
+33,901 
+7,970 
+325.4% 
+37,732 
+-
+10.2% 
+ 
+52.1% 
+50.8% 
+36.9% 
+43.3% 
+Lợi nhuận trước 
+thuế 
+30,727 
+3,839 
+700.3% 
+34,517 
+-
+11.0% 
+ 
+47.2% 
+24.5% 
+33.8% 
+34.5% 
+Lợi nhuận sau thuế 
+ 
+25,625 
+2,652 
+866.3% 
+28,022 
+-8.6% 
+43% 
+39.4% 
+16.9% 
+27.4% 
+28.3% 
+NPATMI 
+ 
+25,552 
+2,689 
+850.3% 
+27,514 
+-7.1% 
+ 
+39.2% 
+17.1% 
+26.9% 
+27.3% 
+Nguồn: VIC, SSI Research 
+KQKD Q1/2026: Lợi nhuận cao hơn đáng kể so với kỳ vọng 
+Vinhomes (VHM) ghi nhận tăng trưởng mạnh trong Q1/2026 so với cùng kỳ, với doanh thu thuần đạt 65,1 nghìn tỷ đồng (-
+36% so với quý trước, +315% svck) và NPAT-MI đạt 25,6 nghìn tỷ đồng (-7% so với quý trước, +850% svck). Doanh thu điều 
+chỉnh, bao gồm các dự án được triển khai theo hợp đồng hợp tác kinh doanh (BCC) và các giao dịch bán buôn, đạt 71,5 nghìn 
+tỷ đồng (-37% so với quý trước, +271% svck). Kết quả lợi nhuận tích cực chủ yếu đến từ việc ghi nhận các giao dịch bán 
+buôn tại Ocean Park 2 & 3 và Green Paradise, cùng với bàn giao tại Royal Island và Wonder City. Biên lợi nhuận gộp cải thiện 
+mạnh lên 48,2%, so với 32,9% trong Q1/2025, nhờ tỷ trọng đóng góp cao hơn từ các giao dịch bán buôn có biên lợi nhuận 
+cao, dù vẫn thấp hơn mức 45,2% ghi nhận trong Q2/2024. 
+NPAT-MI trong Q1/2026 cao hơn đáng kể so với kỳ vọng của SSI Research, chủ yếu nhờ đóng góp cao hơn dự kiến của các 
+giao dịch bán buôn tại Ocean Park 2 & 3. Lợi nhuận Quý 1 đạt khoảng 61% dự báo cả năm trước đó của chúng tôi.
+
+SSI - TRUNG TÂM PHÂN TÍCH & TƯ VẤN ĐẦU TƯ 
+ 
+ 
+Visit SSI Research on Bloomberg at DS <GO> 
+SSI Research Web Portal: https://www.ssi.com.vn/khach-hang-ca-nhan/bao-cao-cong-ty 
+ 
+Trang  3 
+ 
+Doanh số bán hàng 
+Doanh số bán hàng trong Q1/2026 đạt 81,7 nghìn tỷ đồng (+91% so với quý trước, +133% svck), chủ yếu đến từ các dự án 
+Green Paradise và Ocean Park 2 & 3, trong đó bán buôn chiếm khoảng 80% tổng doanh số và tương đương khoảng 23-27% 
+kế hoạch doanh số bán hàng cả năm của VHM và khoảng 50% ước tính trước đó của chúng tôi. 
+Tại thời điểm cuối Q1/2026, doanh thu bán hàng chưa ghi nhận tăng lên 201,6 nghìn tỷ đồng (+68% svck), củng cố triển vọng 
+lợi nhuận cho các quý tới. 
+Biểu đồ 1: Doanh số bán hàng của VHM giai đoạn 2022-
+2026 (nghìn tỷ đồng) 
+Biểu đồ 2: Doanh số chưa ghi nhận của VHM giai đoạn 
+2022-2026 (nghìn tỷ đồng) 
+ 
+ 
+Nguồn: VHM, SSI Research 
+ 
+Cập nhật danh mục dự án           
+VHM tiếp tục sở hữu một trong những danh mục phát triển dự án lớn nhất cả nước, được hỗ trợ bởi sự kết hợp giữa các đại 
+dự án đang triển khai và các dự án dự kiến mở bán tại các thị trường trọng điểm gồm Hà Nội, TP.HCM, Hải Phòng, Quảng 
+Ninh, Đà Nẵng và Tây Ninh. 
+Dự án 
+ 
+Vị trí 
+ 
+Diện tích 
+(ha)  
+Chủ đầu tư đăng 
+ký 
+ 
+Lợi ích kinh tế 
+của VHM  
+Thời điểm mở 
+bán / dự kiến 
+mở bán 
+Tỷ lệ bán lũy 
+kế*  
+Golden Avenue 
+ 
+Móng Cái, Quảng Ninh 
+ 
+69 
+VHM 
+100% 
+2023 
+100% 
+Royal Island 
+ 
+Vũ Yên, Hải Phòng 
+ 
+877 
+VIC 
+95% 
+2024 
+99% 
+Wonder City 
+ 
+Đan Phượng, Hà Nội 
+ 
+133 
+VIC 
+99% 
+2025 
+98% 
+Green City 
+ 
+Hậu Nghĩa, Tây Ninh 
+ 
+197 
+VHM 
+93% 
+2025 
+56% 
+Golden City 
+ 
+Dương Kinh, Hải Phòng 
+ 
+241 
+VHM 
+100% 
+2025 
+47% 
+Green Paradise 
+ 
+Cần Giờ, TP.HCM 
+ 
+2,870 
+VHM 
+100% 
+2025 
+43% 
+Làng Vân 
+ 
+Liên Chiểu, Đà Nẵng 
+ 
+512 
+VPL 
+100% 
+2026 
+ 
+Golden Gate Hạ Long 
+ 
+Hạ Long, Quảng Ninh 
+ 
+4,121 
+VHM-VIC 
+70% 
+2026 
+ 
+Saigon Park (IUT) 
+ 
+Hóc Môn, TP.HCM 
+ 
+880 
+VHM 
+97% 
+2026 
+ 
+Quang Hanh (Zone A) 
+Cẩm Phả, Quảng Ninh 
+ 
+322 
+VIC 
+99% 
+2026+ 
+ 
+Mỹ Lâm 
+ 
+Mỹ Lâm, Tuyên Quang 
+ 
+455 
+VHM 
+66% 
+2026+ 
+ 
+Global Sportia (Olympic) 
+ 
+Ngọc Hồi, Hà Nội 
+ 
+9,171 
+VHM-Partners 
+35% 
+2026+ 
+ 
+Nham Biền 
+ 
+Nham Biền, Bắc Ninh 
+ 
+134 
+VHM 
+66% 
+2026+ 
+ 
+Leman golf 
+ 
+Củ Chi, TP.HCM 
+ 
+200 
+VHM 
+100% 
+2026+ 
+ 
+Tân Mỹ 
+ 
+Tân Mỹ, Tây Ninh 
+ 
+930 
+VHM 
+76% 
+2026+ 
+ 
+Phước Vĩnh Tây 
+ 
+Phước Vĩnh Tây, Tây Ninh 
+ 
+1,090 
+VHM-VIG 
+100% 
+2026+ 
+ 
+Cam Ranh 
+ 
+Cam Ranh, Khánh Hòa 
+ 
+1,254 
+VHM-VinES 
+100% 
+2026+ 
+ 
+Cam Lâm 
+ 
+Cam Lâm, Khánh Hòa 
+ 
+10,356 
+Partners 
+100% 
+2026+ 
+ 
+Happy Home Nam Tràng Cát 
+ 
+Hải An, Hải Phòng 
+ 
+28 
+VHM 
+100% 
+2026 
+ 
+Hưng Yên 
+ 
+Phố Hiến, Hưng Yên 
+ 
+30 
+VHM 
+100% 
+2026+ 
+ 
+Hà Tĩnh 
+ 
+Hà Tĩnh 
+ 
+84 
+VHM 
+66% 
+2026+ 
+ 
+Nguồn: VHM, SSI Research ước tính* 
+Triển vọng năm 2026 
+Trong năm 2026, VHM có kế hoạch mở bán 3 dự án lớn, gồm Hải Vân Bay và Global Gate Hạ Long (đều đã mở bán trong 
+tháng 4), trong khi Saigon Park cũng chính thức khởi công trong tháng 4. Chúng tôi dự báo doanh số bán hàng năm 2026 
+tăng 28% svck lên 262,2 nghìn tỷ đồng, chủ yếu nhờ các dự án đang triển khai và 3 dự án mới mở bán. Dự báo điều chỉnh 
+của chúng tôi cao hơn 62% so với ước tính thận trọng trước đó, phản ánh các giao dịch bán buôn đã hoàn thành tại Green 
+Paradise và Ocean Park 2 & 3 trong Q1/2026, cùng với kỳ vọng về các giao dịch bán buôn sẽ hoàn thành trong các quý tiếp 
+theo từ các đợt mở bán mới. 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+1Q22
+2Q22
+3Q22
+4Q22
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+Bulk Sales
+Retail Sales
+Gross profit margin
+Doanh số
+bán lẻ
+Biên lợi nhuận gộp
+0,0
+50,0
+100,0
+150,0
+200,0
+250,0
+1Q22
+2Q22
+3Q22
+4Q22
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+Doanh số 
+bán buôn
+
+SSI - TRUNG TÂM PHÂN TÍCH & TƯ VẤN ĐẦU TƯ 
+ 
+ 
+Visit SSI Research on Bloomberg at DS <GO> 
+SSI Research Web Portal: https://www.ssi.com.vn/khach-hang-ca-nhan/bao-cao-cong-ty 
+ 
+Trang  4 
+ 
+Tăng trưởng doanh số bán hàng được kỳ vọng chủ yếu đến từ các giao dịch bán buôn, qua đó cải thiện cả khả năng ghi nhận 
+doanh thu và tốc độ chuyển hóa dòng tiền trong ngắn hạn. Chúng tôi cho rằng nhu cầu bán lẻ có thể chịu một phần áp lực 
+trong năm 2026 do lãi suất cho vay mua nhà duy trì ở mức cao, qua đó có thể làm ảnh hưởng tới nhu cầu mua nhà, dù tác 
+động này có thể được bù đắp một phần bởi các chương trình hỗ trợ lãi suất mới đưa ra của VHM. 
+Chúng tôi kỳ vọng VHM đạt doanh thu ở mức 233,1 nghìn tỷ đồng (+52% svck) và NPATMI đạt 55,8 nghìn tỷ đồng (+33% 
+svck) trong năm 2026, động lực đến từ Green Paradise, Ocean Park 2&3, Royal Island, Wonder City và các dự án đang triển 
+khai khác. Dự báo lợi nhuận điều chỉnh của chúng tôi cao hơn 34% so với ước tính trước đó, phản ánh giả định ghi nhận bán 
+buôn tích cực hơn. 
+Biểu đồ 3: Doanh số bán hàng của VHM giai đoạn 2023-
+2027F (nghìn tỷ đồng) 
+Biểu đồ 4: Lợi nhuận của VHM giai đoạn 2022-2027F 
+(nghìn tỷ đồng) 
+Nguồn: VHM, SSI Research 
+ 
+Định giá: VHM hiện giao dịch tại mức P/B trượt 12 tháng là 2,5x, cao hơn mức trung bình lịch sử 5 năm là 1,7x. Chúng tôi cho 
+rằng mức định giá cao hơn này đã phản ánh đà cải thiện của doanh số bán hàng từ mở bán các đại dự án mới và tiến độ triển 
+khai tích cực tại các dự án đang phát triển, cùng với kỳ vọng tăng trưởng lợi nhuận mạnh trong năm 2026. 
+Mảng sản xuất: Doanh số bán xe duy trì đà tăng trưởng 
+KQKD Q1/2026:  
+Doanh thu từ mảng sản xuất đạt 28 nghìn tỷ đồng (-31% so với quý trước, +79% svck), chiếm 27% tổng doanh thu của VIC. 
+Lỗ gộp ở mức 10,4 nghìn tỷ đồng, tăng 74% so với mức lỗ 6,1 nghìn tỷ đồng trong Q1/2025. Biên lợi nhuận gộp đạt -35,5%, 
+thu hẹp so với mức -38,6% trong Q1/2025. Kết quả cải thiện này được thúc đẩy bởi số lượng xe điện bàn giao tăng cao hơn 
+svck và cơ cấu doanh số được cải thiện theo hướng tích cực hơn. 
+Doanh số bán xe duy trì đà tăng trưởng với số xe điện bàn giao toàn cầu trong Q1/2026 tăng 61% svck lên 58.577 xe, tuy 
+nhiên giảm so với quý trước từ 86.557 xe chủ yếu do yếu tố mùa vụ. Cơ cấu sản phẩm được cải thiện về chất lượng với tỷ 
+trọng đóng góp lớn hơn từ các mẫu xe tầm trung, bao gồm VF6, VF7, MPV7 và Limo Green (chiếm 42% lượng xe bàn giao 
+trong nước của VinFast) so với các mẫu xe bình dân VF3 và VF5 (chiếm 35%). Cơ cấu này hỗ trợ quy mô, tăng trưởng đội xe 
+GSM và củng cố thị phần trong nước. 
+Xe máy điện ghi nhận mức tăng trưởng sản lượng rõ nét hơn với 143.136 xe được bàn giao (-17% so với quý trước, +219% 
+svck). Nhu cầu được hỗ trợ một phần bởi giá xăng tăng cao trong bối cảnh căng thẳng địa chính trị kéo dài tại Trung Đông, 
+trong khi việc hạn chế đối với xe máy chạy xăng tại Hà Nội có thể chưa tác động mạnh do phạm vi thí điểm hẹp và chủ yếu 
+vào một số khung giờ nhất định. 
+Biên lợi nhuận có xu hướng cải thiện. Trong năm 2025, biên lợi nhuận gộp của mảng sản xuất cải thiện lên -35,0% từ 
+mức -42,5% trong năm 2024, trong khi biên lợi nhuận gộp điều chỉnh cải thiện lên -27,7% từ mức -36,9%. Lỗ EBIT năm 
+2025 đạt 68,1 nghìn tỷ đồng, tương ứng biên EBIT khoảng -75% (so với biên EBIT năm 2024 ở mức -85%).  
+Kế hoạch tái cơ cấu của VinFast: VinFast Auto Ltd. (VinFast) công bố kế hoạch tái cấu trúc gồm hai bước: tách một số tài sản 
+của CTCP Thương mại và Sản xuất VinFast (VFTP) - vốn là công ty con của VinFast - thành một thực thể mới, sau đó thoái 
+toàn bộ vốn tại VFTP. VinFast sẽ chuyển nhượng toàn bộ cổ phần tại VFTP cho nhóm bên mua do CTCP Nghiên cứu và Phát 
+triển Đầu tư Tương lai dẫn đầu, trong đó có ông Phạm Nhật Vượng với vai trò nhà đầu tư thiểu số với tổng giá trị khoảng 
+13.309 tỷ đồng (khoảng 530 triệu USD).  
+0,0
+50,0
+100,0
+150,0
+200,0
+250,0
+300,0
+2023
+2024
+2025
+2026F
+2027F
+ OCP2&3
+ Royal Island
+ Wonder City
+Global Gate HL
+Green Paradise
+Golden City
+Green City
+ Lang Van
+Saigon Park
+Phuoc Vinh Tay
+Others
+0
+50
+100
+150
+200
+250
+300
+2022
+2023
+2024
+2025
+2026F
+2027F
+Net revenue
+NPAT-MI
+Doanh thu thuần
+NPATMI
+
+SSI - TRUNG TÂM PHÂN TÍCH & TƯ VẤN ĐẦU TƯ 
+ 
+ 
+Visit SSI Research on Bloomberg at DS <GO> 
+SSI Research Web Portal: https://www.ssi.com.vn/khach-hang-ca-nhan/bao-cao-cong-ty 
+ 
+Trang  5 
+ 
+Theo kế hoạch, CTCP VinFast Việt Nam sẽ được thành lập để nắm giữ hoạt động R&D toàn cầu, sở hữu trí tuệ, hoạt động 
+hậu mãi và bán hàng, trong khi VFTP sẽ giữ lại tài sản liên quan đến hoạt động sản xuất tại Việt Nam cùng các nghĩa vụ liên 
+quan. Việc hoàn tất đề xuất này phụ thuộc vào chấp thuận của cổ đông và các bên cho vay, dự kiến hoàn tất vào Q3/2026. 
+Giao dịch được định giá khoảng 13.309,6 tỷ đồng (khoảng 530 triệu USD) dựa trên giá trị sổ sách của tài sản ròng hợp nhất 
+theo VAS sau khi tách (tại ngày 31/03/2026), do đó kỳ vọng không ghi nhận khoản lãi/lỗ tài chính cho VIC. Doanh số bán xe 
+tiếp tục được ghi nhận tại VIC/VFS trong khi VFTP hoạt động với vai trò nhà sản xuất theo hợp đồng. Đề xuất tái cơ cấu cho 
+thấy ý định của VinFast trong việc chuyển sang mô hình vận hành ít tài sản hơn (“light-asset model), qua đó được kỳ vọng 
+làm giảm áp lực chi phí đầu tư, hạn chế tác động lên lợi nhuận hợp nhất và cải thiện tỷ lệ đòn bẩy của VIC.  
+Sau khi chia tách, nhu cầu vốn đầu tư trong năm 2026 được dự báo bao gồm 0,5 tỷ USD (so với kế hoạch ban đầu là 1 tỷ 
+USD) cho các nhà máy ở nước ngoài (Ấn Độ, Indonesia và Mỹ) và thiết bị, cùng 0,6 tỷ USD (+50% svck) cho chi phí R&D. 
+Cùng với các khoản lỗ hoạt động đang tiếp diễn, sự hỗ trợ từ Chủ tịch nhiều khả năng vẫn là cần thiết. 
+IPO GreenSM (Vingroup sở hữu 5%) có thể hỗ trợ VFS. Green SM (GSM) hiện đứng đầu thị phần gọi taxi cả nước, đồng thời 
+mở rộng sang Lào, Indonesia và Philippines. Doanh số từ GSM đóng góp 871 triệu USD cho VFS trong năm 2025, tương ứng 
+với 27% tổng sản lượng xe điện bàn giao. Việc GSM có thể tự huy động vốn độc lập sẽ giảm bớt áp lực tài chính cho Vingroup. 
+Chúng tôi kỳ vọng doanh số bán xe sẽ tiếp tục duy trì đà tăng trưởng trong năm 2026, với doanh số xe điện đạt 270 nghìn 
+xe (+37% svck) và doanh số xe máy điện dự kiến tăng lên 750 nghìn xe trong năm 2026 (+85% svck). Chúng tôi ước tính 
+mảng sản xuất ghi nhận lỗ EBIT năm 2026 ở mức -48,5 nghìn tỷ đồng. 
+Bảng. Các khoản hỗ trợ đã công bố từ các bên liên quan dành cho VFS 
+Khoản hỗ trợ  
+Đối tác  
+Giá trị  
+Tình trạng thực hiện 
+Thỏa thuận tài trợ (tháng 
+11/2024) 
+Phạm Nhật Vượng (cá 
+nhân)  
+Lên tới 2,0 tỷ USD  
+Đã tài trợ khoảng 1,3 tỷ USD; còn khoảng 0,7 tỷ USD chưa tài 
+trợ 
+Bán IP Novatech (năm 
+2025) 
+Phạm Nhật Vượng (cá 
+nhân) 
+Đã nhận 1,6 tỷ USD  
+Hoàn tất 
+Cổ phiếu ưu đãi DPS1- 
+DPS5  
+CTCP Tập đoàn 
+Vingroup  
+Khoảng 5 tỷ USD quyền lợi 
+kinh tế  
+Đang lưu hành; 40 nghìn tỷ đồng đã được chuyển đổi trong 
+năm 2025 
+DPS5 chưa được chuyển đổi; tính đến cuối năm 2025, 
+Vingroup nắm giữ 6 tỷ cổ phiếu DPS5 đang lưu hành 
+Quyền chọn bán DPS2  
+CTCP Tập đoàn 
+Vingroup  
+Khoảng 969 triệu USD  
+Vingroup có thể yêu cầu VFS mua lại khi EB đáo hạn 
+Gói hỗ trợ cho VFS (khoản 
+vay) 
+CTCP Tập đoàn 
+Vingroup 
+1,4 tỷ USD 
+Đã giải ngân 0,8 tỷ USD; khoảng 0,6 tỷ USD chưa giải ngân 
+Nguồn: VFS, SSI Research 
+ 
+Đơn vị 
+2022 
+2023 
+2024 
+2025 
+2026F 
+2027F 
+Số lượng xe máy điện bàn giao 
+ 
+60.000 
+72.468 
+70.977 
+406.498 
+750.000 
+900.000 
+Số lượng xe điện bàn giao 
+ 
+7.400 
+34.855 
+97.399 
+196.919 
+270.000 
+315.000 
+Doanh thu 
+Tỷ đồng 
+13.058 
+28.104 
+49.704 
+91.050 
+135.661 
+165.753 
+EBIT 
+Tỷ đồng 
+-33.078 
+-33.958 
+-42.199 
+-68.113 
+-48.526 
+-23.144 
+Nguồn: VFS, VIC, SSI Research
+
+SSI - TRUNG TÂM PHÂN TÍCH & TƯ VẤN ĐẦU TƯ 
+ 
+ 
+Visit SSI Research on Bloomberg at DS <GO> 
+SSI Research Web Portal: https://www.ssi.com.vn/khach-hang-ca-nhan/bao-cao-cong-ty 
+ 
+Trang  6 
+ 
+Khách sạn, du lịch: Các chỉ số hoạt động tiếp tục cải thiện 
+KQKD Q1/2026: Doanh thu mảng khách sạn, du lịch đạt 3,7 nghìn tỷ đồng (+21% so với quý trước, +50% svck). Biên lợi nhuận 
+gộp tăng lên 32,1%, từ mức 11,2% trong Q4/2025 và 17,8% trong Q1/2025, nhờ cải thiện các chỉ số hoạt động, bao gồm (i) 
+số đêm phòng bán tăng 28% svck, doanh thu/phòng (RevPAR) tăng 38% svck và tỷ lệ lấp đầy tăng lên 65% (+12 điểm phần 
+trăm svck), được thúc đẩy nhờ thị trường Nha Trang (+19 điểm phần trăm) và Phú Quốc (+15 điểm phần trăm); và (ii) lượng 
+khách đến VinWonders tăng 18% svck cùng với doanh thu trên mỗi lượt khách tăng 22%. EBIT trong Q1/2026 đạt 516 tỷ 
+đồng, cải thiện đáng kể so với mức lỗ EBIT 345 tỷ đồng trong Q4/2025 và 231 tỷ đồng trong Q1/2025. 
+Biểu đồ: Tỷ lệ lấp đầy khách sạn 
+Biểu đồ: Số lượng khách đến VinWonders 
+ 
+Nguồn: VPL, SSI Research 
+ 
+Kế hoạch mở rộng: Mạng lưới của Vinpearl hiện bao gồm 60 cơ sở tại 20 tỉnh thành, bao gồm 35 khách sạn với hơn 17.525 
+phòng khách sạn và khu nghỉ dưỡng, 15 công viên chủ đề và tổ hợp vui chơi giải trí, 1 học viện cưỡi ngựa, 6 sân golf và 3 
+trung tâm ẩm thực và hội nghị. VPL dự kiến khai trương một tổ hợp giải trí tích hợp tại Mỹ Lâm, Tuyên Quang trong năm 2026, 
+bao gồm một khách sạn 235 phòng, VinWonders và sân golf. 
+Chúng tôi ước tính doanh thu năm 2026 của VPL đạt 16.977 tỷ đồng (+9% svck), trong đó mảng khách sạn, du lịch dự kiến 
+đóng góp 12,7 nghìn tỷ đồng (+11% svck) và NPAT-MI dự kiến đạt 3.193 tỷ đồng (+190% svck). Kết quả này được thúc đẩy 
+bởi (i) cải thiện hiệu quả hoạt động, (ii) ghi nhận doanh thu chuyển nhượng bất động sản tại Vinpearl Phú Quý và (iii) ghi nhận 
+khoản lãi bất thường từ việc bán tài sản trong Q1/2026 
+ 
+Đơn vị 
+2022 
+2023 
+2024 
+2025 
+2026F 
+2027F 
+Vinpearl 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Số phòng 
+  
+ 
+ 
+7.192 
+7.916 
+8.151 
+11.411 
+Số đêm phòng bán được 
+Nghìn 
+684 
+914 
+1.226 
+1.500 
+1.601 
+2.071 
+Tỷ lệ lấp đầy 
+% 
+ 
+ 
+47% 
+56% 
+60% 
+55% 
+ADR 
+Triệu đồng 
+ 
+ 
+1,99 
+2,13 
+2,31 
+3,22 
+Revpar 
+Triệu đồng 
+ 
+ 
+1,21 
+1,46 
+1,37 
+1,64 
+VinWonders 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Số cơ sở 
+  
+7 
+8 
+14 
+16 
+17 
+18 
+Số lượt khách 
+triệu 
+5,3 
+5,0 
+7,8 
+10,4 
+11,3 
+12,7 
+Doanh thu/lượt khách 
+Triệu đồng 
+ 
+ 
+0,57 
+0,56 
+0,51 
+0,56 
+Doanh thu 
+Tỷ đồng 
+7.173 
+9.254 
+14.376 
+15.539 
+16.977 
+24.154 
+- 
+Khách sạn, du lịch 
+Tỷ đồng 
+7.097 
+8.612 
+8.498 
+11.384 
+12.653 
+17.868 
+Lợi nhuận ròng 
+Tỷ đồng 
+4.230 
+671 
+2.550 
+1.102 
+3.193 
+3.686 
+Nguồn: VPL, SSI Research 
+46 %
+53 %
+57 %
+59 %
+49 %
+65 %
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+2Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+-100%
+-50%
+0%
+50%
+100%
+150%
+200%
+250%
+300%
+350%
+400%
+0
+2000
+4000
+6000
+8000
+10000
+12000
+2018 2019 2020 2021 2022 2023 2024 2025 1Q26
+Total guest visits (LHS - '000)
+Growth (RHS)
+Tăng trưởng (phải)
+Tổng lượng khách (nghìn, trái)
+
+SSI - TRUNG TÂM PHÂN TÍCH & TƯ VẤN ĐẦU TƯ 
+ 
+ 
+Visit SSI Research on Bloomberg at DS <GO> 
+SSI Research Web Portal: https://www.ssi.com.vn/khach-hang-ca-nhan/bao-cao-cong-ty 
+ 
+Trang  7 
+ 
+Các mảng hoạt động khác 
+Năng lượng xanh 
+VinEnergo (Vingroup sở hữu 19%): 
+Danh mục các dự án nhà máy điện của VinEnergo bao gồm: nhà máy điện mặt trời Điện Biên 1 (300MW), các dự án điện mặt 
+trời nổi Lai Châu (550MW), cùng hai dự án điện gió tại Gia Lai (Giai đoạn 1 – 750MW) và Kiên Giang (143MW). 
+VinSpeed (Vingroup sở hữu 10%): 
+VinSpeed hiện đang triển khai hai dự án trọng điểm: 
+Tuyến metro TP.HCM - Cần Giờ: Dự án gồm tuyến metro dài 54km, thiết kế tốc độ tối đa 350 km/h, với tổng mức đầu tư ước 
+tính 4,1 tỷ USD. Dự án khởi công vào tháng 12/2025, mục tiêu đưa vào hoạt động năm 2028. Tuyến metro sẽ có hai ga – Bến 
+Thành (TP.HCM) và Vinhomes Green Paradise (Cần Giờ). 
+Đường sắt tốc độ cao Hà Nội - Quảng Ninh: Tuyến đường sắt dài 120km, thiết kế tốc độ tối đa 350 km/h, với tổng mức đầu 
+tư ước tính 5,4 tỷ USD. Dự án khởi công vào tháng 4/2026, mục tiêu hoàn thành năm 2028. Điểm đầu tuyến tại Trung tâm 
+Hội chợ Triển lãm Việt Nam & Vinhomes Global Gate (Hà Nội), điểm cuối tuyến tại Vinhomes Global Gate Hạ Long. 
+ 
+Vốn điều lệ 
+(nghìn tỷ đồng) 
+Tỷ lệ sở hữu của 
+VIC 
+% sở hữu 
+trong VIC 
+Vốn góp lũy kế của Vingroup (đến cuối 
+Q1/26) 
+Capex dự kiến năm 
+2026 (nghìn tỷ 
+đồng)* 
+VinSpeed 
+45 
+10% 
+10,8% 
+4,5 
+- 
+VinEnergo 
+28 
+19% 
+4,3% 
+15,2 
+10 
+ 
+Cơ cấu nợ 
+Biểu đồ: Phân loại nợ 
+Biểu đồ: Phân loại nợ theo kỳ hạn (tỷ đồng) 
+ 
+ 
+Nguồn: VIC, SSI Research 
+Tính đến cuối Q1/2026, tổng nợ của VIC đạt 358,4 nghìn tỷ đồng (tương đương 14,6 tỷ USD), tăng 6% so với đầu năm, trong 
+đó nợ vay bằng USD chiếm 16,7%. Tỷ lệ Nợ/VCSH tăng lên 2,3x từ mức 2,2x, trong khi tổng nợ phải trả/vốn chủ sở hữu tăng 
+lên 6,7x từ 6,4x so với cuối năm 2025. Chi phí lãi vay bình quân TTM năm 2026 là 10,7%, tương đương mức của năm 2025. 
+Nợ đến hạn trong vòng 12 tháng tới (không bao gồm các khoản vay hạn mức tín dụng 79,6 nghìn tỷ đồng) là 57,9 nghìn tỷ 
+đồng, trong đó khoảng 68% đến hạn trong năm 2026. Ước tính hiện tại của chúng tôi về chi phí lãi vay năm 2026 là 31,5 
+nghìn tỷ đồng, tăng 8% svck. Về kế hoạch tái cơ cấu nợ, ban lãnh đạo cho biết phần nợ trong nước dự kiến sẽ được tái cấp 
+vốn và gia hạn, trong khi đối với các khoản vay hợp vốn quốc tế, Vingroup dự kiến tái cấp vốn một nửa số dư nợ, phần còn 
+lại sẽ được trả dần từ dòng tiền hoạt động kinh doanh. 
+Chúng tôi đánh giá các khoản nợ ngắn hạn đến hạn được hỗ trợ đầy đủ bởi khả năng tiếp cận thị trường vốn trong và ngoài 
+nước của Vingroup cũng như dòng tiền thu từ bán bất động sản. Tuy nhiên, chúng tôi lưu ý một số rủi ro cần theo dõi trong 
+bối cảnh mặt bằng lãi suất cao có thể tác động tiêu cực đến thị trường bất động sản và tạo áp lực lên doanh số bán hàng.
+2,9 %
+28,6 %
+11,7%
+22,2 %
+30,8 %
+3,8 %
+Exchangeable bond
+Syndicated loan
+Long-term bank loan
+Revolving bank loan
+Domestic bond
+Others
+Trái phiếu hoán đổi
+Khoản vay hợp vốn
+Vay NH dài hạn
+Vay hạn mức tín 
+dụng
+Trái phiếu trong 
+nước
+Khác
+Revolving
+bank loan
+<1 year
+1-3 years
+3-5 years
+>5 years
+Domestic bond
+31.620
+74.987
+3.958
+Syndicated loan & Int's bond
+12.109
+59.765
+40.312
+Bank borrowings & others
+14.213
+26.674
+6.654
+8.474
+Revolving bank loan
+79.635
+-
+-
+-
+-
+ -
+ 20.000
+ 40.000
+ 60.000
+ 80.000
+ 100.000
+ 120.000
+ 140.000
+ 160.000
+ 180.000
+Trái phiếu trong nước
+Khoản vay hợp vốn & TPTC
+Vay NH & khác
+Vay hạn mức tín dụng
+Vay hạn
+mức tín 
+dụng
+<1 năm
+1-3 năm
+3-5 năm
+> 5 năm
+
+SSI - TRUNG TÂM PHÂN TÍCH & TƯ VẤN ĐẦU TƯ 
+ 
+ 
+Visit SSI Research on Bloomberg at DS <GO> 
+SSI Research Web Portal: https://www.ssi.com.vn/khach-hang-ca-nhan/bao-cao-cong-ty 
+ 
+Trang  8 
+ 
+Ước tính & Luận điểm đầu tư 
+Trong năm 2026, chúng tôi dự báo VIC đạt 455,9 nghìn tỷ đồng doanh thu (+37% svck) và NPAT-MI đạt 30,8 nghìn tỷ đồng 
+(+171% svck). Kết quả năm 2026 dự kiến được thúc đẩy chủ yếu bởi: (i) doanh số bán bất động sản từ các dự án Ocean Park 
+2&3, Royal Island, Wonder City, Green Paradise, Hải Vân Bay và các dự án khác; (ii) khoản hỗ trợ 22 nghìn tỷ đồng từ Chủ 
+tịch. Nếu loại trừ khoản tài trợ từ Chủ tịch, lợi nhuận ròng năm 2026 ước đạt 14,5 nghìn tỷ đồng, so với mức lỗ 7,3 nghìn tỷ 
+đồng trong năm 2025. Do hạn chế về thông tin hiện tại, chúng tôi chưa đưa kế hoạch tái cơ cấu của VinFast vào dự báo. 
+Theo quan điểm của chúng tôi, kết quả kinh doanh của Vingroup tiếp tục được dẫn dắt chủ yếu bởi mảng bất động sản, nhờ 
+sự đóng góp từ các dự án mới mở bán cũng như các dự án đang triển khai. Lợi nhuận vẫn phụ thuộc lớn vào doanh số bán bất 
+động sản (đặc biệt là bán buôn), các giao dịch thoái vốn tài sản và sự hỗ trợ từ Chủ tịch. Trong khi đó, hoạt động sản xuất của 
+VinFast dự kiến vẫn ghi nhận lỗ trong ngắn hạn, gây áp lực lên lợi nhuận hợp nhất của VIC. Tuy nhiên, nếu kế hoạch tái cơ 
+cấu được phê duyệt, đóng góp lợi nhuận từ VinFast có thể được cải thiện nhờ chuyển sang mô hình “asset-light”, giảm bớt áp 
+lực chi phí. 
+Chúng tôi duy trì khuyến nghị phân bổ VIC với tỷ trọng thấp hơn mức tỷ trọng trong chỉ số. Bên cạnh kỳ vọng nâng hạng thị 
+trường, VIC đang nổi lên là một trong những cổ phiếu hưởng lợi từ định hướng chính sách ngày càng hỗ trợ khu vực kinh tế tư 
+nhân trong nước. Tỷ trọng vốn hóa của VIC hiện đã tăng lên khoảng 28% trên HSX, qua đó thúc đẩy nhu cầu tái cân bằng 
+danh mục từ cả nhà đầu tư tổ chức và cá nhân. Trong bối cảnh nhiều nhà đầu tư vẫn đang nắm giữ dưới mức tỷ trọng tham 
+chiếu, nhu cầu gia tăng vị thế có thể tiếp tục tạo hỗ trợ kỹ thuật và duy trì lực cầu đối với cổ phiếu trong ngắn hạn. 
+VIC đang giao dịch ở mức P/E và P/B trượt lần lượt là 144,6x và 11,4x, cao hơn mức bình quân 5 năm là 57,6x và 3,3x. 
+Biểu đồ: Cơ cấu doanh thu VIC 2022-2027F (tỷ đồng) 
+Biểu đồ: Lợi nhuận VIC 2022–2027F 
+ 
+ 
+Nguồn: VIC, SSI Research 
+ 
+Các dòng tiền vào/ra chính của Vingroup 
+(Tỷ đồng) 
+2026F 
+2027F 
+Dòng tiền vào từ Vinhomes 
+227.530 
+248.246 
+Đóng góp EBITDA từ Vinpearl 
+6.229 
+8.528 
+Cam kết hỗ trợ của Chủ tịch 
+22.000 
+- 
+Thoái vốn tài sản khác/Hỗ trợ bổ sung có thể có 
+21.000 
+16.000 
+Thu nhập lãi vay 
+8.068 
+7.124 
+Tổng dòng tiền vào 
+284.827 
+279.898 
+Chi phí Vinhomes 
+-198.845 
+-195.926 
+Capex Vinpearl 
+-11.884 
+-9.662 
+Capex VinFast + Lỗ EBITDA 
+-86.876 
+-44.471 
+Chi phí lãi vay 
+-18.028 
+-18.028 
+Nợ đến hạn 
+-39.506 
+-58.793 
+Tổng dòng tiền ra 
+-355.139 
+-326.880 
+Nhu cầu tài trợ 
+70.311 
+46.982 
+Thay đổi nợ ròng 
+30.805 
+-11.811 
+Nguồn: Giả định và Ước tính của SSI Research 
+0
+100.000
+200.000
+300.000
+400.000
+500.000
+600.000
+2022
+2023
+2024
+2025
+2026F
+2027F
+Property sales
+Industrials
+Hospitality
+Education&Healthcare
+Others
+Doanh số
+BĐS
+Sản
+xuất
+khách 
+sạn, du
+lịch
+Giáo dục & CSSK
+Khác
+-500%
+-400%
+-300%
+-200%
+-100%
+0%
+100%
+200%
+300%
+400%
+500%
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+90000
+100000
+2022
+2023
+2024
+2025
+2026F
+2027F
+EBIT (LHS - VND bn)
+NPAT-MI (LHS - VND bn)
+EBIT margin (RHS - %)
+NPAT-Mi margin (RHS - %)
+EBIT (tỷđồng, trái)
+Biên EBIT (%, phái)
+NPATMI (tỷđồng, trái)
+Biên NPATMI (%, phải)
+
+SSI - TRUNG TÂM PHÂN TÍCH & TƯ VẤN ĐẦU TƯ 
+ 
+ 
+Visit SSI Research on Bloomberg at DS <GO> 
+SSI Research Web Portal: https://www.ssi.com.vn/khach-hang-ca-nhan/bao-cao-cong-ty 
+ 
+Trang  9 
+ 
+PHỤ LỤC: BÁO CÁO TÀI CHÍNH NĂM 
+Tỷ đồng 
+2024 
+2025 
+2026F 
+2027F 
+ 
+Tỷ đồng 
+2024 
+2025 
+2026F 
+2027F 
+Bảng cân đối kế toán 
+  
+  
+  
+  
+ 
+Báo cáo kết quả kinh doanh 
+  
+  
+  
+  
++ Tiền và các khoản tương đương tiền 
+42.582 
+73.542 
+68.135 
+54.661 
+ 
+Doanh thu thuần 
+189.068 
+331.838 
+455.968 
+519.346 
++ Đầu tư ngắn hạn 
+8.719 
+9.838 
+9.838 
+9.838 
+ 
+Giá vốn hàng bán 
+161.767 
+279.155 
+346.754 
+370.159 
++ Các khoản phải thu ngắn hạn 
+190.047 
+267.210 
+297.882 
+304.876 
+ 
+Lợi nhuận gộp 
+27.301 
+52.683 
+109.215 
+149.187 
++ Hàng tồn kho 
+114.090 
+201.580 
+300.230 
+320.495 
+ 
+Doanh thu hoạt động tài chính 
+47.925 
+50.463 
+16.135 
+14.247 
++ Tài sản ngắn hạn khác 
+41.042 
+106.602 
+146.478 
+166.838 
+ 
+Chi phí tài chính 
+31.208 
+47.293 
+45.732 
+46.712 
+Tổng tài sản ngắn hạn 
+343.536 
+343.536 
+343.536 
+343.536 
+ 
+Thu nhập từ các công ty liên kết 
+849 
+1.138 
+980 
+1.090 
++ Các khoản phải thu dài hạn 
+82.564 
+21.089 
+21.089 
+21.089 
+ 
+Chi phí bán hàng 
+18.054 
+31.065 
+42.686 
+48.619 
++ GTCL Tài sản cố định 
+182.943 
+195.394 
+235.283 
+248.267 
+ 
+Chi phí quản lý doanh nghiệp 
+15.148 
+17.989 
+24.718 
+28.154 
++ Bất động sản đầu tư 
+13.033 
+19.354 
+19.354 
+19.354 
+ 
+Lợi nhuận từ hoạt động kinh doanh 
+11.665 
+7.937 
+13.195 
+41.041 
++ Tài sản dài hạn dở dang 
+113.358 
+131.775 
+131.775 
+131.775 
+ 
+Thu nhập khác 
+5.074 
+18.500 
+36.160 
+9.348 
++ Đầu tư dài hạn 
+27.061 
+37.988 
+37.988 
+37.988 
+ 
+Lợi nhuận trước thuế 
+16.739 
+26.437 
+49.356 
+50.389 
++ Tài sản dài hạn khác 
+21.164 
+54.251 
+54.251 
+54.251 
+ 
+Lợi nhuận ròng 
+5.276 
+11.065 
+32.081 
+32.753 
+Tổng tài sản dài hạn 
+440.124 
+459.850 
+499.739 
+512.723 
+ 
+Lợi nhuận chia cho cổ đông 
+11.903 
+11.350 
+30.796 
+30.871 
+Tổng tài sản 
+836.604 
+1.118.623 
+1.322.303 
+1.369.431 
+ 
+Lợi ích của cổ đông thiểu số 
+-6.627 
+-285 
+1.285 
+1.882 
++ Nợ ngắn hạn 
+505.292 
+587.455 
+700.524 
+726.709 
+ 
+ 
+  
+  
+  
+  
+Trong đó: vay ngắn hạn 
+95.189 
+114.000 
+114.000 
+114.000 
+ 
+EPS cơ bản (VND) 
+3.069 
+1.468 
+3.982 
+3.992 
++ Nợ dài hạn 
+177.477 
+379.679 
+438.208 
+426.398 
+ 
+Giá trị sổ sách (VND) 
+197.434 
+19.081 
+23.230 
+27.465 
+Trong đó: vay dài hạn 
+129.042 
+221.419 
+283.030 
+271.219 
+ 
+Cổ tức (VND/cổ phiếu) 
+172 
+0 
+0 
+0 
+Tổng nợ phải trả 
+682.769 
+967.134 
+1.138.732 
+1.153.107 
+ 
+EBIT 
+39.719 
+55.597 
+81.408 
+85.156 
++ Vốn góp 
+38.786 
+77.335 
+77.335 
+77.335 
+ 
+EBITDA 
+62.346 
+87.262 
+114.300 
+122.665 
++ Thặng dư vốn cổ phần 
+40.308 
+2.037 
+2.037 
+2.037 
+ 
+ 
+  
+  
+  
+  
++ Lợi nhuận chưa phân phối 
+44.468 
+54.277 
+86.358 
+119.112 
+ 
+Tăng trưởng 
+  
+  
+  
+  
++ Quỹ khác 
+108 
+118 
+118 
+118 
+ 
+Doanh thu 
+17,1% 
+75,5% 
+37,4% 
+13,9% 
+Vốn chủ sở hữu 
+153.834 
+151.489 
+183.571 
+216.324 
+ 
+EBITDA 
+28,2% 
+40,0% 
+31,0% 
+7,3% 
+Tổng nợ phải trả và vốn chủ sở hữu 
+836.604 
+1.118.623 
+1.322.304 
+1.369.431 
+ 
+EBIT 
+28,1% 
+40,0% 
+46,4% 
+4,6% 
+ 
+  
+  
+  
+  
+ 
+Lợi nhuận ròng 
+156,6% 
+109,7% 
+189,9% 
+2,1% 
+Lưu chuyển tiền tệ 
+  
+  
+  
+  
+ 
+Vốn chủ sở hữu 
+3,8% 
+-1,5% 
+21,2% 
+17,8% 
+Dòng tiền từ hoạt động kinh doanh 
+20.846 
+69.245 
+8.844 
+48.829 
+ 
+Vốn điều lệ 
+0,0% 
+99,4% 
+0,0% 
+0,0% 
+Dòng tiền từ hoạt động đầu tư 
+-16.843 
+-139.928 
+-72.781 
+-50.493 
+ 
+Tổng tài sản 
+25,3% 
+33,7% 
+18,2% 
+3,6% 
+Dòng tiền từ hoạt động tài chính 
+10.934 
+101.619 
+58.530 
+-11.811 
+ 
+ 
+  
+  
+  
+  
+Lưu chuyển tiền thuần trong kỳ 
+14.938 
+30.936 
+-5.407 
+-13.474 
+ 
+Định giá 
+  
+  
+  
+  
+Tiền đầu kỳ 
+27.983 
+42.582 
+73.542 
+68.135 
+ 
+P/E 
+13,2 
+154 
+56,8 
+56,6 
+Tiền cuối kỳ 
+42.582 
+73.542 
+68.135 
+54.661 
+ 
+P/B 
+1,1 
+11,8 
+9,7 
+8,2 
+ 
+  
+  
+  
+  
+ 
+Giá/Doanh thu 
+4,6 
+5,3 
+3,8 
+3,4 
+Các hệ số khả năng thanh toán 
+  
+  
+  
+  
+ 
+Tỷ suất cổ tức 
+1,7% 
+0,0% 
+0,0% 
+0,0% 
+Hệ số thanh toán hiện hành 
+0,78 
+1,12 
+1,17 
+1,18 
+ 
+EV/EBITDA 
+2,5 
+20 
+15,3 
+14,2 
+Hệ số thanh toán nhanh 
+0,48 
+0,6 
+0,54 
+0,51 
+ 
+EV/Doanh thu 
+9,2 
+5,3 
+3,8 
+3,4 
+Hệ số thanh toán tiền mặt 
+0,1 
+0,14 
+0,11 
+0,09 
+ 
+ 
+  
+  
+  
+  
+Nợ ròng / EBITDA 
+2,94 
+2,54 
+2,58 
+2,69 
+ 
+Các hệ số khả năng sinh lời 
+  
+  
+  
+  
+Khả năng thanh toán lãi vay 
+1,73 
+1,91 
+2,54 
+2,45 
+ 
+Tỷ suất lợi nhuận gộp 
+14,4% 
+15,9% 
+24,0% 
+28,7% 
+Ngày phải thu 
+345,7 
+251,5 
+226,2 
+211,8 
+ 
+Tỷ suất lợi nhuận hoạt động 
+6,2% 
+2,4% 
+2,9% 
+7,9% 
+Ngày phải trả 
+89,7 
+57,5 
+57,5 
+57,5 
+ 
+Tỷ suất lợi nhuận ròng 
+2,8% 
+3,3% 
+7,0% 
+6,3% 
+Ngày tồn kho 
+233,2 
+206,4 
+264,1 
+306 
+ 
+Chi phí bán hàng/Doanh thu thuần 
+9,5% 
+9,4% 
+9,4% 
+9,4% 
+ 
+  
+  
+  
+  
+ 
+Chi phí quản lý/Doanh thu thuần 
+8,0% 
+5,4% 
+5,4% 
+5,4% 
+Cơ cấu vốn 
+  
+  
+  
+  
+ 
+ROE 
+8,7% 
+7,7% 
+17,1% 
+14,5% 
+Vốn chủ sở hữu/Tổng tài sản 
+0,18 
+0,14 
+0,14 
+0,16 
+ 
+ROA 
+1,4% 
+1,0% 
+2,3% 
+2,3% 
+Nợ phải trả/Tổng tài sản 
+0,82 
+0,86 
+0,86 
+0,84 
+ 
+ROIC 
+1,6% 
+2,7% 
+6,3% 
+6,0% 
+Nợ phải trả/Vốn chủ sở hữu 
+4,44 
+6,38 
+6,2 
+5,33 
+ 
+ 
+ 
+ 
+ 
+ 
+Nợ/Vốn chủ sở hữu 
+1,46 
+2,21 
+2,16 
+1,78 
+ 
+ 
+ 
+ 
+ 
+ 
+Nợ ngắn hạn/Vốn chủ sở hữu 
+0,62 
+0,75 
+0,62 
+0,53 
+ 
+ 
+ 
+ 
+ 
+ 
+Nguồn: VIC, SSI Research
+
+SSI - TRUNG TÂM PHÂN TÍCH & TƯ VẤN ĐẦU TƯ 
+ 
+ 
+Visit SSI Research on Bloomberg at DS <GO> 
+SSI Research Web Portal: https://www.ssi.com.vn/khach-hang-ca-nhan/bao-cao-cong-ty 
+ 
+Trang  10 
+ 
+CAM KẾT PHÂN TÍCH 
+Chuyên viên phân tích trong báo cáo này này cam kết rằng (1) quan điểm thể hiện trong báo cáo phân tích này phản ánh chính xác quan điểm cá nhân đối với chứng khoán 
+và/hoặc tổ chức phát hành và (2) chuyên viên phân tích đã/ đang/sẽ được miễn trách nhiệm bồi thường trực tiếp hoặc gián tiếp liên quan đến khuyến nghị cụ thể hoặc quan điểm 
+trong báo cáo phân tích này.  
+KHUYẾN NGHỊ 
+Mua: Ước tính tiềm năng tăng giá lớn hơn hoặc bằng 10 điểm phần trăm so với mức tăng chung của thị trường trong 12 tháng tới. 
+Khả quan: Ước tính tiềm năng tăng giá dưới 10 điểm phần trăm so với mức tăng chung của thị trường trong 12 tháng tới. 
+Trung lập: Ước tính tiềm năng tăng giá tương đương so với mức tăng chung của thị trường trong 12 tháng tới. 
+Kém khả quan: Ước tính tiềm năng giảm giá dưới 10 điểm phần trăm so với mức tăng chung của thị trường trong 12 tháng tới. 
+Bán: Ước tính tiềm năng giảm giá lớn hơn hoặc bằng 10 điểm phần trăm so với mức tăng chung của thị trường trong 12 tháng tới. 
+Trong một số trường hợp, khuyến nghị dựa trên tiềm năng tăng giá 1 năm có thể được điều chỉnh lại theo ý kiến của chuyên viên phân tích sau khi cân nhắc một số yếu tố thị 
+trường có thể làm ảnh hưởng đến giá cổ phiếu trong ngắn hạn và trung hạn. 
+TUYÊN BỐ MIỄN TRỪ 
+Các thông tin, tuyên bố, dự báo và dự đoán trong báo cáo này, bao gồm cả các ý kiến đã thể hiện, được dựa trên các nguồn thông tin mà SSI cho là đáng tin cậy, tuy nhiên SSI 
+không đảm bảo sự chính xác và đầy đủ của các thông tin này. Báo cáo không có bất kỳ thông tin nhạy cảm về giá chưa công bố nào. Các ý kiến thể hiện trong báo cáo này được 
+đưa ra sau khi đã được xem xét kỹ càng và cẩn thận và dựa trên thông tin tốt nhất chúng tôi được biết, và theo ý kiến cá nhân của chúng tôi là hợp lý trong các trường hợp tại thời 
+điểm đưa ra báo cáo. Các ý kiến thể hiện trong báo cáo này có thể thay đổi bất kì lúc nào mà không cần thông báo. Báo cáo này không và không nên được giải thích như một lời 
+đề nghị hay lôi kéo để đề nghị mua hay bán bất cứ chứng khoán nào. SSI và các công ty con và/ hoặc các chuyên viên, giám đốc, nhân viên của SSI và công ty con có thể có vị 
+thế hoặc có thể ảnh hưởng đến giao dịch chứng khoán của các công ty được đề cập trong báo cáo này và có thể cung cấp dịch vụ hoặc tìm kiếm để cung cấp dịch vụ ngân hàng 
+đầu tư cho các công ty đó.  
+Báo cáo này không được sử dụng dưới bất kỳ mục đích thương mại nào, và không được công bố công khai trên báo chí hay bất kỳ phương tiện nào khác nếu không được sự đồng 
+ý của SSI. Người dùng có thể trích dẫn hoặc trình chiếu báo cáo cho các mục đích phi thương mại. SSI có thể có thỏa thuận cho phép sử dụng cho mục đích thương mại hoặc 
+phân phối lại báo cáo với điều kiện người dùng trả phí cho SSI. SSI không chịu trách nhiệm đối với bất kỳ thiệt hại trực tiếp hay thiệt hại do hậu quả phát sinh từ việc sử dụng báo 
+cáo này hay nội dung báo cáo này. Việc sử dụng bất kỳ thông tin, tuyên bố, dự báo, và dự đoán nào trong báo cáo này sẽ do người dùng tự quyết định và tự chịu rủi ro. 
+THÔNG TIN LIÊN HỆ 
+Trung tâm phân tích và tư vấn đầu tư 
+Phạm Lưu Hưng 
+Giám đốc Trung Tâm phân tích và tư vấn đầu tư 
+hungpl@ssi.com.vn 
+SĐT: (+84 – 24) 3936 6321 ext. 8711  
+Chiến lược thị trường 
+Dữ liệu 
+ 
+Đào Minh Châu 
+Nguyễn Thị Anh Thư 
+ 
+Phó giám đốc Trung tâm phân tích và tư vấn đầu tư 
+Chuyên viên hỗ trợ 
+ 
+chaudm@ssi.com.vn 
+thunta2@ssi.com.vn 
+ 
+SĐT: (+84 – 28) 3636 3688 
+SĐT: (+84 – 24) 3936 6321

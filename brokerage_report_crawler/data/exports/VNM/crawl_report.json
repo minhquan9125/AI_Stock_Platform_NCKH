@@ -1,0 +1,25 @@
+{
+  "ticker": "VNM",
+  "target": 100,
+  "discovered": 18,
+  "accepted_unique": 13,
+  "duplicates": 5,
+  "rejected": 0,
+  "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 0,
+  "new_accepted": 13,
+  "total_unique_reports": 13,
+  "pdf_downloaded": 15,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 12,
+    "cafef": 6
+  },
+  "skipped_processed": 0,
+  "output_jsonl": "data\\cleaned\\VNM\\VNM_brokerage_reports.jsonl",
+  "output_csv": "data\\exports\\VNM\\VNM_brokerage_reports.csv"
+}

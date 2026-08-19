@@ -1,0 +1,25 @@
+{
+  "ticker": "SSB",
+  "target": 100,
+  "discovered": 1,
+  "accepted_unique": 1,
+  "duplicates": 0,
+  "rejected": 0,
+  "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 1,
+  "new_accepted": 0,
+  "total_unique_reports": 1,
+  "pdf_downloaded": 0,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 0,
+    "cafef": 1
+  },
+  "skipped_processed": 1,
+  "output_jsonl": "data\\cleaned\\SSB\\SSB_brokerage_reports.jsonl",
+  "output_csv": "data\\exports\\SSB\\SSB_brokerage_reports.csv"
+}

@@ -1,0 +1,25 @@
+{
+  "ticker": "VJC",
+  "target": 100,
+  "discovered": 10,
+  "accepted_unique": 8,
+  "duplicates": 1,
+  "rejected": 1,
+  "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 0,
+  "new_accepted": 8,
+  "total_unique_reports": 8,
+  "pdf_downloaded": 6,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 4,
+    "cafef": 6
+  },
+  "skipped_processed": 0,
+  "output_jsonl": "",
+  "output_csv": ""
+}

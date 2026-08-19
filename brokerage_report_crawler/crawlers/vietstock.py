@@ -65,7 +65,7 @@ class VietstockCrawler(BaseCrawler):
         self,
         ticker: str,
         max_pages: int,
-        limit: int | None,
+        target_reports: int | None,
     ) -> list[ReportCandidate]:
         landing = self.client.get(self.listing_url)
         soup = BeautifulSoup(landing.text, "lxml")
@@ -76,13 +76,15 @@ class VietstockCrawler(BaseCrawler):
             raise RuntimeError("vietstock_missing_antiforgery_token")
         token = token_node["value"]
         found: dict[str, ReportCandidate] = {}
+        empty_pages = 0
         for page in range(1, max_pages + 1):
+            self.pages_scanned = page
             response = self.client.post(
                 f"{self.base_url}/View/ChannelEDocumentPage",
                 data={
                     "keyword": ticker,
                     "page": page,
-                    "pageSize": 9,
+                    "pageSize": 50,
                     "__RequestVerificationToken": token,
                 },
                 headers={
@@ -92,11 +94,20 @@ class VietstockCrawler(BaseCrawler):
             )
             page_items = parse_finance_reports(response.text, ticker, self.base_url)
             if not page_items:
-                break
+                empty_pages += 1
+                if empty_pages >= 2:
+                    self.exhausted = True
+                    break
+                continue
+            before = len(found)
             for item in page_items:
                 found[item.canonical_source_url] = item
-                if limit and len(found) >= limit:
+                if target_reports and len(found) >= target_reports:
                     return list(found.values())
+            empty_pages = empty_pages + 1 if len(found) == before else 0
+            if empty_pages >= 2:
+                self.exhausted = True
+                break
         return list(found.values())
 
     def fetch_detail(self, candidate: ReportCandidate) -> ReportCandidate:

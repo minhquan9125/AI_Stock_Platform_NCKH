@@ -1,0 +1,90 @@
+N G Â N H À N G T M C P P H Á T T R I ỂN
+T H À N H P H Ố H Ồ C H Í M I N H
+HDB - HOSE
+BÁO CÁO PHÂN TÍCH KỸ THUẬT
+TẢI ỨNG DỤNG           MỞ TÀI KHOẢN
+16/07/2026
+
+P H Â N T Í C H K Ỹ T H U ẬT H D B
+Luận điểm kỹthuật:
+▪
+Cổphiếu HDB đã breakout khỏi mô hình tam giác cân hình thành từcuối tháng 01 đến giữa tháng
+07/2026, đi kèm thanh khoản cải thiện so với giai đoạn tích lũy trước đó. Đây là tín hiệu cho thấy lực
+cầu đang dần chiếm ưu thế, đồng thời xác nhận quá trình tích lũy kéo dài gần 06 tháng đã hoàn tất. Xét
+theo lý thuyết, đây là khoảng thời gian tích lũy tương đối lý tưởng, đủđểhấp thụlượng cung và tạo nền
+giá vững chắc trước khi bước vào một xu hướng tăng mới.
+▪
+Bên cạnh tín hiệu từmô hình giá, hệthống đường trung bình động (MA) cũng đang phát đi tín hiệu
+đồng thuận. Các đường MA ngắn và trung hạn dần hội tụsau giai đoạn đi ngang, trong khi giá đã vượt lên
+trên toàn bộhệthống MA. Cấu trúc này phản ánh xu hướng tăng đang được thiết lập trởlại, đồng thời các
+đường MA có khảnăng chuyển thành vùng hỗtrợđộng nếu cổphiếu duy trì trên vùng breakout.
+▪
+Sựđồng thuận giữa mô hình và hệthống đường trung bình động giúp củng cốtriển vọng kỹthuật của
+HDB trong thời gian tới. Theo phương pháp đo mục tiêu của mô hình, giá mục tiêu đạt 33,000 đồng/cổ
+phiếu, tương ứng mức tăng khoảng 21.5% so với giá đóng cửa ngày 16/07/2026 là 27,150 đồng/cổ
+phiếu. Động lực tăng sẽđược củng cốhơn nếu thanh khoản tiếp tục duy trì trên mức trung bình trong các
+phiên xác nhận sau breakout.
+Một số rủi ro có thể xảy ra cần lưu ý:
+Mặc dù vậy, rủi ro vẫn đến từdiễn biến của thịtrường chung khi thanh khoản toàn thịtrường vẫn đang ở
+vùng tương đối thấp và xu hướng chưa thực sựrõ ràng. Trong trường hợp VN-Index xuất hiện các nhịp điều
+chỉnh mạnh hoặc dòng tiền suy yếu, HDB có thểđối mặt với các nhịp rung lắc hoặc kiểm định lại vùng
+breakout trước khi tiếp tục xu hướng tăng.
+T H Ô N G T I N C Ổ P H I ẾU
+Giá đóng cửa ngày 16/07/2026
+27,150 VNĐ
+KLCP lưu hành
+5.00 tỷ
+KLGD BQ (10 phiên)
+11.98 triệu/phiên
+Giá thấp nhất 52 tuần
+18,700 VNĐ
+Giá cao nhất 52 tuần
+29,700 VNĐ
+X U H Ư ỚN G
+TĂNG GIÁ
+Tiềm năng tăng giá   +21.54%
+G I Á K Ỳ V ỌN G
+33,000 VNĐ
+C H Ỉ B Á O K Ỹ T H U ẬT
+Aroon Osc
+50
+CMF
+0.32
+RSI
+59.x
+Stochastic
+72.x
+CCI
+42.x
+N H ẬN X É T   
+Hệthống chỉbáo nghiêng vềtích cực, với dòng tiền cải thiện và động lượng
+tăng được duy trì. Mặc dù Stochastic đã ởvùng tương đối cao, các chỉbáo
+còn lại vẫn cho thấy cổphiếu còn dư địa tiếp diễn xu hướng tăng trong
+ngắn hạn.
+HỖ TRỢ (1)
+27,100
+HỖ TRỢ (2)
+26,000
+KHÁNG CỰ (1)
+27,800
+KHÁNG CỰ (2)
+29,900
+Nguồn: Fiinpro, Fireant, TPS Research
+
+Đò thị cổ phiếu HDB Nguồn: Fireant
+P H Â N T Í C H K Ỹ T H U ẬT H D B
+
+TUYÊN BỐ TRÁCH NHIỆM
+Các thông tin, tuyên bố, dựđoán trong bản báo cáo này, bao gồm cảcác nhận định cá nhân, là dựa trên các nguồn thông tin tin cậy, tuy nhiên TPS không đảm bảo sựchính xác và đầy đủcủa các
+nguồn thông tin này. Các nhận định trong bản báo cáo này được đưa ra dựa trên cơ sởphân tích chi tiết và cẩn thận, theo đánh giá chủquan của chúng tôi, là hợp lý trong thời điểm đưa ra báo cáo.
+Các nhận định trong báo cáo này có thểthay đổi bất kì lúc nào mà không báo trước. Báo cáo này không nên được diễn giải như một đềnghịmua hay bán bất cứmột cổphiếu nào. Báo cáo này
+không phải là báo cáo phục vụcho nghiệp vụtư vấn đầu tư chứng khoán theo quy định pháp luật. TPS và các công ty con; cũng như giám đốc, nhân viên của TPS và các công ty con có thểcó lợi ích
+trong các công ty được đềcập tới trong báo cáo này.
+TPS có thểđã, đang và sẽtiếp tục cung cấp dịch vụcho các công ty được đềcập tới trong báo cáo này. TPS sẽkhông chịu trách nhiệm đối với tất cảhay bất kỳthiệt hại nào hay sựkiện bịcoi là
+thiệt hại đối với việc sửdụng toàn bộhay bất kỳthông tin hoặc ý kiến nào của báo cáo này. TPS nghiêm cấm việc sửdụng, và mọi sựin ấn, sao chép hay xuất bản toàn bộhay từng phần bản Báo
+cáo này vì bất kỳmục đích gì mà không có sựchấp thuận của TPS
+LIÊN HỆ
+TRUNG TÂM PHÂN TÍCH - CÔNG TY CỔ PHẦN CHỨNG KHOÁN TIÊN PHONG (TPS)
+028 7301 3839
+tt.pt@tpbs.com.vn
+https://www.tpbs.com.vn/

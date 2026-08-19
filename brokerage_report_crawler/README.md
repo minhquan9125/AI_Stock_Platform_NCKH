@@ -1,5 +1,53 @@
 # Brokerage Report Crawler
 
+## Chạy nhanh
+
+Người dùng thông thường chỉ cần chạy:
+
+```powershell
+python main.py
+```
+
+Sau đó nhập mã cổ phiếu và số báo cáo mong muốn. Số này là **mục tiêu báo cáo
+hợp lệ, duy nhất**, không phải số URL discovery. Các record đã có trong JSONL
+được tính vào mục tiêu; crawler tự phân trang đến khi đủ mục tiêu hoặc các nguồn
+hết kết quả.
+
+Chế độ nâng cao vẫn hỗ trợ:
+
+```powershell
+python main.py --ticker FPT --target 100 --sources cafef vietstock ssi vndirect
+```
+
+Mặc định CLI và hàm `crawl_reports()` chỉ bật `cafef` và `vietstock`. SSI và
+VNDirect vẫn được giữ để phát triển tiếp nhưng chỉ chạy khi chỉ định rõ bằng
+`--sources`. URL tải lỗi, báo cáo bị loại và bản trùng không làm tăng target;
+target chỉ dựa trên số record duy nhất thực sự nằm trong cleaned JSONL.
+
+`--limit` được giữ làm alias tương thích cho `--target`. `--max-pages` chỉ là
+giới hạn an toàn tùy chọn; mặc định hệ thống tự phân trang, dừng sau hai trang
+liên tiếp không có URL mới hoặc khi đạt giới hạn an toàn 50 trang.
+
+Discovery các nguồn và xử lý PDF chạy song song tối đa 3 worker. HTTP client chỉ
+chờ một khoảng nhỏ giữa hai request tới cùng domain; backoff dài chỉ áp dụng cho
+HTTP 429/5xx. Kết quả trả thêm `existing_reports`, `new_accepted`,
+`total_unique_reports`, `duplicates`, `rejected`, `failed` và
+`exhausted_sources`.
+
+Frontend có thể gọi trực tiếp:
+
+```python
+from services import crawl_reports
+
+result = crawl_reports("FPT", target_reports=100)
+```
+
+Chạy toàn bộ 30 mã VN30 (target áp dụng riêng cho từng mã):
+
+```powershell
+python main.py --group VN30 --target 20
+```
+
 ## Nguồn dữ liệu giai đoạn đầu
 
 Project có crawler riêng cho CafeF, Vietstock Finance, SSI Research và VNDirect

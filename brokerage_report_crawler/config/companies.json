@@ -1,23 +1,152 @@
 {
+  "ACB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Á Châu",
+    "positive_aliases": ["Ngân hàng Á Châu", "ACB Bank", "Asia Commercial Bank", "HOSE: ACB", "cổ phiếu ACB", "mã ACB"],
+    "excluded_entities": {}
+  },
+  "BID": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+    "positive_aliases": ["BIDV", "Ngân hàng BIDV", "HOSE: BID", "cổ phiếu BID", "mã BID"],
+    "excluded_entities": {}
+  },
+  "BSR": {
+    "company_name": "Công ty Cổ phần Lọc hóa Dầu Bình Sơn",
+    "positive_aliases": ["Lọc hóa Dầu Bình Sơn", "Bình Sơn Refining", "BSR", "HOSE: BSR", "cổ phiếu BSR", "mã BSR"],
+    "excluded_entities": {}
+  },
+  "CTG": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Công Thương Việt Nam",
+    "positive_aliases": ["VietinBank", "Ngân hàng Công Thương Việt Nam", "HOSE: CTG", "cổ phiếu CTG", "mã CTG"],
+    "excluded_entities": {}
+  },
   "FPT": {
     "company_name": "Công ty Cổ phần FPT",
     "positive_aliases": ["Tập đoàn FPT", "FPT Corporation", "Công ty Cổ phần FPT", "HOSE: FPT", "cổ phiếu FPT", "mã FPT"],
-    "excluded_entities": {
-      "FPT Retail": "FRT",
-      "FPT Telecom": "FOX",
-      "FPT Securities": "FTS",
-      "Chứng khoán FPT": "FTS",
-      "FPT Online": "FOC"
-    }
+    "excluded_entities": {"FPT Retail": "FRT", "FPT Telecom": "FOX", "FPT Securities": "FTS", "Chứng khoán FPT": "FTS", "FPT Online": "FOC"}
+  },
+  "GAS": {
+    "company_name": "Tổng Công ty Khí Việt Nam - Công ty Cổ phần",
+    "positive_aliases": ["PV GAS", "Tổng Công ty Khí Việt Nam", "PetroVietnam Gas", "HOSE: GAS", "cổ phiếu GAS", "mã GAS"],
+    "excluded_entities": {}
+  },
+  "GVR": {
+    "company_name": "Tập đoàn Công nghiệp Cao su Việt Nam - Công ty Cổ phần",
+    "positive_aliases": ["Tập đoàn Cao su Việt Nam", "Vietnam Rubber Group", "VRG", "HOSE: GVR", "cổ phiếu GVR", "mã GVR"],
+    "excluded_entities": {}
+  },
+  "HDB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Phát triển Thành phố Hồ Chí Minh",
+    "positive_aliases": ["HDBank", "Ngân hàng HDBank", "HOSE: HDB", "cổ phiếu HDB", "mã HDB"],
+    "excluded_entities": {}
   },
   "HPG": {
     "company_name": "Công ty Cổ phần Tập đoàn Hòa Phát",
-    "positive_aliases": ["Tập đoàn Hòa Phát", "Hòa Phát", "HOSE: HPG", "cổ phiếu HPG", "mã HPG"],
+    "positive_aliases": ["Tập đoàn Hòa Phát", "Hòa Phát Group", "Hòa Phát", "HOSE: HPG", "cổ phiếu HPG", "mã HPG"],
+    "excluded_entities": {}
+  },
+  "LPB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Lộc Phát Việt Nam",
+    "positive_aliases": ["LPBank", "LienVietPostBank", "Ngân hàng Lộc Phát Việt Nam", "HOSE: LPB", "cổ phiếu LPB", "mã LPB"],
+    "excluded_entities": {}
+  },
+  "MBB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Quân đội",
+    "positive_aliases": ["MB Bank", "MBBank", "Ngân hàng Quân đội", "HOSE: MBB", "cổ phiếu MBB", "mã MBB"],
+    "excluded_entities": {"MBS": "MBS"}
+  },
+  "MCH": {
+    "company_name": "Công ty Cổ phần Hàng tiêu dùng Masan",
+    "positive_aliases": ["Masan Consumer", "Hàng tiêu dùng Masan", "Masan Consumer Holdings", "HOSE: MCH", "cổ phiếu MCH", "mã MCH"],
+    "excluded_entities": {"Masan Group": "MSN", "Tập đoàn Masan": "MSN"}
+  },
+  "MSN": {
+    "company_name": "Công ty Cổ phần Tập đoàn Masan",
+    "positive_aliases": ["Tập đoàn Masan", "Masan Group", "Masan", "HOSE: MSN", "cổ phiếu MSN", "mã MSN"],
+    "excluded_entities": {"Masan Consumer": "MCH", "Hàng tiêu dùng Masan": "MCH"}
+  },
+  "MWG": {
+    "company_name": "Công ty Cổ phần Đầu tư Thế Giới Di Động",
+    "positive_aliases": ["Thế Giới Di Động", "Mobile World", "Mobile World Investment", "HOSE: MWG", "cổ phiếu MWG", "mã MWG"],
+    "excluded_entities": {}
+  },
+  "SAB": {
+    "company_name": "Tổng Công ty Cổ phần Bia - Rượu - Nước giải khát Sài Gòn",
+    "positive_aliases": ["Sabeco", "Bia Sài Gòn", "Saigon Beer", "HOSE: SAB", "cổ phiếu SAB", "mã SAB"],
+    "excluded_entities": {}
+  },
+  "SHB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Sài Gòn - Hà Nội",
+    "positive_aliases": ["SHB Bank", "Ngân hàng Sài Gòn Hà Nội", "Saigon Hanoi Bank", "HOSE: SHB", "cổ phiếu SHB", "mã SHB"],
+    "excluded_entities": {}
+  },
+  "SSB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Đông Nam Á",
+    "positive_aliases": ["SeABank", "Ngân hàng Đông Nam Á", "HOSE: SSB", "cổ phiếu SSB", "mã SSB"],
+    "excluded_entities": {}
+  },
+  "SSI": {
+    "company_name": "Công ty Cổ phần Chứng khoán SSI",
+    "positive_aliases": ["Chứng khoán SSI", "SSI Securities", "Công ty Chứng khoán SSI", "HOSE: SSI", "cổ phiếu SSI", "mã SSI"],
+    "excluded_entities": {"SSIAM": "SSIAM", "Quản lý quỹ SSI": "SSIAM"}
+  },
+  "STB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín",
+    "positive_aliases": ["Sacombank", "Ngân hàng Sài Gòn Thương Tín", "HOSE: STB", "cổ phiếu STB", "mã STB"],
+    "excluded_entities": {}
+  },
+  "TCB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Kỹ Thương Việt Nam",
+    "positive_aliases": ["Techcombank", "Ngân hàng Kỹ Thương Việt Nam", "HOSE: TCB", "cổ phiếu TCB", "mã TCB"],
+    "excluded_entities": {"TCBS": "TCX", "Chứng khoán Kỹ Thương": "TCX"}
+  },
+  "TCX": {
+    "company_name": "Công ty Cổ phần Chứng khoán Kỹ Thương",
+    "positive_aliases": ["TCBS", "Chứng khoán Kỹ Thương", "Techcom Securities", "HOSE: TCX", "cổ phiếu TCX", "mã TCX"],
+    "excluded_entities": {"Techcombank": "TCB", "Ngân hàng Kỹ Thương Việt Nam": "TCB"}
+  },
+  "VCB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+    "positive_aliases": ["Vietcombank", "Ngân hàng Ngoại thương Việt Nam", "HOSE: VCB", "cổ phiếu VCB", "mã VCB"],
+    "excluded_entities": {"VCBS": "VCBS", "Chứng khoán Vietcombank": "VCBS"}
+  },
+  "VHM": {
+    "company_name": "Công ty Cổ phần Vinhomes",
+    "positive_aliases": ["Vinhomes", "Công ty Cổ phần Vinhomes", "HOSE: VHM", "cổ phiếu VHM", "mã VHM"],
+    "excluded_entities": {"Vingroup": "VIC", "Vincom Retail": "VRE", "Vinpearl": "VPL"}
+  },
+  "VIB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Quốc tế Việt Nam",
+    "positive_aliases": ["VIB Bank", "Ngân hàng Quốc tế VIB", "Vietnam International Bank", "HOSE: VIB", "cổ phiếu VIB", "mã VIB"],
+    "excluded_entities": {}
+  },
+  "VIC": {
+    "company_name": "Tập đoàn Vingroup - Công ty Cổ phần",
+    "positive_aliases": ["Tập đoàn Vingroup", "Vingroup", "Vingroup JSC", "HOSE: VIC", "cổ phiếu VIC", "mã VIC"],
+    "excluded_entities": {"Vinhomes": "VHM", "Vincom Retail": "VRE", "Vinpearl": "VPL"}
+  },
+  "VJC": {
+    "company_name": "Công ty Cổ phần Hàng không VietJet",
+    "positive_aliases": ["Vietjet Air", "VietJet Aviation", "Hàng không VietJet", "HOSE: VJC", "cổ phiếu VJC", "mã VJC"],
     "excluded_entities": {}
   },
   "VNM": {
     "company_name": "Công ty Cổ phần Sữa Việt Nam",
-    "positive_aliases": ["Vinamilk", "Công ty Cổ phần Sữa Việt Nam", "HOSE: VNM", "cổ phiếu VNM", "mã VNM"],
+    "positive_aliases": ["Vinamilk", "Công ty Cổ phần Sữa Việt Nam", "Vietnam Dairy Products", "HOSE: VNM", "cổ phiếu VNM", "mã VNM"],
     "excluded_entities": {}
+  },
+  "VPB": {
+    "company_name": "Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng",
+    "positive_aliases": ["VPBank", "Ngân hàng Việt Nam Thịnh Vượng", "HOSE: VPB", "cổ phiếu VPB", "mã VPB"],
+    "excluded_entities": {"VPBankS": "VPX", "Chứng khoán VPBank": "VPX"}
+  },
+  "VPL": {
+    "company_name": "Công ty Cổ phần Vinpearl",
+    "positive_aliases": ["Vinpearl", "Công ty Cổ phần Vinpearl", "HOSE: VPL", "cổ phiếu VPL", "mã VPL"],
+    "excluded_entities": {"Vingroup": "VIC", "Vinhomes": "VHM", "Vincom Retail": "VRE"}
+  },
+  "VRE": {
+    "company_name": "Công ty Cổ phần Vincom Retail",
+    "positive_aliases": ["Vincom Retail", "Vincom Retail JSC", "HOSE: VRE", "cổ phiếu VRE", "mã VRE"],
+    "excluded_entities": {"Vingroup": "VIC", "Vinhomes": "VHM", "Vinpearl": "VPL"}
   }
 }

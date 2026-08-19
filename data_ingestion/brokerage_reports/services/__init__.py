@@ -1,1 +1,0 @@
-"""Điều phối và merger."""

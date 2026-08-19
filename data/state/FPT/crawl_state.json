@@ -1,0 +1,12 @@
+{
+  "ticker": "FPT",
+  "urls_discovered": 174,
+  "urls_skipped_as_processed": 15,
+  "articles_downloaded": 159,
+  "accepted": 116,
+  "rejected": 36,
+  "duplicates": 7,
+  "failed": 0,
+  "output_jsonl": "data\\cleaned\\FPT\\FPT_articles.jsonl",
+  "output_csv": "data\\exports\\FPT\\FPT_articles.csv"
+}

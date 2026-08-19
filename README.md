@@ -1,73 +1,62 @@
-# AI_Stock_Platform_NCKH — Merged Data Ingestion Pipeline
+# Stock Article Crawler cho Hybrid Graph–Vector RAG
 
+Hệ thống thu thập bài phân tích chứng khoán theo một hoặc nhiều mã, hiện hoàn thiện nguồn CafeF. Pipeline tách biệt tìm kiếm, raw HTML, parser, làm sạch, relevance, chống trùng, state và lưu trữ để dễ bổ sung nguồn.
 
+## Cài đặt trên Windows
 
-## Ánh xạ Nhiệm vụ → Code
+Yêu cầu Python 3.10+:
 
-| # | Nhiệm vụ | Thư mục | Nguồn gốc | Trạng thái |
-|---|----------|---------|-----------|------------|
-| 1 | Báo cáo Thường niên (2000–2025) | *(không có trong pipeline này)* | — | Nhóm xác nhận đã có sẵn dữ liệu, không cần crawler |
-| 2 | Báo cáo Phân tích từ CTCK (SSI, VCI, VNDirect, Vietstock...) | `data_ingestion/brokerage_reports/` | Nhan | Đầy đủ — pipeline ETL hoàn chỉnh (crawl → tách PDF → validate → dedup → lưu) |
-| 3 | Tin tức & Công bố thông tin hàng ngày | `data_ingestion/news_scraper/` | HuynhVu | Đầy đủ — CafeF, VnEconomy, BCTC announcements |
-| 4 | BCTC Quý & Chỉ số định giá (P/E, P/B, ROE, ROA, EPS...) | `data_ingestion/structured_data/vnstock_data_fetcher.py` | HuynhVu/Huyen, **đã sửa lỗi** | Đã sửa: lấy đủ 3 báo cáo VAS (KQKD, CĐKT, LCTT) + ratio đúng chỉ số mới nhất |
-| 5 | Giá thị trường OHLCV & Dấu vết dòng tiền | `data_ingestion/structured_data/market_data_fetcher.py` | Quan, **mở rộng** | OHLCV đầy đủ. Khối ngoại: chỉ có snapshot tức thời (xem Giới hạn bên dưới). Tự doanh/block trade: **chưa có nguồn** |
-| 6 | Kinh tế Vĩ mô & Giá Hàng hóa | `data_ingestion/macro_commodity/` | Huyen (v2 + v3) | Đầy đủ — World Bank API + Yahoo Finance, ~40+ chỉ số/ticker |
-| 7 | QA Chuẩn chuyên gia & Chuẩn mực Kế toán VAS | `data_ingestion/qa_ground_truth/` | HuynhVu | Đầy đủ — StackExchange Quant Q&A + 26 Chuẩn mực Kế toán VN |
-
-## Hướng dẫn cho thành viên nhóm (clone về chạy)
-
-**1. Cài đặt (1 lần):**
 ```powershell
-git clone <link-repo>
-cd AI_Stock_Platform_NCKH-Merged   # hoặc tên thư mục sau khi clone
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -U pip
 pip install -r requirements.txt
 ```
-Yêu cầu: Python 3.10+. Riêng crawler CafeF (Task 2) dùng Selenium để lấy link PDF, cần máy đã cài sẵn **trình duyệt Chrome** (Selenium 4.25+ tự tải driver phù hợp, không cần cài ChromeDriver tay).
 
-**2. Lấy file `gsheet_credentials.json`:**
-File này **không nằm trong git** (bị `.gitignore` chặn cố ý, vì nó là private key thật — từng bị GitHub chặn push do lộ secret). Người giữ file (bạn) cần gửi trực tiếp cho thành viên qua kênh riêng tư **KHÔNG PHẢI git**: nhắn tin/Zalo/Drive riêng... Thành viên nhận file xong đặt đúng vào **gốc thư mục dự án** (cùng cấp với `run_full_pipeline.ps1`), không cần đổi tên.
+Chạy:
 
-Google Sheet đích đã share sẵn quyền Editor cho service account `finmind-sheets-bot@gentle-brace-429408-n8.iam.gserviceaccount.com` — thành viên nào có file credentials này đều ghi được vào cùng 1 Sheet của cả nhóm, không cần tạo Sheet riêng.
-
-**3. Chạy toàn bộ pipeline (thu thập + tự động đẩy lên Google Sheet):**
 ```powershell
-./run_full_pipeline.ps1
-```
-Script tự kiểm tra: nếu **có** `gsheet_credentials.json` ở gốc thư mục → chạy xong sẽ tự động gọi `upload_all_data.py` gom hết CSV vừa tạo và đẩy lên Sheet chung. Nếu **chưa có** file đó → vẫn chạy đủ Task 2-7 và lưu dữ liệu local bình thường, chỉ bỏ qua bước upload (có log cảnh báo rõ ràng, không lỗi dừng chương trình).
-
-Log chi tiết từng bước lưu tại `logs/full_pipeline_<timestamp>.log`.
-
-**Chạy từng phần riêng lẻ / chỉ muốn upload lại lên Sheet:**
-```powershell
-cd data_ingestion/<tên_thư_mục_task>
-py <tên_script>.py
-
-# Upload thủ công (gom toàn bộ CSV hiện có, không cần chạy lại crawler):
-cd ../..
-py upload_all_data.py
+python main.py --ticker FPT --limit 100
+python main.py --tickers FPT HPG VNM --max-pages 20
+python main.py --ticker FPT --from-date 2025-01-01 --to-date 2026-07-29
+python main.py --ticker FPT --retry-failed
+python main.py --ticker FPT --reset-state
+python main.py --ticker FPT --save-raw-html --verbose
+pytest -v
 ```
 
-## Lỗi đã sửa khi merge (Task 4)
+`--ticker` và `--tickers` loại trừ nhau. Ticker được uppercase và validate; workers giới hạn 1–3, nhưng CafeF hiện cố ý chạy tuần tự để tôn trọng rate limit. Reset state tạo file backup có timestamp, không xóa dataset.
 
-`vnstock_data_fetcher.py` bản gốc có 2 lỗi khiến `fundamental_ratios` chỉ trả về 1 dòng vô nghĩa ("Năm": 2018):
+## Kiến trúc và luồng
 
-1. Gọi `stock.finance.ratio(period="quarter", lang="vi")` trên cổng KBS — KBS **không nhận** tham số `lang`, gây lỗi và tự động fallback sang VCI.
-2. Trên VCI, `ratio()` trả về bảng dạng "wide" (mỗi dòng = 1 chỉ số, mỗi cột = 1 quý), nhưng dữ liệu chỉ có tới 2018 và code cũ lấy `iloc[0]` — tức lấy **dòng đầu tiên** (nhãn "Năm") thay vì cột quý mới nhất.
+```text
+Search queries → URL canonicalization → Raw HTML → RawArticle
+→ cleaned content → date/relevance/classification → URL/hash/fuzzy dedup
+→ accepted/rejected/failed JSONL → CSV + crawl_report.json
+```
 
-Bản sửa: gọi đúng cổng KBS (bỏ `lang=`) cho `ratio()`/`income_statement()`/`cash_flow()` (dữ liệu hiện tại đến 2026-Q2), tự động fallback VCI cho `balance_sheet()` (KBS không hỗ trợ), và trích đúng **cột quý mới nhất** thay vì dòng đầu bảng.
+- `crawlers/`: interface nguồn, HTTP retry/backoff, CafeF.
+- `processing/`: main-content cleaner, ngày giờ +07:00, relevance, rule classifier, dedup.
+- `storage/`: JSONL append-only, CSV và resume state.
+- `services/`: resolve doanh nghiệp và điều phối.
+- `models/`: Pydantic models có type validation.
+- `config/companies.json`: tên và aliases. Mã chưa có dùng ticker mặc định và ghi warning.
 
-## Giới hạn đã xác minh thực tế (Task 5)
+Dataset chính: `data/cleaned/FPT/FPT_articles.jsonl`; bài không đạt/duplicate: `data/rejected/FPT/FPT_rejected.jsonl`; lỗi: `data/failed/FPT/`; state: `data/state/FPT/`; CSV/report: `data/exports/FPT/`. Mỗi dòng JSONL là một `ArticleRecord`, gồm URL gốc/canonical, timestamp đầy đủ, nội dung/hash, loại tài liệu/sự kiện và bằng chứng relevance.
 
-Đã gọi thử trực tiếp `stock.trading.foreign_trade()`, `.prop_trade()`, `.trading_stats()` trên cả nguồn VCI và KBS của `vnstock` 4.0.5 (bản cài trên máy) — **tất cả đều raise `NotImplementedError`**. Đây có vẻ là các hàm "đặt chỗ" trong API, chưa triển khai ở bản miễn phí (có thể mở khi đăng ký gói trả phí "Vnstock Insiders").
+Relevance mặc định nhận bài từ 5 điểm và tối thiểu 150 từ. Ticker dùng regex boundary; tiêu đề/sapo có trọng số cao, số liệu và thuật ngữ tài chính cộng điểm, bài ngắn/nhắc yếu/liệt kê nhiều mã bị trừ. Điều chỉnh bằng `--min-relevance-score` và `--min-word-count`.
 
-Dữ liệu khối ngoại duy nhất lấy được miễn phí là **snapshot tức thời** qua `price_board()` (giá khớp, khối lượng/giá trị mua-bán ròng khối ngoại *tại thời điểm gọi API*). `market_data_fetcher.py` ghi snapshot này vào `FinMind_ForeignFlow_Snapshot.csv` mỗi lần chạy — nếu đưa vào pipeline lịch hàng ngày, theo thời gian sẽ tự dựng thành chuỗi gần-lịch sử (daily snapshot), nhưng **không phải** dữ liệu giao dịch đầy đủ như mô tả gốc.
+Để thêm mã, thêm object vào `config/companies.json` với `company_name`,
+`short_name`, `aliases`, `positive_aliases` và `excluded_entities`.
+`positive_aliases` là bằng chứng xác định đúng pháp nhân (ví dụ `HoSE: FPT`);
+`excluded_entities` ánh xạ công ty có tên dễ nhầm sang ticker riêng (ví dụ
+`FPT Retail → FRT`). Để thêm nguồn, kế thừa `BaseArticleCrawler`, triển khai
+`search_articles` và `parse_article`, rồi đăng ký crawler trong CLI/service.
 
-**Tự doanh (proprietary trading) và giao dịch thỏa thuận lớn (block trade) hiện chưa có nguồn nào trong pipeline này** — cần viết crawler HTML riêng (vd trang thống kê giao dịch của HOSE/CafeF/Vietstock) nếu bắt buộc phải có, hoặc chấp nhận thiếu phần này.
+## Tương thích mã cũ
 
-## Upload lên Google Sheets
+Các file cũ được giữ nguyên: `CafeFScraper.py` được thay thế cho use case bài viết bởi `main.py` + `crawlers/cafef.py`; `cafef_bctc_scraper.py` vẫn dùng cho tệp BCTC; `vnstock_data_fetcher.py` và `finmind_file_organizer.py` vẫn độc lập. Dữ liệu `FinMind_Data_Lake/` không bị sửa hoặc ghi đè.
 
-`upload_all_data.py` (đặt tại gốc thư mục) là script upload **thống nhất** — quét toàn bộ `data_ingestion/**/*.csv` (bỏ qua các thư mục dữ liệu trung gian như `state/`, `raw/`, `duplicates/`, `failed/`) và đẩy lên cùng 1 Google Sheet, mỗi file CSV → 1 tab riêng đặt tên theo đường dẫn + ngày chạy. Tab cũ hơn `RETENTION_DAYS` (mặc định 7 ngày) tự động bị xoá ở lần chạy tiếp theo.
+## Giới hạn và pháp lý
 
-
-
-
+Selector CafeF có thể đổi và cần fixture mới. Crawler không vượt CAPTCHA, không xoay proxy, không né chặn; hãy tuân thủ robots.txt, điều khoản, bản quyền và chỉ lưu/khai thác dữ liệu trong phạm vi được phép. Vietstock, HOSE/HNX/SSC và các nguồn khác chưa triển khai. Nội dung nguồn không được AI viết lại và kết quả không phải khuyến nghị đầu tư.

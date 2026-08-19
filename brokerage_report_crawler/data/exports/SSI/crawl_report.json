@@ -1,0 +1,25 @@
+{
+  "ticker": "SSI",
+  "target": 100,
+  "discovered": 9,
+  "accepted_unique": 8,
+  "duplicates": 0,
+  "rejected": 0,
+  "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 8,
+  "new_accepted": 0,
+  "total_unique_reports": 8,
+  "pdf_downloaded": 0,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 3,
+    "cafef": 6
+  },
+  "skipped_processed": 9,
+  "output_jsonl": "data\\cleaned\\SSI\\SSI_brokerage_reports.jsonl",
+  "output_csv": "data\\exports\\SSI\\SSI_brokerage_reports.csv"
+}

@@ -1,0 +1,25 @@
+{
+  "ticker": "MBB",
+  "target": 100,
+  "discovered": 22,
+  "accepted_unique": 17,
+  "duplicates": 0,
+  "rejected": 0,
+  "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 17,
+  "new_accepted": 0,
+  "total_unique_reports": 17,
+  "pdf_downloaded": 0,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 16,
+    "cafef": 6
+  },
+  "skipped_processed": 22,
+  "output_jsonl": "",
+  "output_csv": ""
+}

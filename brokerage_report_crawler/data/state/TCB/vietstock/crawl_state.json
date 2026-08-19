@@ -1,0 +1,25 @@
+{
+  "ticker": "TCB",
+  "target": 100,
+  "discovered": 27,
+  "accepted_unique": 21,
+  "duplicates": 1,
+  "rejected": 2,
+  "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 0,
+  "new_accepted": 21,
+  "total_unique_reports": 21,
+  "pdf_downloaded": 21,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 21,
+    "cafef": 6
+  },
+  "skipped_processed": 3,
+  "output_jsonl": "",
+  "output_csv": ""
+}

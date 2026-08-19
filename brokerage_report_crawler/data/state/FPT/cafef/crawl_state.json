@@ -1,14 +1,25 @@
 {
   "ticker": "FPT",
-  "sources": [
-    "cafef",
-    "vietstock"
-  ],
-  "reports_discovered": 6,
-  "pdf_downloaded": 0,
-  "accepted": 0,
+  "target": 1000,
+  "discovered": 19,
+  "accepted_unique": 16,
   "duplicates": 0,
   "rejected": 0,
   "failed": 0,
-  "needs_ocr": 0
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 16,
+  "new_accepted": 0,
+  "total_unique_reports": 16,
+  "pdf_downloaded": 0,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 14,
+    "cafef": 5
+  },
+  "skipped_processed": 19,
+  "output_jsonl": "",
+  "output_csv": ""
 }

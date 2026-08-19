@@ -1,0 +1,12 @@
+{
+  "ticker": "CTR",
+  "urls_discovered": 9,
+  "urls_skipped_as_processed": 0,
+  "articles_downloaded": 9,
+  "accepted": 9,
+  "rejected": 0,
+  "duplicates": 0,
+  "failed": 0,
+  "output_jsonl": "data\\cleaned\\CTR\\CTR_articles.jsonl",
+  "output_csv": "data\\exports\\CTR\\CTR_articles.csv"
+}

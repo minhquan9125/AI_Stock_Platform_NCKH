@@ -1,0 +1,1882 @@
+CTG | Cập nhật KQKD 
+ 
+Tháng Sáu, 2026 
+ Vui lòng xem những công bố thông tin quan trọng ở phần cuối báo cáo này 
+ 
+BLOOMBERG VDSC <GO> 1 
+Đà tăng trưởng quay lại quỹ đạo, song NIM còn nhiều ẩn số 
+NHTMCP Á CHÂU (HSX: ACB) 
+ 
+Chỉ tiêu (tỉ đồng) 
+Q1-FY26 
+Q4-FY25 
++/-(qoq) 
+Q1-FY25 
++/-(yoy) 
+Tổng thu nhập hoạt động 
+8.905 
+8.206 
+8,5% 
+7.915 
+12,5% 
+LN trước chi phí DPRR 
+6.054 
+5.424 
+11,6% 
+5.223 
+15,9% 
+LNTT 
+5.368 
+3.467 
+54,8% 
+4.597 
+16,8% 
+LNST-CĐCTM 
+4.320 
+2.785 
+55,1% 
+3.678 
+17,5% 
+Nguồn: ACB, CTCK Rồng Việt 
+KQKD Q1-FY26: NIM tiếp tục chịu áp lực, lợi nhuận vẫn bám sát dự phóng 
+• 
+LNTT đạt 5.400 tỷ đồng (+17% YoY, +55% QoQ), hoàn thành 24% kế hoạch năm, phù hợp với 
+kỳ vọng (~98% dự phóng). 
+• 
+Tăng trưởng tín dụng đạt 3,2% YTD lên 711 nghìn tỷ đồng, dẫn dắt bởi phân khúc khách hàng 
+doanh nghiệp lớn (+14,8% YTD); huy động tăng chậm hơn (+0,9% YTD) khi dòng tiền dịch 
+chuyển sang kênh lợi suất cao hơn, song thanh khoản vẫn đảm bảo (LDR 81%).  
+• 
+NIM thu hẹp xuống ~2,83% (-15bps QoQ) do áp lực chi phí vốn tăng nhanh trong bối cảnh lãi 
+suất huy động và GTCG đi lên; tuy nhiên thu nhập ngoài lãi phục hồi mạnh +23% YoY nhờ phí 
+dịch vụ và mảng bancassurance (+33% YoY).  
+• 
+Chất lượng tài sản tiếp tục duy trì tốt với tỷ lệ nợ xấu (NPL) ở mức 0,97%, tỷ lệ bao phủ nợ xấu 
+(LLR) 114% và chi phí tín dụng thấp ~0,10% - thuộc nhóm dẫn đầu ngành về kiểm soát rủi ro. 
+Triển vọng Q2-FY26 và cập nhật dự phóng 2026F 
+• 
+Cho 2Q26, chúng tôi dự phóng tăng trưởng tín dụng đạt 6% YTD (+16% YoY) và NIM nhích nhẹ 
+gần 10bps QoQ lên 2,90% (nhưng vẫn thấp hơn gần 10bps YoY). Thu nhập ngoài lãi (kinh 
+doanh ngoại hối, mua/bán CKĐT, thu nhập khác) chịu áp lực từ nền so sánh cao tại 2Q25 – giai 
+đoạn có khoản thu đột biến từ VCBNeo – khiến tăng trưởng TOI chậm lại còn khoảng +3% YoY. 
+Dù vậy, nhờ tiết giảm chi phí hoạt động và kiểm soát tốt chi phí tín dụng, LNTT 2Q26 vẫn được 
+dự phóng tăng khoảng 5% YoY, đưa LNTT lũy kế 1H26 lên mức tăng trưởng 10% YoY. 
+• 
+Cho năm 2026, chúng tôi duy trì dự phóng tăng trưởng tín dụng ở mức 15,2% và NIM cải thiện 
+20 bps YoY lên 3,1%, giúp TN lãi thuần tăng trưởng 24% YoY lên 33.300 tỷ VND và tổng TNHĐ 
+dự phóng tăng 22% YoY. Chúng tôi duy trì tỷ lệ CIR dự phóng tăng mạnh lên gần 35% do triển 
+khai đồng loạt nhiều sáng kiến chuyển đổi số trong năm 2026), và chi phí tín dụng giảm 10 bps 
+xuống 0,4% sau khi trích lập dự phòng bất thường trong 4Q25. LNTT dự phóng lấy lại đà tăng 
+trưởng cao ở mức 24% YoY, sau hai năm tích lũy nền tảng 2024-25. 
+Quan điểm và khuyến nghị 
+Chúng tôi duy trì khuyến nghị MUA đối với ACB tại mức giá mục tiêu ở mức 27.600 đồng/cổ phiếu, với 
+trong khi quan điểm định giá nội tại (P/B mục tiêu 1,30 lần với ROAE trung bình dự phóng cho 2026F là 
+19% (+130bps YoY) và giai đoạn 2026F-31F ở mức 20,6%) được giữ nguyên so với báo cáo trước.  
+Diễn biến định giá của ACB ghi nhận sự phục hồi đáng chú ý trong thời gian gần đây: sau khi P/B trượt 
+chiết khấu sâu xuống dưới 1 độ lệch chuẩn so với trung bình 5 năm (~1,1 lần) do lực bán mạnh từ khối 
+ngoại, định giá đã bật tăng trở lại và tiệm cận mức trung bình 5 năm (khoảng 1,4 lần), phản ánh sự lực 
+cầu tích cực của thị trường khi định giá của ACB lùi về vùng hấp dẫn.  
+ACB tiếp tục là lựa chọn đầu tư an toàn trong bối cảnh vĩ mô còn nhiều biến động, nhờ (1) chất lượng tài 
+sản thuộc nhóm tốt nhất ngành với tỷ lệ nợ xấu dưới 1% và tỷ lệ bao phủ nợ xấu duy trì trên 110%; (2) tỷ 
+lệ an toàn vốn (CAR) theo Thông tư 14 dày, đạt 12,6% - cao hơn đáng kể so với quy định; và (3) đà phục 
+hồi lợi nhuận vững chắc từ 2026. Các yếu tố cần theo dõi trong các quý tới bao gồm: (1) Xu hướng nợ 
+nhóm 2 và nợ xấu hình thành ròng, vốn đã bật tăng trong 1Q26; (2) Khả năng mở rộng NIM theo kế 
+hoạch trong bối cảnh chi phí vốn gia tăng; (3) Tốc độ phục hồi của tăng trưởng huy động tiền gửi.
+MUA                           +25% 
+Giá thị trường (VND) 
+22.600 
+Giá mục tiêu (VND) 
+27.600 
+ 
+Thông tin cổ phiếu  
+ 
+Ngành 
+Ngân hàng 
+Vốn hóa (tỷ đồng) 
+ 128.858,2  
+SLCPDLH (triệu CP) 
+ 5.804,4  
+KLGD bình quân 20 
+phiên (nghìn CP) 
+34.695,4 
+Free Float (%) 
+68,4 
+Giá cao nhất 52 tuần 
+ 25.374  
+Giá thấp nhất 52 tuần 
+ 18.265  
+Beta 
+ 0,81  
+ 
+FY2025 
+FY2026
+F  
+EPS (VNĐ) 
+3.022 
+3.750 
+Tăng trưởng EPS (%) 
+-2,6 
+24,1 
+GTSS/cp (VNĐ) 
+18.401 
+21.451 
+P/E (lần) 
+9,0 
+6,7 
+P/B (lần) 
+1,5 
+1,2 
+Tỷ suất cổ tức (%) 
+4,2 
+3,0 
+ROE (%) 
+17,6 
+18,9 
+Diễn biến giá 
+ 
+Cổ đông lớn (%) 
+Trần Hùng Huy 
+3,4 
+T Rowe Price 
+2,7 
+Nguyen Thien Huong Jenny 
+2,3 
+Giới hạn sở hữu NĐTNN còn lại (%) 
+5,5 
+Phòng Phân tích Ngành Ngân hàng 
+phantich@vdsc.com.vn
+0
+20.000
+40.000
+60.000
+80.000
+15
+17
+19
+21
+23
+25
+27
+06/25
+09/25
+12/25
+03/26
+KLGD (1000 cp, phải)
+Giá ('000 VND, LHS)
+
+ACB | Cập nhật KQKD 
+Vui lòng xem những công bố thông tin quan trọng ở phần cuối báo cáo này 
+                                                           BLOOMBERG VDSC <GO> 
+2 
+ 
+ 
+Cập nhật KQKD Q1-2026: NIM tiếp tục chịu áp lực, lợi nhuận vẫn bám sát dự phóng 
+Bảng 1: Tổng hợp KQKD 1Q26 của ACB 
+Đơn vị: Tỷ VNĐ 
+1Q26 
+QoQ 
+YoY 
+Hoàn thành  
+2026F (%) 
+Chú thích 
+TN lãi thuần 
+6.989 
+-1% 
+10% 
+21% 
+• 
+Tăng trưởng tín dụng hợp nhất đạt 3,2% YTD hay +18,7% YoY. 
+• 
+NIM (Q) giảm gần 20bps YoY xuống gần 2,8% kéo giảm tốc độ tăng 
+trưởng của TN lãi thuần. 
+TN phí dịch vụ 
+993 
+11% 
+14% 
+26% 
+• 
+Đóng góp chủ yếu đến từ thanh toán quốc tế (+22% YoY), bảo lãnh. 
+• 
+Hoạt động bancassurance (chiếm gần 30% NFI) tăng 7% YoY sau 3 năm 
+giảm liên tiếp cho thấy tín hiệu phục hồi. 
+TN từ kinh doanh ngoại hối 
+483 
+252% 
+2% 
+25% 
+ 
+TN từ mua/bán CK 
+185 
+N.a 
+729% 
+21% 
+• 
+Hầu hết lợi nhuận đến từ hoạt động đầu tư của công ty con ACBS. 
+TN khác 
+255 
+208% 
+37% 
+17% 
+ 
+Tổng TN hoạt động 
+8.905 
+9% 
+13% 
+22% 
+• 
+Hoàn thành 95% dự phóng. 
+CP hoạt động 
+-2.851 
+2% 
+6% 
+20% 
+• 
+Các khoản mục chi đầu tư lớn trong ngân sách dự án chuyển đổi số năm 
+nay (1.000 tỷ đồng) chưa phát sinh. 
+LN trước dự phòng 
+6.054 
+12% 
+16% 
+22% 
+ 
+CP DPRR tín dụng 
+-686 
+-65% 
+10% 
+25% 
+• 
+CP tín dụng (trượt 12 tháng) 0,6%, duy trì ổn định QoQ và giảm 20bps 
+YoY do ảnh hưởng của tăng cường trích lập dự phòng trong 4Q25. 
+• 
+Bao gồm 259 tỷ đồng CP dự phòng theo NĐ 86/2024. 
+LNTT 
+5.368 
+55% 
+17% 
+22% 
+• 
+Hoàn thành 24% kế hoạch năm và 98% dự phóng trước đó của chúng tôi. 
+• 
+Lợi nhuận từ các công ty con tăng trưởng mạnh, đạt mức tăng 92% YoY, 
+chủ yếu nhờ hiệu quả của ACBS. 
+• 
+Tỷ lệ đóng góp LNTT từ các công ty con đã tăng từ 5% trong quý gần nhất 
+lên 8%. 
+·   Ngân hàng mẹ 
+4.911 
+60% 
+11% 
+ 
+ 
+·   ACBS  
+(gồm TN toàn diện khác) 
+303 
+-12% 
+67% 
+ 
+• 
+Doanh thu DV môi giới và cho vay ký quỹ tăng trưởng lần lượt 68% YoY 
+và 82% YoY.  
+ROAE (TTM-%) 
+17,5 
+-5 bps 
+-296 bps 
+ 
+ 
+ROAA (TTM-%) 
+1,7 
+4 bps 
+-35 bps 
+ 
+ 
+BVPS (VNĐ) 
+19.225 
+4% 
+-1% 
+ 
+ 
+EPS cơ bản (VNĐ) 
+3.167 
+4% 
+-2% 
+ 
+ 
+P/B (lần)* 
+1,15 
+ 
+ 
+ 
+ 
+P/E (lần)* 
+7,0 
+ 
+ 
+ 
+ 
+CIR hợp nhất (TTM-%) 
+31,9 
+-46 bps 
+-70 bps 
+ 
+ 
+Nguồn: ACB, ACBS, CTCK Rồng Việt *Dữ liệu tại ngày 19/6/2026 
+Bảng 2: Các chỉ số tăng trưởng tín dụng/huy động 
+Chỉ tiêu 
+Số dư 
+1Q26 (tỷ 
+VNĐ) 
+1Q26 
+YTD % 
+1Q26 
+YoY % 
+Chú thích/Nhận định 
+Tín dụng hợp nhất  
+710.800 
+3,2 
+18,7 
+ 
+·    Ngân hàng mẹ 
+688.100 
+2,8 
+17,2 
+• Tận dụng hết hạn mức đã được khống chế trong 1Q26. 
+• Động lực tăng trưởng chính là tín dụng doanh nghiệp (+6,0% YTD trong khi tín 
+dụng KH cá nhân tăng chậm 0,8% YTD, nhưng được tái cấu trúc danh mục cho vay 
+nhằm nâng cao hiệu quả sinh lời. 
+• Dư nợ cho vay bất động sản đến cuối quý 1 là 154.000 tỷ đồng, chiếm 22% tổng dư 
+nợ, tăng 2,5% YTD. Trong đó 79% dư nợ BĐS dành cho vay mua nhà (tăng trưởng 
+3% YTD), 21% là cho vay KD BĐS (đi ngang so với 4Q25). 
+·    KH cá nhân 
+409.100 
+0,8 
+10,2 
+• Tăng trưởng tín dụng cá nhân thấp nhưng có sự tái cấu trúc sang các sản phẩm có 
+biên lợi nhuận cao như: cho vay mua nhà (+3% YTD) và cho vay tiêu dùng (+12% 
+YTD). 
+·    SME 
+179.800 
+1,6 
+14,5 
+ 
+·    Doanh nghiệp lớn 
+99.700 
+14,8 
+69,9 
+• Động lực chính là tăng trưởng tín dụng doanh nghiệp với mũi nhọn là các ngành 
+thương mại và sản xuất. 
+·    ACBS 
+21.800 
+20,1 
+115,1 
+ 
+·    Cho vay ký quỹ 
+19.600 
+12,8 
+107,6
+
+ACB | Cập nhật KQKD 
+Vui lòng xem những công bố thông tin quan trọng ở phần cuối báo cáo này 
+                                                           BLOOMBERG VDSC <GO> 
+3 
+ 
+ 
+·    TPDN 
+2.200 
+178,8 
+216,6 
+ 
+Huy động NH mẹ 
+726.000 
+0,7 
+9,0 
+• Tình hình thanh khoản suy giảm so với quý trước khi huy động tăng trưởng 
+chậm hơn đáng kể so với tín dụng, chịu ảnh hưởng của huy động tiền gửi KH 
+suy giảm. 
+• Tỷ lệ LDR và vốn ngắn hạn cho vay trung dài hạn tăng nhẹ so với quý trước lên 81% 
+(từ 79%) và 24,9% (từ 24,4%). 
+• Tỷ lệ dự trữ thanh khoản giảm xuống 11,6% từ 14,7% trong quý trước. 
+·    Tiền gửi 
+570.300 
+-3,0 
+3,3 
+• Tiền gửi khách hàng tăng trưởng âm do áp lực cạnh tranh và xu hướng KH chuyển 
+dịch từ sản phẩm tiền gửi truyền thống sang các sản phẩm linh hoạt hơn như 
+chứng chỉ tiền gửi và giấy tờ có giá. 
+• Tỷ lệ CASA đi ngang so với quý trước ở mức 21,8%, mức cao trong các ngân hàng 
+định hướng bán lẻ.  
+·    Giấy tờ có giá 
+155.800 
+17,0 
+36,6 
+• ACB đã phát hành chứng chỉ tiền gửi thu hút khoảng 15.000 tỷ đồng, giúp bù đắp 
+tăng trưởng âm của tiền gửi. 
+Nguồn: ACB, ACBS, CTCK Rồng Việt 
+Hình 1: TTTD KH doanh nghiệp tiếp tục dẫn dắt tăng trưởng 
+chung trong khi ACB chưa đẩy mạnh tăng trưởng danh mục 
+bán lẻ mà chú trọng hơn vào tái cấu trúc 
+ 
+Hình 2: Quy mô cho vay ký quỹ và đầu tư TPDN của ACBS duy 
+trì đà tăng trưởng mạnh trong 1Q26 dù chưa tăng thêm VĐL 
+trong 1 năm qua 
+ 
+Nguồn: ACB, CTCK Rồng Việt 
+ 
+Nguồn: ACB, CTCK Rồng Việt 
+Hình 3: Tăng trưởng huy động (ngân hàng mẹ) 1Q26 chậm  
+nhất trong nhiều khi huy động tiền gửi tăng trưởng âm 3,0% 
+ 
+Hình 4: Tình trạng thanh khoản suy giảm trong 1Q26 sau khi 
+tăng trưởng huy động tiếp tục tăng trưởng chậm hơn tương 
+đối so với tín dụng 
+ 
+ 
+ 
+Nguồn: ACB, CTCK Rồng Việt 
+ 
+Nguồn: ACB, CTCK Rồng Việt 
+Khả năng sinh lời tiếp tục giảm nhẹ với biên lãi ròng NIM (Q) giảm hơn 15bps QoQ xuống 2,8%. Áp lực chi phí vốn gia tăng nhanh 
+chóng trong 1Q26 (tăng gần 40bps QoQ lên 4,5%). Điều này do tăng cường huy động từ GTCG (chi phí bình quân tăng 55bps QoQ lên gần 
+6,0%) khi huy động tiền gửi thị trường 1 gặp khó khăn dù lãi suất huy động cũng đã tăng nhanh từ cuối 2025 (tăng 30bps QoQ lên 4,15%). 
+Lãi suất cho vay cũng được điều chỉnh tăng để hạn chế ảnh hưởng của chi phí vốn, tuy nhiên mức độ tăng của lợi suất tài sản bình quân 
+chỉ tăng gần 20bps.  
+0,8
+5,9
+2,8
+-5,0
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+30,0
+1Q22
+2Q22
+3Q22
+4Q22
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+TTTD KH cá nhân
+TTTD KH doanh nghiệp
+TTTD chung (YTD %-RHS)
+20,1
+-100,0
+-50,0
+0,0
+50,0
+100,0
+150,0
+0
+5.000
+10.000
+15.000
+20.000
+25.000
+1Q22
+2Q22
+3Q22
+4Q22
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+Cho vay ký quỹ (Tỷ VNĐ)
+Đầu tư TPDN (Tỷ VNĐ)
+Tăng trưởng tín dụng (YTD %-RHS)
+0,7
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+-10,0
+-8,0
+-6,0
+-4,0
+-2,0
+0,0
+2,0
+4,0
+6,0
+1Q22
+2Q22
+3Q22
+4Q22
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+Chênh lệch so với TTTD (ppt)
+Tăng trưởng huy động (YTD %-RHS)
+10,0
+15,0
+20,0
+25,0
+30,0
+70,0
+75,0
+80,0
+85,0
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+LDR (%)
+Vốn ngắn hạn cho vay TDH (%-RHS)
+Tỷ lệ dự trữ thanh khoản (%-RHS)
+
+ACB | Cập nhật KQKD 
+Vui lòng xem những công bố thông tin quan trọng ở phần cuối báo cáo này 
+                                                           BLOOMBERG VDSC <GO> 
+4 
+ 
+ 
+Hình 5: NIM hợp nhất 1Q26 tiếp tục giảm 15bps QoQ trước 
+sức ép của chi phí vốn 
+ 
+Hình 6: Chi phí vốn tăng gần 40bps do gia tăng huy động 
+GTCG với chi phí cao để bù đắp cho suy giảm huy động tiền 
+gửi 
+ 
+Nguồn: ACB, CTCK Rồng Việt 
+ 
+Nguồn: ACB, CTCK Rồng Việt 
+Về chất lượng tài sản, ACB tiếp tục kiểm soát tỷ lệ nợ xấu (NPL) ở mức thấp dưới 1% và tỉ lệ bao phủ nợ xấu 112%, thuộc nhóm ngân hàng 
+tư nhân có chất lượng tài sản tốt nhất thị trường. Nợ nhóm 2 tăng nhẹ 30bps lên 0,7% chủ yếu do ảnh hưởng từ CIC và trong tầm kiểm soát 
+của ngân hàng, không tập trung rủi ro ở phân khúc cụ thể nào. Tỷ lệ nợ xấu của cho vay BĐS 1,11%, giảm so với mức 1,33% cuối năm 2025. 
+Hình 7: Tỷ lệ nợ xấu 1Q26 ổn định dưới 1% dù nợ xấu hình 
+thành ròng có bật tăng trở lại do yếu tố mùa vụ 
+ 
+Hình 8: Tỷ lệ bao phủ nợ xấu LLR 1Q26 ổn định so với quý trước 
+khi CP DPRR tín dụng tương đương nợ xấu hình thành ròng 
+ 
+Nguồn: ACB, CTCK Rồng Việt 
+ 
+Nguồn: ACB, CTCK Rồng Việt 
+Hình 9: Quy mô và tỷ lệ nợ nhóm 2 đều tăng mạnh trở lại là 
+một yếu tố cần theo dõi 
+ 
+Hình 10: Tỷ lệ bao phủ nợ nhóm 2-nhóm 5 giảm trong 1Q26 khi 
+nợ nhóm 2 tăng vọt 
+ 
+Nguồn: ACB, CTCK Rồng Việt 
+ 
+Nguồn: ACB, CTCK Rồng Việt 
+4,2 4,3 4,5 4,5 4,2 4,1 4,0 3,8 3,8 3,9 3,6 3,5 2,9 3,0 2,9 2,9 2,8
+2,0
+2,5
+3,0
+3,5
+4,0
+4,5
+5,0
+0,0
+2,0
+4,0
+6,0
+8,0
+10,0
+1Q22
+2Q22
+3Q22
+4Q22
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+NIM (%-RHS)
+Lợi suất tài sản (%)
+Chi phí vốn (%)
+4,46
+10,0
+15,0
+20,0
+25,0
+30,0
+0,0
+2,5
+5,0
+7,5
+1Q22
+2Q22
+3Q22
+4Q22
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+CP huy động tiền gửi KH (%)
+Chi phí vốn (%)
+CP huy động GTCG (%)
+Tỷ lệ CASA (%-RHS)
+0,0
+0,5
+1,0
+1,5
+2,0
+-500
+0
+500
+1.000
+1.500
+2.000
+1Q22
+2Q22
+3Q22
+4Q22
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+Tỷ VNĐ
+NPL hình thành ròng
+Xử lý rủi ro
+Tỷ lệ NPL (%-RHS)
+0,0
+50,0
+100,0
+150,0
+200,0
+-500
+0
+500
+1.000
+1.500
+2.000
+2.500
+1Q22
+2Q22
+3Q22
+4Q22
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+Tỷ VNĐ
+NPL hình thành ròng
+CP trích lập dự phòng
+Tỷ lệ LLR (%-RHS)
+0,0
+0,2
+0,4
+0,6
+0,8
+1,0
+-2.500
+-500
+1.500
+3.500
+5.500
+1Q22
+2Q22
+3Q22
+4Q22
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+Tỷ VNĐ
+Nợ nhóm 2
+Tỷ lệ nợ nhóm 2 (%-RHS)
+12412396 90 61 59 56 59 51 57 57 59 49 55 59
+83 66
+0
+5.000
+10.000
+15.000
+1Q22
+2Q22
+3Q22
+4Q22
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+Tỷ VNĐ
+Nợ nhóm 2
+Nợ xấu
+Dự phòng cho vay KH và tỷ lệ bao phủ nợ nhóm 2-5 (%)
+
+ACB | Cập nhật KQKD 
+Vui lòng xem những công bố thông tin quan trọng ở phần cuối báo cáo này 
+                                                           BLOOMBERG VDSC <GO> 
+5 
+ 
+ 
+Dự phóng KQKD 2Q26: Tăng trưởng lợi nhuận chậm lại do hiệu ứng nền cao, song LNTT 1H26 vẫn duy trì đà tăng hai chữ số 
+Bảng 3: Dự phóng KQKD 2Q26 và 1H26 của ACB 
+Đơn vị: Tỷ VNĐ 
+2Q26 E 
+QoQ 
+YoY 
+1H26 E 
+YoY 
+Hoàn thành 
+2026F 
+Chú thích 
+TN lãi thuần 
+7.440 
+6% 
+11% 
+14.429 
+11% 
+43% 
+• Tăng trưởng tín dụng: Chúng tôi dự phóng tăng trưởng 
+tín dụng 2Q26 đạt khoảng 6,5% YTD (tương đương +16% 
+YoY), cải thiện đáng kể so với mức 3,2% YTD ghi nhận trong 
+1Q26, nhưng vẫn thấp hơn nền cùng kỳ 2Q25 (9,2% YTD). 
+Diễn biến này phản ánh nhịp giải ngân tín dụng thường 
+tăng tốc trong quý II so với quý I, dù tốc độ tăng trưởng cả 
+năm 2026 được kỳ vọng giảm tốc so với 2025 trong bối 
+cảnh lãi suất cho vay đang trong xu hướng tăng. 
+• NIM: chúng tôi dự phóng NIM 2Q26 nhích nhẹ gần 10bps 
+QoQ lên 2,90% – cải thiện so với mức đáy 2,77% của 1Q26 
+khi ngân hàng dịch chuyển danh mục cho vay sang các 
+phân khúc có lợi suất cao hơn. Tuy vậy, so với cùng kỳ, NIM 
+vẫn thấp hơn khoảng 10bps YoY do mặt bằng chi phí vốn 
+nhìn chung vẫn cao hơn đáng kể so với 2Q25. 
+TN ngoài lãi 
+2.200 
+15% 
+-16% 
+4.116 
+-1% 
+51% 
+• Thu nhập ngoài lãi dự kiến là điểm trừ chính trong quý này 
+do nền cao của các cấu phần thu nhập từ kinh doanh ngoại 
+hối, mua/bán CKĐT và thu nhập khác, dù thu nhập phí dịch 
+vụ cốt lõi (thẻ, bancassurance, thanh toán quốc tế) được kỳ 
+vọng tiếp tục đóng góp tích cực. 
+• Chúng tôi lưu ý trong 2Q25, ACB ghi nhận khoản thu nhập 
+bất thường từ thu hồi tiền gửi tại VCBNeo (tiền gửi gốc 400 
+tỷ đồng) cùng với kết quả kinh doanh ngoại hối và đầu tư 
+tích cực nhờ điều kiện thị trường thuận lợi.  
+Tổng TNHĐ 
+9.640 
+8% 
+4% 
+18.545 
+8% 
+45% 
+• Nền cao của TN ngoài lãi kéo tốc độ tăng trưởng YoY của 
+tổng thu nhập hoạt động trong 2Q26 chậm lại đáng kể. 
+CP hoạt động 
+-2.796 
+-2% 
+2% 
+-5.646 
+4% 
+39% 
+• Tỷ lệ CIR lũy kế 12 tháng dự phóng đạt 31,7% (-90bps YoY). 
+• Chúng tôi kỳ vọng ACB bắt đầu hạch toán phần lớn chi phí 
+đầu tư các dự án ngân hàng số trong nửa sau 2026. 
+LN trước dự phòng 
+6.844 
+13% 
+4% 
+12.899 
+10% 
+48% 
+ 
+CP DPRR tín dụng 
+-458 
+-33% 
+-1% 
+-1.144 
+5% 
+41% 
+• Giả định chi phí tín dụng (Q) là 0,06%, bình thường hóa so 
+với 1Q26 (0,1%) và đi ngang so với cùng kỳ 2025. 
+LNTT 
+6.387 
+19% 
+5% 
+11.755 
+10% 
+48% 
+• Mặc dù tăng trưởng doanh thu chậm lại, LNTT 2Q26 được 
+dự phóng vẫn tăng khoảng 5% YoY, nhờ ngân hàng tiếp 
+tục tiết giảm chi phí hoạt động và duy trì kiểm soát tốt chi 
+phí tín dụng – phù hợp với chiến lược quản trị rủi ro thận 
+trọng và chất lượng tài sản ổn định (NPL dưới 1%) đã thể 
+hiện xuyên suốt từ 1Q26. Với kết quả này, LNTT lũy kế 
+1H26 dự kiến đạt mức tăng trưởng khoảng 10% YoY, tiếp 
+nối đà phục hồi tích cực sau giai đoạn trích lập dự phòng 
+đột biến trong 4Q25. 
+LNST-CĐM 
+5.112 
+18% 
+5% 
+9.432 
+10% 
+49% 
+ 
+ROAE (%) 
+17,3 
+-24 bps 
+-369 bps 
+ 
+ 
+ 
+ 
+GTSS/cp (VNĐ) 
+17.894 
+-7% 
+5% 
+ 
+ 
+ 
+ 
+EPS (VNĐ) 
+2.842 
+-10% 
+-14% 
+ 
+ 
+ 
+ 
+P/B* 
+1,24 
+ 
+ 
+ 
+ 
+ 
+ 
+P/E* 
+7,81 
+ 
+ 
+ 
+ 
+ 
+ 
+Nguồn: ACB, CTCK Rồng Việt *Dữ liệu tại ngày 19/6/2026
+
+ACB | Cập nhật KQKD 
+Vui lòng xem những công bố thông tin quan trọng ở phần cuối báo cáo này 
+                                                           BLOOMBERG VDSC <GO> 
+6 
+ 
+ 
+Cập nhật dự phóng 2026F: Cải thiện biên lợi nhuận, đa dạng hóa thu nhập phí và duy trì chất lượng tài sản tốt 
+Bảng 4: Dự phóng KQKD 2026F 
+Đơn vị: Tỷ VNĐ 
+2026F 
+YoY 
+Giả định/Chú thích 
+Thu nhập lãi thuần 
+33.330 
+24% 
+• Tăng trưởng tín dụng: Chúng tôi kỳ vọng tăng trưởng tín dụng giảm tốc xuống 15,2% (2025: 
+17,5%), chủ yếu do nhu cầu tín dụng chịu ảnh hưởng bởi biến động tăng mạnh của lãi suất cho 
+vay. Phân khúc KH doanh nghiệp lớn và FDI kỳ vọng tiếp tục phát triển mạnh trong năm 2026 
+sau khi đã định hình được chiến lược kinh doanh, bên cạnh việc mở rộng đầu tư vào TPDN.  
+• NIM: Chúng tôi kỳ vọng NIM cải thiện lên 3,1% (+20% bps YoY) nhờ (1) nâng cao lợi suất cho vay 
+trong bối cảnh chịu ít áp lực cạnh tranh từ nhóm các ngân hàng quốc doanh và (2) gia tăng tỷ 
+trọng các khoản vay trung dài hạn, (3) kiểm soát chi phí vốn thông qua gia tăng tỷ lệ CASA ở 
+phân khúc KH doanh nghiệp lớn. 
+Thu nhập ngoài lãi 
+8.061 
+19% 
+• Thu nhập từ phí thuần dự phóng tăng trưởng 20% (mục tiêu của ACB là 25%), chủ yếu dựa trên 
+sự phục hồi của hoạt động bán bảo hiểm kết hợp với mở rộng mảng bảo hiểm phi nhân thọ (ACB 
+Insurance đang chờ cấp phép kinh doanh và dự kiến hoạt động chính thức từ giữa năm nay). 
+Triển vọng tăng trưởng của thu nhập từ phí tại ACBS cũng khả quan nhờ đa dạng danh mục các 
+sản phẩm đầu tư (giấy tờ có giá và chứng chỉ quỹ). 
+• Chúng tôi chưa phản ánh hoạt động kinh doanh vàng vật chất trong năm nay. 
+Tổng thu nhập hoạt động 
+41.391 
+22% 
+ 
+CP hoạt động 
+-14.347 
+31% 
+ 
+LN trước dự phòng 
+27.044 
+18% 
+ 
+CP dự phòng rủi ro tín dụng 
+-2.794 
+-16% 
+ 
+LNTT 
+24.249 
+24% 
+• ACB đặt mục tiêu LNTT 22.300 tỷ đồng, tăng trưởng 14% YoY 
+LNST-CĐM 
+19.387 
+24% 
+ 
+NIM (%) 
+3,11 
+20 bps 
+ 
+Lợi suất tài sản bq (%) 
+7,41 
+107 bps 
+ 
+Chi phí vốn bq (%) 
+4,75 
+93 bps 
+ 
+CIR (%) 
+34,7 
+234 bps 
+• Tỷ lệ CIR dự kiến tăng mạnh do triển khai đồng loạt nhiều sáng kiến, đầu tư công nghệ phục vụ 
+chuyển đổi số trong năm 2026. 
+NPL (%) 
+1,1 
+11 bps 
+• ACB đặt mục tiêu kiểm soát tỷ lệ nợ xấu dưới 1,2%. 
+NPL hình thành ròng (%) 
+0,4 
+28 bps 
+• Chúng tôi diều chỉnh tăng tỷ lệ nợ xấu hình thành ròng để phản ánh rủi ro về chất lượng tài sản 
+sau diễn biến tăng của lãi suất cho vay trong năm 2026.  
+Chi phí tín dụng (%) 
+0,4 
+-11 bps 
+ 
+LLR (%) 
+114 
+-64 bps 
+ 
+ROAE (%) 
+18,9 
+138 bps 
+ 
+ROAA (%) 
+1,8 
+11 bps 
+ 
+EPS (VNĐ) 
+3.319 
+9% 
+ 
+BVPS (VNĐ) 
+18.983 
+3% 
+ 
+P/B* 
+1,1 
+ 
+ 
+P/E* 
+6,3 
+ 
+ 
+Nguồn: ACB, CTCK Rồng Việt *Dữ liệu tại ngày 19/6/2026
+
+ACB | Cập nhật KQKD 
+Vui lòng xem những công bố thông tin quan trọng ở phần cuối báo cáo này 
+                                                           BLOOMBERG VDSC <GO> 
+7 
+ 
+ 
+Phụ lục 
+Bảng 5: Kết quả kinh doanh Q1/2026 
+Chỉ tiêu (tỷ đồng) 
+Q1-FY26 
+Q4-FY25 
++/-(qoq) 
+Q1-FY25 
++/-(yoy) 
+Thu nhập lãi 
+17.220 
+16.080 
+7,1% 
+13.327 
+29,2% 
+Chi phí lãi 
+-10.231 
+-8.987 
+13,8% 
+-6.968 
+46,8% 
+Thu nhập lãi thuần 
+6.989 
+7.093 
+-1,5% 
+6.359 
+9,9% 
+Thu nhập ngoài lãi 
+1.916 
+1.113 
+72,1% 
+1.556 
+23,1% 
+TN từ HĐ Dịch vụ 
+993 
+894 
+11,0% 
+872 
+13,8% 
+TN từ HĐKD ngoại hối, vàng 
+483 
+137 
+252,1% 
+476 
+1,5% 
+ TN từ mua-bán CK kinh doanh 
+186 
+47 
+298,5% 
+24 
+679,7% 
+TN từ mua-bán CK đầu tư 
+-1 
+-48 
+-98,8% 
+-1 
+- 
+ TN từ HĐ khác 
+230 
+43 
+428,7% 
+182 
+25,9% 
+ TN từ góp vốn, mua cổ phần 
+25 
+39 
+-36,1% 
+3 
+688,9% 
+ Tổng thu nhập hoạt động 
+8.905 
+8.206 
+8,5% 
+7.915 
+12,5% 
+ Chi phí hoạt động 
+-2.851 
+-2.782 
+2,4% 
+-2.692 
+5,9% 
+ LN trước chi phí DPRR 
+6.054 
+5.424 
+11,6% 
+5.223 
+15,9% 
+ Chi phí DPRR 
+-686 
+-1.957 
+-64,9% 
+-626 
+9,6% 
+ Lợi nhuận trước thuế 
+5.368 
+3.467 
+54,8% 
+4.597 
+16,8% 
+ Thuế TNDN 
+-1.048 
+-682 
+53,6% 
+-918 
+14,1% 
+ Lợi nhuận sau thuế cho CĐ công ty mẹ 
+4.320 
+2.785 
+55,1% 
+3.678 
+17,5% 
+Nguồn: ACB, CTCK Rồng Việt 
+ 
+ 
+ 
+ 
+ 
+Bảng 6: Phân tích HĐKD Q1/2026 
+Chỉ tiêu (%) 
+Q1-FY26 
+Q4-FY25 
++/-(qoq) 
+Q1-FY25 
++/-(yoy) 
+Khả năng sinh lời (TTM) 
+ 
+ 
+ 
+ 
+ 
+NIM 
+2,92 
+2,90 
+1 bps 
+3,46 
+-54 bps 
+CIR 
+31,9 
+32,3 
+-46 bps 
+32,6 
+-70 bps 
+ROAE 
+17,5 
+17,6 
+-5 bps 
+20,5 
+-296 bps 
+ROAA 
+1,7 
+1,7 
+4 bps 
+2,0 
+-35 bps 
+Chất lượng tài sản 
+ 
+ 
+ 
+ 
+ 
+Tỷ lệ nợ xấu cho vay KH 
+0,97 
+0,97 
+0 bps 
+1,48 
+-51 bps 
+Dự phòng/Nợ xấu 
+114 
+114 
+-32 bps 
+72 
+4.189 bps 
+Tỷ lệ an toàn hoạt động 
+ 
+ 
+ 
+ 
+ 
+VCSH/Tổng tài sản 
+9,6 
+9,2 
+37 bps 
+9,8 
+-19 bps 
+Tổng cho vay*/TTS 
+80,8 
+80,8 
+-4 bps 
+80,9 
+-16 bps 
+ LDR 
+81,0 
+79,1 
+190 bps 
+79,8 
+120 bps 
+Nguồn: ACB, CTCK Rồng Việt | *Cho vay KH + TCTD
+
+ACB | Cập nhật KQKD 
+Vui lòng xem những công bố thông tin quan trọng ở phần cuối báo cáo này 
+                                                           BLOOMBERG VDSC <GO> 
+8 
+ 
+ 
+Hình 11: Định giá ACB bật tăng trở lại về gần mức TB 5 năm (~1,4 lần) sau khi chạm mức dưới 1 
+độ lệch chuẩn so với TB 5 năm (~1,1 lần) 
+ 
+Nguồn: Bloomberg, CTCK Rồng Việt  | Dữ liệu tới ngày 17/6/2026 
+Hình 12: Định giá hiện tại của các ngân hàng trong danh mục 
+theo dõi so với mức cao/thấp nhất trong 3 năm 
+ 
+Hình 13: Tương quan định giá P/B trượt hiện tại của các ngân 
+hàng trong danh mục và ROE 1Q26 
+ 
+Nguồn: Bloomberg, CTCK Rồng Việt | Dữ liệu tại ngày 17/6/2026 
+ 
+Nguồn: Bloomberg, CTCK Rồng Việt | Dữ liệu tại ngày 17/6/2026 
+ 
+ 
+ 
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+30,0
+0,00
+0,50
+1,00
+1,50
+2,00
+2,50
+3,00
+Dec-16
+Dec-17
+Dec-18
+Dec-19
+Dec-20
+Dec-21
+Dec-22
+Dec-23
+Dec-24
+Dec-25
+P.B
+5Y Avg
++1 STD
++2 STD
+-1 STD
+-2 STD
+ROE
+1,7
+1,4
+2,2
+1,4
+1,3
+1,2
+1,3
+1,6
+1,1
+1,1
+1,0
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+4,0
+BID
+CTG
+VCB
+MBB
+TCB
+VPB
+ACB
+HDB
+VIB
+MSB
+OCB
+P/B Hiện tại
+Max 3Y
+Min 3Y
+BID
+CTG
+VCB
+MBB
+TCB
+VPB
+ACB
+HDB
+VIB
+MSB
+OCB
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+30,0
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+ROE (%)
+P/B (x)
+
+ACB | Cập nhật KQKD 
+Vui lòng xem những công bố thông tin quan trọng ở phần cuối báo cáo này 
+                                                           BLOOMBERG VDSC <GO> 
+9 
+ 
+ 
+tỷ đồng  
+ 
+tỷ đồng 
+KQ HĐKD 
+FY2024A 
+FY2025A 
+FY2026F 
+FY2027F 
+ BẢNG CĐKT 
+FY2024A FY2025A FY2026F 
+FY2027F 
+Thu nhập lãi 
+50.903 
+58.756 
+79.450 
+92.676 
+ Tiền mặt 
+5.696 
+8.625 
+4.556 
+4.782 
+Chi phí lãi 
+-23.108 
+-31.850 
+-46.119 
+-52.541 
+ Tiền gửi tại NHNN Việt Nam 
+25.220 
+16.575 
+20.715 
+29.904 
+Thu nhập lãi thuần 
+27.795 
+26.906 
+33.330 
+40.135 
+ Tiền gửi tại các TCTD khác và cho 
+vay các TCTD khác 
+117.882 
+149.991 
+176.989 
+205.307 
+Thu nhập ngoài lãi 
+99.707 
+96.179 
+117.516 
+147.939 
+ Chứng khoán kinh doanh 
+3.881 
+6.545 
+7.605 
+8.171 
+Từ HĐ dịch vụ 
+3.239 
+3.147 
+3.776 
+4.343 
+ Các công cụ TCPS và TSTC khác 
+56 
+324 
+0 
+0 
+Từ HĐ KD ngoại hối 
+1.171 
+1.732 
+1.905 
+2.286 
+ Cho vay khách hàng 
+573.947 
+679.153 
+780.778 
+910.200 
+Từ mua bán CK KD 
+200 
+474 
+371 
+465 
+ Chứng khoán đầu tư 
+121.090 
+144.164 
+154.363 
+164.670 
+Từ mua bán CK đầu tư 
+450 
+397 
+515 
+553 
+ Góp vốn, đầu tư dài hạn 
+125 
+75 
+85 
+98 
+Từ HĐ khác 
+624 
+1.023 
+1.409 
+1.981 
+ Tài sản cố định 
+5.412 
+5.439 
+6.752 
+7.466 
+Tổng TN hoạt động 
+33.515 
+33.798 
+41.391 
+49.851 
+ Bất động sản đầu tư 
+177 
+150 
+150 
+150 
+Chi phí hoạt động 
+-10.903 
+-10.924 
+-14.347 
+-15.975 
+ Tài sản Có khác 
+10.519 
+14.811 
+15.552 
+16.329 
+LN trước trích lập DP 
+22.612 
+22.874 
+27.044 
+33.876 
+ Tổng tài sản 
+864.006 1.025.850 1.167.545 1.347.077 
+Chi phí trích lập DP 
+-1.606 
+-3.335 
+-2.794 
+-3.172 
+ Các khoản nợ chính phủ và 
+NHNN Việt Nam 
+7.955 
+32.976 
+26.381 
+21.105 
+LNTT 
+21.006 
+19.539 
+24.249 
+30.704 
+ Tiền gửi và vay các TCTD khác 
+111.592 
+155.000 
+170.499 
+182.434 
+Thuế TNDN 
+-4.216 
+-3.914 
+-4.862 
+-6.157 
+ Tiền gửi của khách hàng 
+537.305 
+585.180 
+690.513 
+814.805 
+LNST CĐCT mẹ 
+16.790 
+15.625 
+19.387 
+24.548 
+ Phát hành giấy tờ có giá 
+101.650 
+133.294 
+146.624 
+175.949 
+ 
+ 
+ 
+ 
+% 
+ Các khoản nợ khác 
+22.014 
+24.861 
+24.861 
+24.861 
+CHỈ SỐ TÀI CHÍNH 
+FY2024A 
+FY2025A 
+FY2026F 
+FY2027F 
+ Tổng nợ phải trả 
+780.544 
+931.330 1.058.899 1.219.177 
+Tăng trưởng 
+ 
+ 
+ 
+ 
+ Vốn chủ sở hữu 
+83.462 
+94.520 
+108.646 
+127.901 
+Cho vay khách hàng 
+19,0 
+18,3 
+15,0 
+16,6 
+ Vốn của tổ chức tín dụng 
+44.938 
+51.638 
+51.638 
+51.638 
+Huy động khách hàng 
+11,3 
+8,9 
+18,0 
+18,0 
+ Quỹ của tổ chức tín dụng 
+14.790 
+17.583 
+21.049 
+25.438 
+Thu nhập lãi thuần 
+11,4 
+-3,2 
+23,9 
+20,4 
+ Chênh lệch tỷ giá hối đoái 
+0 
+0 
+0 
+0 
+Thu nhập hoạt động 
+2,3 
+0,8 
+22,5 
+20,4 
+ Chênh lệch đánh giá lại tài sản 
+0 
+0 
+0 
+0 
+LNST 
+4,6 
+-6,9 
+24,1 
+26,6 
+ Lợi nhuận chưa phân phối 
+23.734 
+25.298 
+35.959 
+50.824 
+Tổng tài sản  
+20,2 
+18,7 
+13,8 
+15,4 
+ Lợi ích của cổ đông thiểu số 
+0 
+0 
+0 
+0 
+Vốn chủ sở hữu 
+17,6 
+13,2 
+14,9 
+17,7 
+ Tổng cộng nguồn vốn 
+864.006 1.025.850 1.167.545 1.347.077 
+Khả năng sinh lợi 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+NIM 
+3,6 
+2,9 
+3,1 
+3,2 
+ Chỉ số định giá 
+FY2024A FY2025A 
+FY2026F 
+FY2027F 
+CIR 
+32,5 
+32,3 
+34,7 
+32,0 
+ EPS (đồng/cp) 
+2.761 
+2.675 
+3.319 
+4.202 
+ROAA 
+21,7 
+17,6 
+19,1 
+20,8 
+ P/E (x) 
+7,9 
+9,0 
+6,7 
+5,3 
+ROAE 
+2,1 
+1,7 
+1,8 
+2,0 
+ BV (đồng/cp) 
+13.846 
+16.284 
+18.983 
+22.185 
+Chất lượng tài sản 
+ 
+ 
+ 
+ 
+ P/B (x) 
+1,6 
+1,5 
+1,2 
+1,0 
+Tỷ lệ nợ xấu cho vay KH 
+1,5 
+1,0 
+1,1 
+1,2 
+ DPS (đồng/cp) 
+1.000 
+1.000 
+700 
+1.000 
+Dự phòng/Nợ xấu 
+1,5 
+1,0 
+1,1 
+1,2 
+ Tỷ suất cổ tức (%) 
+4,6 
+4,2 
+3,1 
+4,5 
+VCSH/Tổng tài sản 
+77,9 
+114,3 
+113,6 
+112,1 
+  
+ 
+ 
+ 
+ 
+Tỷ lệ an toàn hoạt động 
+ 
+ 
+ 
+ Mô hình định giá 
+Giá 
+Tỷ trọng 
+Bình quân 
+Cho vay/Tổng TS 
+80,1 
+80,8 
+82,0 
+82,8 
+ P/B 
+24.700 
+50% 
+12.350 
+LDR 
+78,0 
+79,1 
+79,8 
+79,9 
+ Thu nhập thặng dư 
+30.500 
+50% 
+15.250 
+CAR 
+11,7 
+12,3 
+N/a 
+N/a  
+Giá mục tiêu (đồng/cp) 
+ 
+100% 
+27.600 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lịch sử định giá 
+Giá mục tiêu 
+Khuyến nghị 
+Thời gian 
+ 
+ 
+ 
+ 
+ 
+ Tháng 12/2025 
+28.400 
+MUA 
+Dài hạn 
+ 
+ 
+ 
+ 
+ 
+ Tháng 4/2026 
+27.400 
+MUA 
+Dài hạn
+
+ACB | Cập nhật KQKD 
+Vui lòng xem những công bố thông tin quan trọng ở phần cuối báo cáo này 
+                                                           BLOOMBERG VDSC <GO> 
+10 
+ 
+ 
+BÁO CÁO CẬP NHẬT KẾT QUẢ KINH DOANH  
+Báo cáo này được lập nhằm mục đích cung cấp cho nhà đầu tư một góc nhìn về doanh nghiệp và hỗ trợ nhà đầu tư trong việc ra các quyết định đầu tư. Báo cáo 
+được lập trên cơ sở phân tích hoạt động của doanh nghiệp, dự phóng kết quả kinh doanh dựa trên những dữ liệu cập nhật nhất nhằm xác định giá trị hợp lý của 
+cổ phiếu tại thời điểm phân tích. Chúng tôi đã cố gắng chuyển tải đầy đủ những đánh giá và quan điểm của người phân tích về công ty vào báo cáo này. Nhà đầu 
+tư mong muốn tìm hiểu thêm hoặc có ý kiến phản hồi, vui lòng liên lạc với người phân tích hoặc bộ phận hỗ trợ khách hàng của chúng tôi. 
+Các loại khuyến cáo 
+Khuyến Nghị 
+MUA 
+TÍCH LŨY 
+NẮM GIỮ 
+GIẢM TỶ TRỌNG 
+BÁN 
+Tổng mức sinh lời bao gồm cổ tức trong 12 tháng 
+>20% 
+5% đến 20% 
+-5% đến 5% 
+-20% đến -5% 
+<-20% 
+Trong một số trường hợp, chúng tôi không đưa ra khuyến nghị mua/bán cụ thể mà chỉ đưa ra một số định giá tham khảo để nhà đầu tư có thêm thông tin, được 
+xếp loại khuyến nghị QUAN SÁT. 
+GIỚI THIỆU 
+CTCP Chứng Khoán Rồng Việt (viết tắt là VDSC) được thành lập vào năm 2006, được phép thực hiện đầy đủ các nghiệp vụ chứng khoán gồm: môi giới, tự doanh, 
+bảo lãnh phát hành, tư vấn tài chính và tư vấn đầu tư, lưu ký chứng khoán. VDSC đã mở rộng mạng lưới hoạt động đến các thành phố lớn trên toàn quốc. Với thành 
+phần cổ đông chiến lược cũng là đối tác lớn như Eximbank, CTCP Quản Lý Quỹ Việt Long,... cùng đội ngũ nhân viên chuyên nghiệp, năng động, VDSC có tiềm lực 
+về con người và tài chính để cung cấp cho khách hàng những sản phẩm – dịch vụ phù hợp và hiệu quả. Đặc biệt, VDSC là một trong số ít các công ty chứng khoán 
+đầu tiên quan tâm phát triển đội ngũ phân tích và ưu tiên nhiệm vụ cung cấp các báo cáo phân tích hỗ trợ thông tin hữu ích cho khách hàng. 
+Phòng Phân Tích & Tư Vấn Đầu Tư cung cấp các báo cáo về kinh tế vĩ mô và thị trường chứng khoán, về chiến lược đầu tư, các báo cáo phân tích ngành, phân tích 
+công ty và các bản tin chứng khoán hàng ngày, hàng tuần. 
+THÔNG TIN LIÊN HỆ 
+Nguyễn Thị Phương Lam 
+Giám đốc Phân tích 
+lam.ntp@vdsc.com.vn 
++ 84 28 6299 2006 (1313) 
+Đỗ Thạch Lam 
+Trưởng phòng cao cấp 
+ lam.dt@vdsc.com.vn 
++ 84 28 6299 2006 (1524) 
+ 
+ 
+Trần Thị Ngọc Hà 
+Trưởng phòng Vận hành 
+ha.ttn@vdsc.com.vn 
++ 84 28 6299 2006 (1526)
+
+ACB | Cập nhật KQKD 
+Vui lòng xem những công bố thông tin quan trọng ở phần cuối báo cáo này 
+                                                           BLOOMBERG VDSC <GO> 
+11 
+ 
+ 
+ 
+Bản báo cáo này được chuẩn bị cho mục đích duy nhất là cung cấp thông tin và không nhằm đưa ra bất kỳ đề nghị hay hướng dẫn mua bán chứng khoán cụ thể 
+nào. Các quan điểm và khuyến cáo được trình bày trong bản báo cáo này không tính đến sự khác biệt về mục tiêu, nhu cầu, chiến lược và hoàn cảnh cụ thể của 
+từng nhà đầu tư. Ngoài ra, nhà đầu tư cũng ý thức có thể có các xung đột lợi ích ảnh hưởng đến tính khách quan của bản báo cáo này. Nhà đầu tư nên xem báo cáo 
+này như một nguồn tham khảo khi đưa ra quyết định đầu tư và phải chịu toàn bộ trách nhiệm đối với quyết định đầu tư của chính mình. RongViet Securities tuyệt 
+đối không chịu trách nhiệm đối với toàn bộ hay bất kỳ thiệt hại nào, hay sự kiện bị coi là thiệt hại, đối với việc sử dụng toàn bộ hoặc từng phần thông tin hay ý kiến 
+nào của bản báo cáo này. 
+Toàn bộ các quan điểm thể hiện trong báo cáo này đều là quan điểm cá nhân của người phân tích. Không có bất kỳ một phần thu nhập nào của người phân tích 
+liên quan trực tiếp hoặc gián tiếp đến các khuyến cáo hay quan điểm cụ thể trong bản cáo cáo này. 
+Thông tin sử dụng trong báo cáo này được RongViet Securities thu thập từ những nguồn mà chúng tôi cho là đáng tin cậy. Tuy nhiên, chúng tôi không đảm bảo 
+rằng những thông tin này là hoàn chỉnh hoặc chính xác. Các quan điểm và ước tính trong đánh giá của chúng tôi có giá trị đến ngày ra báo cáo và có thể thay đối 
+mà không cần báo cáo trước.Bản báo cáo này được giữ bản quyền và là tài sản của RongViet Securities. Mọi sự sao chép, chuyển giao hoặc sửa đổi trong bất kỳ 
+trường hợp nào mà không có sự đồng ý của RongViet Securities đều trái luật, Bản quyền thuộc RongViet Securities, 2026.

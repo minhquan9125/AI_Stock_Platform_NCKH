@@ -14,11 +14,14 @@ class SSICrawler(BaseCrawler):
     official_broker = "SSI"
     base_url = "https://www.ssi.com.vn"
 
-    def search_reports(self, ticker: str, max_pages: int, limit: int | None) -> list[ReportCandidate]:
+    def search_reports(self, ticker: str, max_pages: int, target_reports: int | None) -> list[ReportCandidate]:
         found: dict[str, ReportCandidate] = {}
+        empty_pages = 0
         for page in range(1, max_pages + 1):
+            self.pages_scanned = page
             url = f"{self.base_url}/khach-hang-ca-nhan/bao-cao-cong-ty?keyword={quote(ticker)}&page={page}"
             soup = BeautifulSoup(self.client.get(url).text, "lxml")
+            before = len(found)
             for node in soup.select(".chart__content__item"):
                 title_node = node.select_one("a.titlePost")
                 download = node.select_one(".chart__content__item__time a[href]")
@@ -40,7 +43,11 @@ class SSICrawler(BaseCrawler):
                     pdf_url=pdf_url, page_text=text,
                 )
                 found[item.canonical_source_url] = item
-                if limit and len(found) >= limit: return list(found.values())
+                if target_reports and len(found) >= target_reports: return list(found.values())
+            empty_pages = empty_pages + 1 if len(found) == before else 0
+            if empty_pages >= 2:
+                self.exhausted = True
+                break
         return list(found.values())
 
     def fetch_detail(self, candidate: ReportCandidate) -> ReportCandidate:

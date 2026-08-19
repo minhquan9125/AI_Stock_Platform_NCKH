@@ -1,0 +1,946 @@
+MBS Research | BÁO CÁO CỔ PHIẾU 
+23 Tháng 07, 2026 
+ 
+ 
+1 | MBS RESEARCH   
+ 
+ 
+ 
+▪ 
+Lợi nhuận trước thuế đạt 5,367 tỷ đồng (-11.9% svck, gần như đi ngang 
+QoQ), lũy kế 6 tháng 10,735 tỷ đồng (+0.4% svck), hoàn thành 48.6% kế 
+hoạch năm 22,100 tỷ đồng. Mức đi ngang này phản ánh nền so sánh cao 
+của Q2/2025 khi ACB ghi nhận khoảng 1,000 tỷ đồng thu nhập bất thường; 
+loại trừ khoản này, ban lãnh đạo cho biết lợi nhuận lõi 6 tháng tăng khoảng 
+11% svck. Tín dụng tăng 8.6% YTD lên khoảng 748 nghìn tỷ đồng, cao hơn 
+mức 8.5% của toàn ngành, trong đó khách hàng doanh nghiệp lớn (MMLC) 
+tăng 36.1% YTD và chiếm 15% dư nợ, SME tăng 8.9% YTD, khách hàng 
+cá nhân tăng 3.7% YTD. Ban lãnh đạo cho biết tín dụng doanh nghiệp tăng 
+gần 15% và nếu loại trừ phần tái cơ cấu danh mục, tín dụng cá nhân vẫn 
+tăng khoảng 7%. 
+▪ 
+NIM quý phục hồi lên 3.03% từ 2.77% quý trước (+26 đcb QoQ theo mô 
+hình; ban lãnh đạo công bố 3.05%, +22 đcb QoQ). Động lực chính đến từ 
+tái cơ cấu danh mục sang các khoản vay có biên sinh lời cao hơn, đưa lợi 
+suất cho vay tăng 93 đcb QoQ lên 8.66%, bù đắp chi phí vốn tăng 78 đcb 
+QoQ lên 5.46%. So với cùng kỳ, chi phí vốn đã tăng 158 đcb do lãi suất 
+huy động tăng khoảng 150 đcb trong 6 tháng đầu năm. Ban lãnh đạo dự 
+NH TMCP Á Châu (HSX: ACB) 
+Analyst meeting: Cập nhật KQKD Q2/2026 và Kế 
+hoạch 2026 
+Tóm tắt KQKD Q2/26: NIM phục hồi và phí dịch vụ tăng mạnh, nhưng lợi 
+nhuận đi ngang do chi phí dự phòng theo Nghị định 86 và nền so sánh 
+cao của thu nhập bất thường 2025 
+Chỉ tiêu tài chính 
+Q2/2026 
+Q2/2025 
+% svck 
+Kế hoạch 
+2026 
+% Hoàn 
+thành KH 
+Thu nhập lãi thuần 
+ 7,785  
+ 6,684  
++16.5% 
+ 
+  
+Thu nhập ngoài lãi 
+ 1,358  
+2,609  
+-47.9% 
+ 
+  
+Tổng thu nhập hoạt 
+động  
+9,143  
+9,293  
+-1.6% 
+ 
+  
+Chi phí hoạt động 
+ (2,716) 
+ (2,736) 
+-0.7% 
+ 
+  
+LN trước dự phòng 
+6,427  
+6,556  
+-2.0% 
+ 
+  
+Chi phí dự phòng rủi ro 
+tín dụng 
+ (1,060) 
+ (463) 
++128.9% 
+ 
+  
+LN trước thuế 
+5,367  
+6,093  
+-11.9% 
+22,100 
+ 48.6% 
+LN ròng 
+4,292  
+4,881  
+-12.1% 
+ 
+  
+Tăng trưởng tín dụng 
+8.6% 
+9.2% 
+-60 đcb 
+  
+  
+Tăng trưởng huy động  
+5.8%* 
+7.1% 
+-130 đcb 
+  
+  
+NIM 
+3.03%** 
+2.98% 
++5 đcb 
+  
+  
+CIR 
+29.7% 
+29.4% 
++30 đcb 
+  
+  
+CASA 
+21.0%*** 
+21.3% 
+-30 đcb 
+  
+  
+NPL 
+1.03% 
+1.26% 
+-23 đcb 
+~ 1%****  
+  
+LLR 
+105.3% 
+76.3% 
++2,900 đcb 
+  
+  
+ROE 
+16.8% 
+21.0% 
+-420 đcb 
+  
+  
+ROA 
+1.57% 
+1.99% 
+-42 đcb 
+  
+  
+Nguồn: ACB, MBS Research.  
+(*) ACB công bố tăng trưởng huy động 8% YTD bao gồm cả giấy tờ có giá (GTCG).  
+(**) Ban lãnh đạo công bố NIM quý 3.05%, tăng 22 đcb QoQ.  
+(***) ACB công bố CASA ~22%, thuộc top 5 thị trường.  
+(****) Ban lãnh đạo dự kiến NPL cuối năm 2026 quanh 1%. 
+Chuyên viên phân tích 
+Đinh Công Luyến  
+Luyen.dinhcong@mbs.com.vn 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thông tin cổ phiếu 
+Giá hiện tại (VND) 
+22,500 
+Cao nhất 52 tuần (VND) 
+25,374 
+Thấp nhất 52 tuần (VND) 
+18,696 
+Vốn hóa (Tỷ VND) 
+130,600 
+P/E (TTM) 
+7.61 
+P/B 
+1.32 
+Tỷ suất cổ tức (%) 
+3.1% 
+Nguồn: FiinProX, MBS Research 
+ 
+ 
+Cơ cấu sở hữu (30/06/2026) 
+CTCP Thời Đại 
+4.26% 
+Đặng Ngọc Lan 
+3.50% 
+Trần Hùng Huy 
+3.43% 
+Nguyễn Đức Kiên 
+2.81% 
+Akston Investment Holdings Limited 
+2.21% 
+Nguồn: ACB, MBS Research
+
+Báo cáo cổ phiếu | 23 Tháng 07 2026 
+ 
+ 
+ 
+ 
+2 | MBS RESEARCH   
+ 
+kiến chi phí vốn chỉ tăng thêm khoảng 50 đcb trong nửa cuối năm và kỳ 
+vọng NIM giữ ổn định, có khả năng cải thiện dần. 
+▪ 
+Thu nhập ngoài lãi đạt 1,358 tỷ đồng (-47.9% svck), do Q2/2025 có nền 
+cao từ thu nhập khác và lãi từ chứng khoán đầu tư. Ngược lại, phí dịch vụ 
+thuần là điểm sáng: lũy kế 6 tháng đạt khoảng 1,818 tỷ đồng (+25% svck), 
+dẫn dắt bởi ba cấu phần chiếm khoảng 75% tổng phí — phí thẻ (32% tổng 
+phí, +20% svck), phí thanh toán quốc tế (16% tổng phí, +33% svck với 
+doanh số tăng 26%) và phí hoa hồng bảo hiểm phục hồi tăng trưởng lần 
+đầu sau nhiều năm suy giảm (+11% svck). Lãi thuần từ ngoại hối và vàng 
+đạt 293 tỷ đồng (-56.3% svck). CIR quý ở mức 29.7%, cải thiện từ 32.0% 
+quý trước; ACB đã điều chỉnh mục tiêu CIR cả năm về khoảng 32% từ mức 
+34-35% ban đầu do tiến độ giải ngân capex chiến lược chậm hơn dự kiến. 
+▪ 
+Chất lượng tài sản duy trì top đầu ngành: NPL 1.03% (+6 đcb QoQ, -23 
+đcb svck), nợ nhóm 2 ở mức 0.65%; ban lãnh đạo dự kiến NPL cuối năm 
+quanh 1%. Tỷ lệ cho vay có TSĐB 95%, trong đó 86% đảm bảo bằng bất 
+động sản; cho vay kinh doanh bất động sản chỉ chiếm 5% dư nợ. Chi phí 
+dự phòng quý tăng mạnh lên 1,060 tỷ đồng (+128.9% svck), credit cost 
+0.58%, chủ yếu do ghi nhận tác động Nghị định 86 theo lộ trình đối với các 
+khoản nợ có thời gian xử lý tài sản đảm bảo kéo dài; LLR giảm về 105.3% 
+từ 114.0% quý trước nhưng vẫn trên 100%. CAR duy trì trên 11.5% theo 
+Thông tư 14 (ACB hoàn thành áp dụng từ tháng 12/2025), cao hơn nhiều 
+mức tối thiểu 8%; LDR 84.9%. ACBS ghi nhận LNTT 6 tháng tăng khoảng 
+50% svck, tổng tài sản tăng 15%, thị phần margin xếp thứ 6 thị trường.
+
+Báo cáo cổ phiếu | 23 Tháng 07 2026 
+ 
+ 
+ 
+ 
+3 | MBS RESEARCH   
+ 
+Kế hoạch kinh doanh 2026: Tăng trưởng có chọn lọc, bảo vệ biên lãi và 
+duy trì chất lượng tài sản dẫn đầu 
+Tăng trưởng tín dụng 
+Toàn dụng hạn mức được NHNN giao; kế hoạch 
+ĐHĐCĐ 16% nhưng hạn mức chính thức chưa 
+được điều chỉnh. ACB kỳ vọng được xem xét nới 
+hạn mức nhờ xếp hạng cao và tham gia các 
+chương trình trọng điểm của Chính phủ. Chưa 
+tham gia tài trợ 18 đại dự án được loại trừ khỏi 
+hạn mức tín dụng. 
+NIM & chi phí vốn 
+NIM kỳ vọng ổn định so với 6 tháng đầu năm và 
+có khả năng cải thiện dần khi cơ cấu tín dụng dịch 
+chuyển; chi phí vốn dự kiến tăng thêm khoảng 50 
+đcb trong nửa cuối năm, thấp hơn nhiều mức tăng 
+150 đcb của 6 tháng đầu năm; CASA kỳ vọng cải 
+thiện. 
+Mục tiêu LNTT & chỉ số 
+LNTT hợp nhất kế hoạch 22,100 tỷ đồng cả năm, 
+đã hoàn thành 48.6% sau 6 tháng; ban lãnh đạo 
+tự tin hoàn thành. CIR mục tiêu khoảng 32% (điều 
+chỉnh từ 34-35%); NPL kiểm soát dưới 1.2%; phí 
+dịch vụ duy trì tăng trưởng hai chữ số. 
+An toàn vốn & công ty 
+con 
+CAR duy trì quanh 12%, đã hoàn thành Thông tư 
+14 từ 12/2025 và đang triển khai phương pháp 
+xếp hạng nội bộ (IRB). Vốn điều lệ tăng lên 58,000 
+tỷ đồng sau chia cổ tức cổ phiếu. Kế hoạch tăng 
+vốn ACBS thêm ~2,000 tỷ trong Q3/2026; ACBA 
+đã tăng ~2,000 tỷ; đầu tư ~500 tỷ vào ACB 
+Insurance đang xin giấy phép. 
+1. Triển vọng lãi suất, tỷ giá, lạm phát và thanh khoản hệ thống 
+Ban lãnh đạo đánh giá 6 tháng đầu năm có nhiều chỉ số vĩ mô tích cực: 
+GDP tăng 8.1%, tỷ giá ổn định, lạm phát 4.38% chủ yếu do yếu tố địa chính 
+trị bên ngoài. Lãi suất huy động đã tăng nhanh khoảng 150 đcb trong 6 
+tháng và dự kiến tăng nhẹ tiếp trong nửa cuối năm; tỷ giá dự báo tăng tối 
+đa khoảng 3% cả năm. Về thanh khoản, ACB cho rằng nguyên nhân đến 
+từ việc huy động và tín dụng lệch pha 3-4 năm gần đây cộng với áp lực 
+lạm phát chi phí đẩy từ giá dầu; đây không phải giai đoạn nới lỏng mà là 
+điều tiết cung tiền linh hoạt. Khác với chu kỳ 2022, lãi suất tăng lần này 
+phản ánh nhu cầu vốn tăng chứ không phải rủi ro thanh khoản hệ thống. 
+Ngân hàng kỳ vọng lãi suất đi ngang hoặc dịu bớt khi có sự phối hợp giữa 
+chính sách tiền tệ và tài khóa, đặc biệt là điều tiết lượng tiền gửi Kho bạc 
+Nhà nước. 
+2. Chiến lược huy động và dịch chuyển sang giấy tờ có giá 
+Quy mô funding tăng khoảng 8% YTD lên 776,000 tỷ đồng, trong đó tiền 
+gửi khách hàng 577,000 tỷ đồng giảm 1.5% còn giấy tờ có giá tăng gần 
+49%. Ban lãnh đạo giải thích đây là dịch chuyển bình thường của khách 
+hàng trong bối cảnh lãi suất huy động tăng liên tục, khi chứng chỉ tiền gửi 
+là sản phẩm tương đương tiền gửi thông thường nhưng có mức sinh lời 
+cao hơn và vẫn linh hoạt. ACB chủ động phát hành cho doanh nghiệp đầu 
+ngành và định chế tài chính phi ngân hàng để có nguồn trung dài hạn với 
+chi phí hợp lý hơn tiền gửi truyền thống. Ngân hàng đã công bố kế hoạch
+
+Báo cáo cổ phiếu | 23 Tháng 07 2026 
+ 
+ 
+ 
+ 
+4 | MBS RESEARCH   
+ 
+thực hiện các khoản vay offshore từ nay đến cuối năm nhằm đa dạng hóa 
+thêm nguồn vốn. 
+3. Tác động Nghị định 86 lên chi phí dự phòng 
+Nghị định 86 có hiệu lực từ tháng 7/2024, làm tăng yêu cầu trích lập đối với 
+các khoản nợ có thời gian xử lý tài sản đảm bảo kéo dài, ảnh hưởng toàn 
+hệ thống chứ không riêng ACB. Chi phí dự phòng tăng trong Q2 chủ yếu 
+phản ánh việc tiếp tục ghi nhận tác động theo lộ trình, không có biến động 
+lớn như giai đoạn đầu áp dụng. ACB đã đánh giá đầy đủ và đưa vào kế 
+hoạch tài chính ngay từ đầu năm, do đó diễn biến dự phòng 2026 vẫn nằm 
+trong dự báo. Các khoản vay chuyển nhóm 2 và quá hạn trên 2 năm trong 
+nửa cuối năm sẽ được trích lập đầy đủ theo quy định; đồng thời ngân hàng 
+sẽ đẩy mạnh thu hồi các khoản đã trích lập, nên dự kiến tổng dự phòng 
+không đột biến trong 6 tháng cuối năm. 
+4. Thông tư 25 và cơ cấu cho vay trung dài hạn 
+NHNN nâng tỷ lệ nguồn vốn ngắn hạn cho vay trung dài hạn từ 30% lên 
+40%. ACB cho biết trong hai năm gần đây đã chủ động chuyển dần từ các 
+khoản vay ngắn hạn biên sinh lời thấp sang các khoản trung dài hạn có 
+biên cao hơn, đưa tỷ lệ này từ dưới 20% lên gần 30% trong 6 tháng — 
+chính hoạt động tái cơ cấu này giúp NIM cải thiện sau khi suy giảm trong 
+năm 2025. Ngân hàng sẽ tiếp tục đẩy mạnh cho vay trung dài hạn và huy 
+động nguồn tương ứng. Riêng lĩnh vực bất động sản tăng khoảng 8% trong 
+6 tháng, tương đương mức tăng chung của danh mục; ACB cho biết vẫn 
+còn nhiều dư địa hạn mức cho lĩnh vực này. 
+Về dự thảo sửa đổi giới hạn tỷ lệ an toàn vốn, ban lãnh đạo cho biết dự 
+thảo vẫn đang trong quá trình hoàn thiện đợt ba nên chưa công bố số liệu 
+cụ thể về LCR và NSFR; ngân hàng sẽ cập nhật và thực hiện theo quy định 
+chính thức khi thông tư có hiệu lực. Về IFRS, hiện chưa có hướng dẫn cụ 
+thể từ NHNN hay Bộ Tài chính về thời điểm áp dụng, nhưng ACB đã chuẩn 
+bị nguồn lực, hệ thống và quy trình để sẵn sàng triển khai theo lộ trình. 
+5. Khẩu vị rủi ro, chiến lược 5 năm và cơ cấu cổ đông 
+(1) Khẩu vị rủi ro cốt lõi được Hội đồng quản trị phê duyệt không thay đổi 
+so với các năm trước. ACB rà soát và cập nhật thường xuyên hơn tiêu 
+chí thẩm định, bám sát dòng tiền và khả năng trả nợ, đồng thời chuẩn 
+bị kịch bản ứng phó cho các danh mục tín dụng trong tình huống bất 
+lợi. Ngân hàng khẳng định điều này không đồng nghĩa giảm tốc tăng 
+trưởng, vì vẫn còn dư địa lớn từ khách hàng bán lẻ và doanh nghiệp 
+có dòng tiền minh bạch — những phân khúc ACB có lợi thế cạnh tranh. 
+(2) Khả năng duy trì NPL thấp đến từ ba yếu tố: danh mục tín dụng phân 
+tán cao tập trung vào bán lẻ và doanh nghiệp có dòng tiền ổn định; hệ 
+thống cảnh báo sớm nhận diện rủi ro trước khi khoản vay chuyển thành 
+nợ xấu; và chủ động xử lý, thu hồi ngay từ giai đoạn đầu để hạn chế 
+tổn thất. 
+(3) Chiến lược 5 năm 2025-2030 vẫn on track với timeline hoàn thành đến 
+cuối 2027, tập trung ba nhóm vấn đề: xây dựng giải pháp tài chính đặc 
+thù cho các phân khúc bán lẻ mục tiêu và phát triển cho vay tín chấp; 
+xây dựng giải pháp theo ngành cho khối doanh nghiệp (ưu tiên bất 
+động sản khu công nghiệp, xây dựng, điện - điện tử) và SME; và đầu 
+tư nền tảng công nghệ (Core Banking, Digital Engagement Platform, 
+hạ tầng cloud). 
+(4) Về cơ cấu cổ đông, ACB là cổ phiếu ngân hàng có tỷ lệ sở hữu nước 
+ngoài cao nhất thị trường (không tính nhóm chưa mở room 30% và có 
+cổ đông chiến lược ngoại); room ngoại còn khoảng 6%, tạo dư địa cho 
+dòng vốn mới. Áp lực bán ròng từ đầu năm chủ yếu do tái cơ cấu của 
+các quỹ thụ động ETF khi Việt Nam được FTSE nâng hạng, với dòng
+
+Báo cáo cổ phiếu | 23 Tháng 07 2026 
+ 
+ 
+ 
+ 
+5 | MBS RESEARCH   
+ 
+vốn thị trường cận biên rút ra trước khi dòng vốn thị trường mới nổi 
+vào. Nhóm cổ đông Âu Lạc đã đồng hành với ACB hơn một thập kỷ với 
+vai trò nhà đầu tư tài chính; việc gia tăng sở hữu gần đây không làm 
+thay đổi cơ cấu quản trị hay tính độc lập trong điều hành. 
+(5) Moody’s đã nâng triển vọng xếp hạng của ACB từ Ổn định lên Tích 
+cực. Số lượng khách hàng active đạt khoảng 9 triệu; giao dịch e-
+banking tăng 42% svck, khách hàng mới từ kênh số tăng 43% svck, 
+người dùng hoạt động hàng tháng tăng 14% svck. 
+6. Quan điểm về tài trợ dự án hạ tầng và cơ chế loại trừ hạn mức 
+ACB xem cơ chế loại trừ 18 đại dự án khỏi hạn mức tăng trưởng tín dụng 
+là dư địa bổ sung, không phải lý do thay đổi khẩu vị rủi ro hay mở rộng tín 
+dụng bằng mọi giá; việc một khoản tài trợ có được tính vào hạn mức hay 
+không không làm thay đổi yêu cầu về thẩm định, giới hạn tín dụng, hiệu 
+quả sử dụng vốn và khả năng trả nợ. Đến thời điểm hiện tại ngân hàng 
+chưa tham gia tài trợ dự án nào trong danh mục này. Nếu tham gia, ACB 
+sẽ ưu tiên các cấu phần phù hợp thế mạnh và kiểm soát tốt như tài trợ nhà 
+thầu, nhà cung cấp, vốn lưu động, bảo lãnh, thanh toán và quản lý dòng 
+tiền; với khoản quy mô lớn sẵn sàng đồng tài trợ với các TCTD khác. Ngân 
+hàng ưu tiên tăng trưởng trên cơ sở lợi nhuận điều chỉnh theo rủi ro thay 
+vì quy mô dư nợ.
+
+Báo cáo cổ phiếu | 23 Tháng 07 2026 
+ 
+ 
+ 
+ 
+6 | MBS RESEARCH   
+ 
+Báo cáo tài chính 
+Báo cáo KQKD (tỷ đồng) 
+ 31/12/24  
+ 31/12/25  
+ 31/12/26  
+ 31/12/27  
+Tỷ số tài chính 
+31/12/24 
+31/12/25 
+31/12/26 
+31/12/27 
+Thu nhập lãi thuần 
+      27,795  
+      26,906  
+      29,381  
+      33,285  
+Tăng trưởng 
+  
+  
+  
+Lãi thuần từ Dịch vụ 
+       3,239  
+       3,147  
+       3,844  
+       4,362  
+Tổng tài sản 
+20.2% 
+18.7% 
+3.8% 
+18.4% 
+Lãi thuần từ vàng và ngoại hối 
+       1,171  
+       1,732  
+       1,699  
+       2,053  
+Cho vay và CK 
+24.2% 
+18.7% 
+2.6% 
+19.2% 
+Lãi thuần từ CKKD 
+          200  
+          474  
+          297  
+          152  
+Tiền gửi KH & GTCG 
+21.4% 
+19.5% 
+2.7% 
+18.5% 
+Lãi thuần từ CKĐT 
+          450  
+          397  
+          216  
+          379  
+LNTT 
+4.6% 
+-6.9% 
+13.5% 
+16.9% 
+Lãi thuần từ HĐ khác 
+          624  
+       1,023  
+       1,649  
+       2,497  
+  
+  
+  
+  
+  
+Tổng thu nhập hoạt động 
+      33,515  
+      33,798  
+      37,127  
+      42,770  
+An toàn vốn 
+  
+  
+  
+Chi phí hoạt động 
+      10,903  
+      10,924  
+      11,509  
+      13,259  
+CAR 
+12.4% 
+12.5% 
+N/A 
+N/A 
+Chi phí DPRRTD 
+       1,606  
+       3,335  
+       3,428  
+       3,575  
+VCSH/Tổng tài sản 
+9.8% 
+9.4% 
+9.7% 
+10.2% 
+LNTT 
+      21,006  
+      19,539  
+      22,190  
+      25,936  
+Đòn bẩy tài chính 
+    10.25  
+    10.62  
+      10.30  
+     9.79  
+Chi phí thuế TNDN 
+       4,216  
+       3,914  
+       4,454  
+       5,206  
+  
+  
+  
+  
+  
+LNST 
+      16,790  
+      15,625  
+      17,736  
+      20,730  
+Chất lượng tài sản 
+  
+  
+  
+LN cổ đông thiểu số 
+            -   
+            -   
+            -   
+            -   Tỷ lệ Nợ nhóm 3-5 
+1.5% 
+1.0% 
+1.0% 
+1.1% 
+LNST cho Ngân hàng 
+      16,790  
+      15,625  
+      17,736  
+      20,730  
+Tỷ lệ nợ nhóm 2 
+0.5% 
+0.4% 
+0.5% 
+0.4% 
+  
+  
+  
+  
+  
+Tỷ lệ bao nợ xấu (LLR) 
+77.9% 
+114.3% 
+138.6% 
+123.3% 
+Cân đối kế toán (tỷ đồng) 
+ 31/12/24  
+ 31/12/25  
+ 31/12/26  
+ 31/12/27  
+  
+  
+  
+  
+  
+Tiền và tương đương tiền 
+       5,696  
+       8,625  
+       4,555  
+       4,558  
+Khả năng thanh khoản 
+  
+  
+  
+Tiền gửi tại NHNN 
+      25,220  
+      16,575  
+      29,379  
+      30,270  
+Tỷ số cho vay/tiền gửi (LDR) 
+79.5% 
+82.0% 
+84.3% 
+84.8% 
+Tiền gửi và cho vay các TCTD 
+    117,882  
+    149,991  
+    158,154  
+    186,787  
+TS thanh khoản/TTS 
+31.7% 
+31.8% 
+26.4% 
+26.3% 
+Chứng khoán kinh doanh (CKKD) 
+       3,881  
+       6,545  
+       7,731  
+       9,173  
+TS thanh khoản/tiền gửi KH 
+41.7% 
+42.2% 
+34.9% 
+34.7% 
+Phái sinh và các CCTC khác 
+            56  
+          324  
+          324  
+          324  
+  
+  
+  
+  
+  
+Hoạt động mua nợ 
+            -   
+            -   
+            -   
+            -   Khả năng sinh lời 
+  
+  
+  
+Cho vay khách hàng 
+    580,686  
+    686,777  
+    773,143  
+    917,264  
+ROA 
+2.1% 
+1.7% 
+1.7% 
+1.8% 
+Dự phòng cho vay 
+      (6,740) 
+      (7,625) 
+     (10,797) 
+     (12,851) 
+ROE 
+21.7% 
+17.6% 
+17.5% 
+17.4% 
+Chứng khoán đầu tư 
+    121,090  
+    144,164  
+      81,205  
+    100,797  
+NIM 
+3.6% 
+2.9% 
+2.9% 
+2.9% 
+Đầu tư dài hạn khác 
+          125  
+            75  
+          222  
+          224  
+TN lãi thuần/Tổng TNHĐ 
+82.9% 
+79.6% 
+79.1% 
+77.8% 
+Tài sản cố định 
+       5,412  
+       5,439  
+       5,772  
+       5,981  
+Chi phí HĐ/Tổng TNHĐ (CIR) 
+32.5% 
+32.3% 
+31.0% 
+31.0% 
+BĐS đầu tư 
+          177  
+          150  
+          123  
+          101  
+  
+  
+  
+  
+  
+Tài sản Có khác 
+      10,519  
+      14,811  
+      14,846  
+      18,052  
+Định giá 
+  
+  
+  
+  
+TỔNG TÀI SẢN 
+    864,006  
+ 1,025,850  
+ 1,064,659  
+ 1,260,679  
+EPS cơ bản (VND) 
+    4,021  
+    3,254  
+      3,242  
+    3,247  
+  
+  
+  
+  
+  
+Giá trị sổ sách (VND) 
+  14,379  
+   16,284  
+     18,694  
+  22,240  
+Nợ NHNN, Chính phủ 
+       7,955  
+      32,976  
+       1,546  
+       4,586  
+P/E 
+6.3x 
+7.7x 
+7.8x 
+7.8x 
+Tiền gửi, vay các TCTD khác 
+    111,592  
+    155,000  
+    143,031  
+    169,660  
+P/B 
+1.6x 
+1.4x 
+1.2x 
+1.0x 
+Tiền gửi của khách hàng 
+    537,305  
+    585,180  
+    662,400  
+    781,425  
+  
+  
+  
+  
+  
+Phái sinh và các CCTC khác 
+            -   
+            -   
+            -   
+            -     
+  
+  
+  
+  
+Vốn tài trợ, ủy thác đầu tư 
+            28  
+            19  
+            -   
+            -     
+  
+  
+  
+  
+Phát hành giấy tờ có giá 
+    101,650  
+    133,294  
+    123,703  
+    146,762  
+  
+  
+  
+  
+  
+Các khoản nợ khác 
+      22,014  
+      24,861  
+      25,468  
+      29,155  
+  
+  
+  
+  
+  
+NỢ PHẢI TRẢ 
+    780,544  
+    931,330  
+    956,149  
+ 1,131,589  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+VỐN CHỦ SỞ HỮU 
+      83,462  
+      94,520  
+    108,510  
+    129,090  
+  
+  
+  
+  
+  
+Vốn điều lệ 
+      44,667  
+      51,367  
+      58,044  
+      69,653  
+  
+  
+  
+  
+  
+Thặng dư vốn cổ phần 
+          272  
+          272  
+          272  
+          272  
+  
+  
+  
+  
+  
+Cổ phiếu quỹ 
+            -   
+            -   
+            -   
+            -     
+  
+  
+  
+  
+Vốn khác 
+            -   
+            -   
+            -   
+            -     
+  
+  
+  
+  
+Quỹ của TCTD 
+      14,790  
+      17,583  
+      20,236  
+      23,366  
+  
+  
+  
+  
+  
+LN chưa phân phối 
+      23,734  
+      25,298  
+      29,959  
+      35,799  
+  
+  
+  
+  
+  
+Lợi ích CĐ không kiểm soát 
+            -   
+            -   
+            -   
+            -     
+  
+  
+  
+  
+TỔNG NỢ PHẢI TRẢ VÀ VCSH 
+    864,006  
+ 1,025,850  
+ 1,064,659  
+ 1,260,679
+
+Báo cáo cổ phiếu | 23 Tháng 07 2026 
+ 
+ 
+ 
+ 
+7 | MBS RESEARCH   
+ 
+ 
+MIỄN TRỪ TRÁCH NHIỆM 
+Báo cáo này được viết và phát hành bởi Khối Nghiên cứu - Công ty Cổ phần Chứng khoán MBS (MBS). Thông tin trình 
+bày trong báo cáo dựa trên các nguồn được cho là đáng tin cậy vào thời điểm công bố song MBS không chịu trách nhiệm
+hay bảo đảm nào về tính chính xác, tính đầy đủ, tính kịp thời của những thông tin này cho bất kỳ mục đích cụ thể nào.
+Những quan điểm trong báo cáo này không thể hiện quan điểm chung của MBS và có thể thay đổi mà không cần thông 
+báo trước. Báo cáo này được phát hành chung, bất kỳ khuyến nghị nào trong tài liệu này không liên quan đến các mục tiêu 
+đầu tư cụ thể, tình hình tài chính và nhu cầu cụ thể của bất kỳ người nhận cụ thể nào. Báo cáo này và tất cả nội dung là 
+sản phẩm sở hữu của MBS; người nhận không được phép sao chép, tái xuất bản dưới bất kỳ hình thức nào hoặc phân 
+phối lại toàn bộ hoặc một phần, cho bất kỳ mục đích nào mà không có sự đồng ý trước bằng văn bản của MBS. 
+ 
+HỆ THỐNG KHUYẾN NGHỊ ĐẦU TƯ MBS 
+Khuyến nghị đầu tư cổ phiếu 
+Khuyến nghị đầu tư của MBS được xây dựng dựa trên khả năng sinh lời dự kiến của cổ phiếu, được tính bằng tổng của (i) 
+chênh lệch phần trăm giữa giá mục tiêu và giá thị trường tại thời điểm công bố báo cáo, và (ii) tỷ suất cổ tức dự kiến. Trừ
+khi được nêu rõ trong báo cáo, các khuyến nghị đầu tư có thời hạn đầu tư là 12 tháng. 
+KHẢ QUAN                        Khả năng sinh lời của cổ phiếu từ 15% trở lên 
+TRUNG LẬP                      Khả năng sinh lời của cổ phiếu nằm trong khoảng từ -15% đến 15% 
+KÉM KHẢ QUAN               Khả năng sinh lời của cổ phiếu thấp hơn -15% 
+Khuyến nghị đầu tư ngành 
+KHẢ QUAN            Các cổ phiếu trong ngành có khuyến nghị Mua tính trên cơ sở vốn hóa thị trường gia quyền  
+TRUNG LẬP          Các cổ phiếu trong ngành có khuyến nghị Nắm giữ, tính trên cơ sở vốn hóa thị trường gia quyền  
+KÉM KHẢ QUAN   Các cổ phiếu trong ngành có khuyến nghị Bán, tính trên cơ sở vốn hóa thị trường gia quyền 
+ 
+CÔNG TY CỔ PHẦN CHỨNG KHOÁN MB (MBS) 
+Được thành lập từ tháng 5 năm 2000 bởi Ngân hàng TMCP Quân đội (MB) với tên gọi tiền thân là Công ty CP chứng khoán 
+Thăng Long, Công ty CP Chứng khoán MB (MBS) là một trong 6 công ty chứng khoán đầu tiên tại Việt Nam. Sau nhiều 
+năm phát triển, MBS đã trở thành một trong những công ty chứng khoán hàng đầu Việt Nam, liên tục đứng trong Top 10 
+thị phần tại cả hai Sở Giao dịch (Hồ Chí Minh và Hà Nội). 
+ 
+Địa chỉ:  
+Tòa nhà MB, 21 Cát Linh, Ô Chợ Dừa, Hà Nội 
+Tel: + 8424 7304 5688 - Fax: +8424 3726 2601 
+Website: www.mbs.com.vn 
+ 
+KHỐI NGHIÊN CỨU CTCP CHỨNG KHOÁN MB 
+Giám đốc Khối Nghiên cứu 
+Trưởng phòng 
+ 
+Trần Thị Khánh Hiền 
+Nguyễn Tiến Dũng 
+ 
+ 
+ 
+ 
+Vĩ mô & Chiến lược thị trường 
+Ngân hàng – Dịch vụ Tài chính 
+Bất động sản 
+Ngô Quốc Hưng 
+Đinh Công Luyến 
+Nguyễn Minh Đức 
+Nghiêm Phú Cường 
+Phạm Thị Thanh Hường 
+Lê Hải Thành 
+Đinh Hà Anh 
+ 
+ 
+Vũ Lê Giang 
+ 
+ 
+ 
+ 
+ 
+Logistic – Vật liệu cơ bản 
+Công nghiệp – Năng Lượng 
+Dịch vụ - Tiêu dùng 
+Võ Đức Anh 
+Nguyễn Hà Đức Tùng 
+Mai Duy Anh 
+Nguyễn Quỳnh Ly

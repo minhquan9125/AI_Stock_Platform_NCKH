@@ -1,0 +1,25 @@
+{
+  "ticker": "TCX",
+  "target": 100,
+  "discovered": 6,
+  "accepted_unique": 3,
+  "duplicates": 2,
+  "rejected": 1,
+  "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 0,
+  "new_accepted": 3,
+  "total_unique_reports": 3,
+  "pdf_downloaded": 2,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 2,
+    "cafef": 4
+  },
+  "skipped_processed": 0,
+  "output_jsonl": "",
+  "output_csv": ""
+}

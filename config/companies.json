@@ -1,0 +1,28 @@
+{
+  "FPT": {
+    "company_name": "Công ty Cổ phần FPT",
+    "short_name": "FPT",
+    "aliases": ["FPT", "Tập đoàn FPT", "FPT Corporation", "Công ty Cổ phần FPT", "cổ phiếu FPT", "mã FPT", "HoSE: FPT"],
+    "positive_aliases": ["Tập đoàn FPT", "FPT Corporation", "Công ty Cổ phần FPT", "cổ phiếu FPT", "mã FPT", "HoSE: FPT"],
+    "excluded_entities": {
+      "FPT Retail": "FRT",
+      "FPT Telecom": "FOX",
+      "FPT Online": "FOC",
+      "Chứng khoán FPT": "FTS"
+    }
+  },
+  "HPG": {
+    "company_name": "Công ty Cổ phần Tập đoàn Hòa Phát",
+    "short_name": "Hòa Phát",
+    "aliases": ["HPG", "Hòa Phát", "Tập đoàn Hòa Phát", "cổ phiếu HPG", "mã HPG"],
+    "positive_aliases": ["Hòa Phát", "Tập đoàn Hòa Phát", "Công ty Cổ phần Tập đoàn Hòa Phát", "cổ phiếu HPG", "mã HPG", "HoSE: HPG"],
+    "excluded_entities": {}
+  },
+  "VNM": {
+    "company_name": "Công ty Cổ phần Sữa Việt Nam",
+    "short_name": "Vinamilk",
+    "aliases": ["VNM", "Vinamilk", "Công ty Cổ phần Sữa Việt Nam", "cổ phiếu VNM", "mã VNM"],
+    "positive_aliases": ["Vinamilk", "Công ty Cổ phần Sữa Việt Nam", "cổ phiếu VNM", "mã VNM", "HoSE: VNM"],
+    "excluded_entities": {}
+  }
+}

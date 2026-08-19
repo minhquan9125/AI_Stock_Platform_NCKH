@@ -1,0 +1,25 @@
+{
+  "ticker": "VRE",
+  "target": 100,
+  "discovered": 13,
+  "accepted_unique": 11,
+  "duplicates": 0,
+  "rejected": 2,
+  "failed": 0,
+  "exhausted_sources": [
+    "vietstock",
+    "cafef"
+  ],
+  "existing_reports": 0,
+  "new_accepted": 11,
+  "total_unique_reports": 11,
+  "pdf_downloaded": 9,
+  "needs_ocr": 0,
+  "source_discovered": {
+    "vietstock": 7,
+    "cafef": 6
+  },
+  "skipped_processed": 0,
+  "output_jsonl": "",
+  "output_csv": ""
+}

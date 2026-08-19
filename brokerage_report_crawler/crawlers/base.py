@@ -10,9 +10,11 @@ class BaseCrawler(ABC):
 
     def __init__(self, client: HttpClient):
         self.client = client
+        self.exhausted = False
+        self.pages_scanned = 0
 
     @abstractmethod
-    def search_reports(self, ticker: str, max_pages: int, limit: int | None) -> list[ReportCandidate]:
+    def search_reports(self, ticker: str, max_pages: int, target_reports: int | None) -> list[ReportCandidate]:
         """Tìm và parse metadata báo cáo từ nguồn."""
 
     def fetch_detail(self, candidate: ReportCandidate) -> ReportCandidate:
